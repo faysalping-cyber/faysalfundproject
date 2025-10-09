@@ -1,0 +1,146 @@
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.deps.json
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.AssemblyReference.cache
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfoInputs.cache
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfo.cs
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFu.96186288.Up2Date
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\refint\FaysalFunds.Persistence.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\ref\FaysalFunds.Persistence.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.deps.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.AssemblyReference.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfoInputs.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfo.cs
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.CoreCompileInputs.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFu.96186288.Up2Date
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\refint\FaysalFunds.Persistence.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\ref\FaysalFunds.Persistence.dll
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.deps.json
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.AssemblyReference.cache
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfoInputs.cache
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfo.cs
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.CoreCompileInputs.cache
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFu.96186288.Up2Date
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.dll
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\refint\FaysalFunds.Persistence.dll
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\ref\FaysalFunds.Persistence.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.deps.json
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.AssemblyReference.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfoInputs.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfo.cs
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.CoreCompileInputs.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFu.96186288.Up2Date
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\refint\FaysalFunds.Persistence.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\ref\FaysalFunds.Persistence.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.deps.json
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.AssemblyReference.cache
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfoInputs.cache
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfo.cs
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFu.96186288.Up2Date
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\refint\FaysalFunds.Persistence.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\ref\FaysalFunds.Persistence.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.deps.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.AssemblyReference.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfoInputs.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.CoreCompileInputs.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFu.96186288.Up2Date
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\refint\FaysalFunds.Persistence.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\ref\FaysalFunds.Persistence.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.deps.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.AssemblyReference.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfoInputs.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.CoreCompileInputs.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFu.96186288.Up2Date
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\refint\FaysalFunds.Persistence.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\ref\FaysalFunds.Persistence.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.deps.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.AssemblyReference.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfoInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfo.cs
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.CoreCompileInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFu.96186288.Up2Date
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\refint\FaysalFunds.Persistence.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\ref\FaysalFunds.Persistence.dll

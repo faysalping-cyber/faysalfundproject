@@ -1,0 +1,971 @@
+[
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.AuthController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Auth/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "FaysalFundsWrapper.Models.ChangePasswordModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.AuthController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Auth/forgotpassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.ForgotPasswordModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.AuthController",
+    "Method": "GetDropdowns",
+    "RelativePath": "api/Auth/GetDropdowns",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/Auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Auth/refresh-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.TokenRefreshRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.AuthController",
+    "Method": "SetPassword",
+    "RelativePath": "api/Auth/SetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.SetPasswordModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.AuthController",
+    "Method": "Signup",
+    "RelativePath": "api/Auth/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.SignupRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.AuthController",
+    "Method": "UsersAppAccountVarification",
+    "RelativePath": "api/Auth/UsersAppAccountVarification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.UserDetailsVerification",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GenerateTPin",
+    "RelativePath": "api/dashboard/AddQuickAccessMenu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.QuickAccesModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "AddUserQuickAccess",
+    "RelativePath": "api/dashboard/AddUserQuickAccess",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.UserQuickAccessDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "CalculateKuickPay",
+    "RelativePath": "api/dashboard/CalculateKuickPay",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "FaysalFundsWrapper.Models.Dashboard.CalculateKuickPayLoad",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FaysalFundsWrapper.Models.ApiResponseWithData\u00601[[FaysalFundsWrapper.Models.Dashboard.CalculateKuickPayDTO, FaysalFundsWrapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GetFeaturePermissions",
+    "RelativePath": "api/dashboard/check-permissions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.Dashboard.FeaturePermissionRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "CheckBalance",
+    "RelativePath": "api/dashboard/CheckBalance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.CheckBalanceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "CheckProfit",
+    "RelativePath": "api/dashboard/CheckProfit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.CheckProfitRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "CheckRaastTransactionAllowed",
+    "RelativePath": "api/dashboard/CheckRaastTransactionAllowed",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GenerateKuickPayID",
+    "RelativePath": "api/dashboard/GenerateKuickPayID",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "FaysalFundsWrapper.Models.Dashboard.GenerateKuickPayIdDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FaysalFundsWrapper.Models.ApiResponseWithData\u00601[[FaysalFundsWrapper.Models.Dashboard.KuickPayFinalResponse, FaysalFundsWrapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GetActiveQuickAccessMenu",
+    "RelativePath": "api/dashboard/GetActiveQuickAccessMenu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GetCustomerAvailableFolio",
+    "RelativePath": "api/dashboard/GetCustomerAvailableFolio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GetInvestmentFunds",
+    "RelativePath": "api/dashboard/GetInvestmentFunds",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GetInvestmentInstructions",
+    "RelativePath": "api/dashboard/GetInvestmentInstructions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GetKuickPayChanges",
+    "RelativePath": "api/dashboard/GetKuickPayCharges",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GetTransactionFeatureById",
+    "RelativePath": "api/dashboard/GetTransactionFeatureById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.Dashboard.TransactionID",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GetAllTransactionTypes",
+    "RelativePath": "api/dashboard/GetTransactionTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GetUserQuickAccessMenus",
+    "RelativePath": "api/dashboard/GetUserQuickAccessMenus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GetViewTransactionLimit",
+    "RelativePath": "api/dashboard/GetViewTransactionLimit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "RemoveUserQuickAccess",
+    "RelativePath": "api/dashboard/RemoveUserQuickAccess",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.UserQuickAccessDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "SaveIBFTReceiptDetail",
+    "RelativePath": "api/dashboard/SaveIBFTReceiptDetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "FaysalFundsWrapper.Models.Dashboard.IBFTReceiptPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FaysalFundsWrapper.Models.ApiResponseWithData\u00601[[FaysalFundsWrapper.Models.Dashboard.IBFTReceiptDetailDTO, FaysalFundsWrapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "SaveKuickpayReceiptDetail",
+    "RelativePath": "api/dashboard/SaveKuickpayReceiptDetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "FaysalFundsWrapper.Models.Dashboard.KuickPayReceiptPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FaysalFundsWrapper.Models.ApiResponseWithData\u00601[[FaysalFundsWrapper.Models.Dashboard.KuickPayReceiptDetailsDTO, FaysalFundsWrapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.DashBoardController",
+    "Method": "GetAllTransactionFeature",
+    "RelativePath": "api/dashboard/TransactionFeature",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "CheckOnBoardingSteps",
+    "RelativePath": "api/OnBoarding/CheckOnBoardingSteps",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "CompletedStepsCount",
+    "RelativePath": "api/OnBoarding/CompletedStepsCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetBankDetails",
+    "RelativePath": "api/OnBoarding/GetBankDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetBasicInformationStep1",
+    "RelativePath": "api/OnBoarding/GetBasicInformationStep1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetBasicInformationStep2",
+    "RelativePath": "api/OnBoarding/GetBasicInformationStep2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetContactDetail",
+    "RelativePath": "api/OnBoarding/GetContactDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetCRS",
+    "RelativePath": "api/OnBoarding/GetCRS",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetFATCA",
+    "RelativePath": "api/OnBoarding/GetFATCA",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetNextToKinInfo",
+    "RelativePath": "api/OnBoarding/GetNextToKinInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetProfileUploadDocuments",
+    "RelativePath": "api/OnBoarding/GetProfileUploadDocuments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetRegulatoryKYC_Step1",
+    "RelativePath": "api/OnBoarding/GetRegulatoryKYC_Step1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetRegulatoryKYC_Step2",
+    "RelativePath": "api/OnBoarding/GetRegulatoryKYC_Step2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetRiskProfileDropdowns",
+    "RelativePath": "api/OnBoarding/GetRiskProfileDropdowns",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetRiskProfileSavedValues",
+    "RelativePath": "api/OnBoarding/GetRiskProfileSavedValues",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetRiskProfile",
+    "RelativePath": "api/OnBoarding/GetRiskProfileScore",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetSelectedAccount",
+    "RelativePath": "api/OnBoarding/GetSelectedAccount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetActiveFundsList",
+    "RelativePath": "api/OnBoarding/GetTransactionTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "GetOnBoardingStatus",
+    "RelativePath": "api/OnBoarding/OnBoardingStatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "PostOnboardinGProfile",
+    "RelativePath": "api/OnBoarding/OnboardingSubmit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.AccountOpening.OnboardingSubmitStatusDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "SaveBankAccountInformation",
+    "RelativePath": "api/OnBoarding/SaveBankAccountInformation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.BankDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "SaveBasicInformationStep1",
+    "RelativePath": "api/OnBoarding/SaveBasicInformationStep1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.BasicInformation1",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "SaveBasicInformationStep2",
+    "RelativePath": "api/OnBoarding/SaveBasicInformationStep2",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.BasicInformation2",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "SaveContactDetail",
+    "RelativePath": "api/OnBoarding/SaveContactDetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.ContactDetail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "SaveCRS",
+    "RelativePath": "api/OnBoarding/SaveCRS",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.CRS",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "SaveFATCA",
+    "RelativePath": "api/OnBoarding/SaveFATCA",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.FATCA",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "SaveFundSelection",
+    "RelativePath": "api/OnBoarding/SaveFundSelection",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.AccountSelectionRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "SaveNextToKinInformation",
+    "RelativePath": "api/OnBoarding/SaveNextToKinInformation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.NextToKinInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "SaveRegulatoryKYC_Step1",
+    "RelativePath": "api/OnBoarding/SaveRegulatoryKYC_Step1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.RegulatoryKYC1",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "SaveRegulatoryKYC_Step2",
+    "RelativePath": "api/OnBoarding/SaveRegulatoryKYC_Step2",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.RegulatoryKYC2",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "SaveRiskProfile",
+    "RelativePath": "api/OnBoarding/SaveRiskProfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.RiskProfile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OnBoardingController",
+    "Method": "UploadDocuments",
+    "RelativePath": "api/OnBoarding/UploadDocuments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.AccountOpening.DocumentUpload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OTPController",
+    "Method": "GenerateOTP",
+    "RelativePath": "api/OTP/GenerateOTP",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.GenerateOTPModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.OTPController",
+    "Method": "ValidateOTP",
+    "RelativePath": "api/OTP/ValidateOTP",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.ValidateOTPModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.TransactionPinController",
+    "Method": "ChangeTPin",
+    "RelativePath": "api/TransactionPin/ChangeTPin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.ChangeTPinRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.TransactionPinController",
+    "Method": "ForgotTPin",
+    "RelativePath": "api/TransactionPin/ForgotTPin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.ForgotTPinRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.TransactionPinController",
+    "Method": "GenerateTPin",
+    "RelativePath": "api/TransactionPin/GenerateTPin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.GenerateTPinRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.TransactionPinController",
+    "Method": "VerifyTPin",
+    "RelativePath": "api/TransactionPin/VerifyTPin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.VerifyTpinRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.TransactionPinController",
+    "Method": "VerifyUserBeforeForgotTpin",
+    "RelativePath": "api/TransactionPin/VerifyUserBeforeTpin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFundsWrapper.Models.VerifyUserBeforeForgotTpin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[FaysalFundsWrapper.WeatherForecast, FaysalFundsWrapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

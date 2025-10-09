@@ -1,0 +1,96 @@
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.deps.json
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\refint\FaysalFunds.Common.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\ref\FaysalFunds.Common.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.deps.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\refint\FaysalFunds.Common.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\ref\FaysalFunds.Common.dll
+D:\28 july code\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.deps.json
+D:\28 july code\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\28 july code\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+D:\28 july code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\28 july code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+D:\28 july code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+D:\28 july code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+D:\28 july code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.dll
+D:\28 july code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\refint\FaysalFunds.Common.dll
+D:\28 july code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\ref\FaysalFunds.Common.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.deps.json
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\refint\FaysalFunds.Common.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\ref\FaysalFunds.Common.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.deps.json
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\refint\FaysalFunds.Common.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\ref\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.deps.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\refint\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\ref\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.deps.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\refint\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\ref\FaysalFunds.Common.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.deps.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\refint\FaysalFunds.Common.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\ref\FaysalFunds.Common.dll

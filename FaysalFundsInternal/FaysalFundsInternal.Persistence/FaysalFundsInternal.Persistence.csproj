@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FaysalFundsInternal.Application\FaysalFundsInternal.Application.csproj" />
+    <ProjectReference Include="..\FaysalFundsInternal.CrossCutting\FaysalFundsInternal.CrossCutting.csproj" />
+    <ProjectReference Include="..\FaysalFundsInternal.Domain\FaysalFundsInternal.Domain.csproj" />
+    <ProjectReference Include="..\FaysalFundsInternal.Infrastructure\FaysalFundsInternal.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

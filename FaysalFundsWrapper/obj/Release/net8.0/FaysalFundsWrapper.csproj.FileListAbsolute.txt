@@ -1,0 +1,507 @@
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\appsettings.Development.json
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\appsettings.json
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.exe
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.deps.json
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.runtimeconfig.json
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.pdb
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.AssemblyReference.cache
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfoInputs.cache
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfo.cs
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.CoreCompileInputs.cache
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.development.json
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets\msbuild.FaysalFundsWrapper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets\msbuild.build.FaysalFundsWrapper.props
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.FaysalFundsWrapper.props
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.FaysalFundsWrapper.props
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.pack.json
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\scopedcss\bundle\FaysalFundsWrapper.styles.css
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\FaysalFu.8C640352.Up2Date
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.dll
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\refint\FaysalFundsWrapper.dll
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.pdb
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.genruntimeconfig.cache
+C:\Projects\FaysalFundsWrapper\obj\Release\net8.0\ref\FaysalFundsWrapper.dll
+C:\Projects\FaysalFundsWrapper\bin\Release\net8.0\PhoneNumbers.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\appsettings.Development.json
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\appsettings.json
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.staticwebassets.endpoints.json
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.exe
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.deps.json
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.runtimeconfig.json
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.pdb
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\PhoneNumbers.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.AssemblyReference.cache
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfoInputs.cache
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfo.cs
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.CoreCompileInputs.cache
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cs
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cache
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\scopedcss\bundle\FaysalFundsWrapper.styles.css
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.development.json
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\FaysalFu.8C640352.Up2Date
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\refint\FaysalFundsWrapper.dll
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.pdb
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.genruntimeconfig.cache
+D:\sprint one api 14 july\FaysalFundsWrapper\obj\Release\net8.0\ref\FaysalFundsWrapper.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\appsettings.Development.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.staticwebassets.endpoints.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\appsettings.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.exe
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.deps.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.runtimeconfig.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.pdb
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\PhoneNumbers.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.AssemblyReference.cache
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfoInputs.cache
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfo.cs
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.CoreCompileInputs.cache
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cs
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cache
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\scopedcss\bundle\FaysalFundsWrapper.styles.css
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.development.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\FaysalFu.8C640352.Up2Date
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\refint\FaysalFundsWrapper.dll
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.pdb
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.genruntimeconfig.cache
+D:\22 July 1 sprint api\FaysalFundsWrapper\obj\Release\net8.0\ref\FaysalFundsWrapper.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\appsettings.Development.json
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\appsettings.json
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.exe
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.deps.json
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.runtimeconfig.json
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.pdb
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\PhoneNumbers.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.AssemblyReference.cache
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfoInputs.cache
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfo.cs
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.CoreCompileInputs.cache
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets\msbuild.FaysalFundsWrapper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets\msbuild.build.FaysalFundsWrapper.props
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.FaysalFundsWrapper.props
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.FaysalFundsWrapper.props
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\scopedcss\bundle\FaysalFundsWrapper.styles.css
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFu.8C640352.Up2Date
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\refint\FaysalFundsWrapper.dll
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.pdb
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.genruntimeconfig.cache
+C:\Users\sdvendor\Desktop\Merge\23-7-2025\FaysalFundsWrapper\obj\Release\net8.0\ref\FaysalFundsWrapper.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\appsettings.Development.json
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.staticwebassets.endpoints.json
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\appsettings.json
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.exe
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.deps.json
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.runtimeconfig.json
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.pdb
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\PhoneNumbers.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\28 july code\FaysalFundsWrapper\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.AssemblyReference.cache
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfoInputs.cache
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfo.cs
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.CoreCompileInputs.cache
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cs
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cache
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\scopedcss\bundle\FaysalFundsWrapper.styles.css
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.development.json
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFu.8C640352.Up2Date
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.dll
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\refint\FaysalFundsWrapper.dll
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.pdb
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.genruntimeconfig.cache
+D:\28 july code\FaysalFundsWrapper\obj\Release\net8.0\ref\FaysalFundsWrapper.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\appsettings.Development.json
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.staticwebassets.endpoints.json
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\appsettings.json
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.exe
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.deps.json
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.runtimeconfig.json
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.pdb
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\PhoneNumbers.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\all merge code here\FaysalFundsWrapper\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.AssemblyReference.cache
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfoInputs.cache
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfo.cs
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.CoreCompileInputs.cache
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cs
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cache
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\scopedcss\bundle\FaysalFundsWrapper.styles.css
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.development.json
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\FaysalFu.8C640352.Up2Date
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.dll
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\refint\FaysalFundsWrapper.dll
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.pdb
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.genruntimeconfig.cache
+D:\all merge code here\FaysalFundsWrapper\obj\Release\net8.0\ref\FaysalFundsWrapper.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\appsettings.Development.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.staticwebassets.endpoints.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\appsettings.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.exe
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.deps.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.runtimeconfig.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\PhoneNumbers.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.AssemblyReference.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfoInputs.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.CoreCompileInputs.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\scopedcss\bundle\FaysalFundsWrapper.styles.css
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.development.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\FaysalFu.8C640352.Up2Date
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\refint\FaysalFundsWrapper.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.genruntimeconfig.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFundsWrapper\obj\Release\net8.0\ref\FaysalFundsWrapper.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\appsettings.Development.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.staticwebassets.endpoints.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\appsettings.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.exe
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.deps.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.runtimeconfig.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\PhoneNumbers.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.AssemblyReference.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfoInputs.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.CoreCompileInputs.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\scopedcss\bundle\FaysalFundsWrapper.styles.css
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.development.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFu.8C640352.Up2Date
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\refint\FaysalFundsWrapper.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.genruntimeconfig.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFundsWrapper\obj\Release\net8.0\ref\FaysalFundsWrapper.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\appsettings.Development.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.staticwebassets.endpoints.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\appsettings.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.exe
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.deps.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.runtimeconfig.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\FaysalFundsWrapper.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\PhoneNumbers.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.AssemblyReference.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfoInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.AssemblyInfo.cs
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.csproj.CoreCompileInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cs
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.MvcApplicationPartsAssemblyInfo.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\scopedcss\bundle\FaysalFundsWrapper.styles.css
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.development.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFu.8C640352.Up2Date
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\refint\FaysalFundsWrapper.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\FaysalFundsWrapper.genruntimeconfig.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFundsWrapper\obj\Release\net8.0\ref\FaysalFundsWrapper.dll

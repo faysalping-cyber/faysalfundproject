@@ -1,0 +1,153 @@
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\appsettings.json
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.API.exe
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.API.deps.json
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.API.runtimeconfig.json
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.API.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.API.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Application.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.CrossCutting.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Domain.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Application.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.CrossCutting.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Domain.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.csproj.AssemblyReference.cache
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.AssemblyInfoInputs.cache
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.AssemblyInfo.cs
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.csproj.CoreCompileInputs.cache
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\staticwebassets\msbuild.FaysalFundsInternal.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\staticwebassets\msbuild.build.FaysalFundsInternal.API.props
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FaysalFundsInternal.API.props
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FaysalFundsInternal.API.props
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\scopedcss\bundle\FaysalFundsInternal.API.styles.css
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFu.881D19A9.Up2Date
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\refint\FaysalFundsInternal.API.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.genruntimeconfig.cache
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\ref\FaysalFundsInternal.API.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Infrastructure.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Persistence.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Persistence.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Infrastructure.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\appsettings.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.API.staticwebassets.endpoints.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.API.exe
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.API.deps.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.API.runtimeconfig.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.API.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.API.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FluentValidation.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Oracle.EntityFrameworkCore.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Application.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.CrossCutting.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Domain.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Infrastructure.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Persistence.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Application.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.CrossCutting.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Persistence.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Domain.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\bin\Debug\net8.0\FaysalFundsInternal.Infrastructure.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.csproj.AssemblyReference.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.AssemblyInfoInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.AssemblyInfo.cs
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.csproj.CoreCompileInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\scopedcss\bundle\FaysalFundsInternal.API.styles.css
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFu.881D19A9.Up2Date
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\refint\FaysalFundsInternal.API.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\FaysalFundsInternal.API.genruntimeconfig.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.API\obj\Debug\net8.0\ref\FaysalFundsInternal.API.dll

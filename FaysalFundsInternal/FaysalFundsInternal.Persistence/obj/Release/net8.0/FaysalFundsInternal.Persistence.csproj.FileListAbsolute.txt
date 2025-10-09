@@ -1,0 +1,42 @@
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Persistence.deps.json
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Persistence.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Persistence.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Application.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Domain.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Infrastructure.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Application.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Domain.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Infrastructure.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.csproj.AssemblyReference.cache
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.AssemblyInfoInputs.cache
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.AssemblyInfo.cs
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFu.2A455DA9.Up2Date
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\refint\FaysalFundsInternal.Persistence.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\ref\FaysalFundsInternal.Persistence.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Persistence.deps.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Persistence.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Persistence.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Application.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Domain.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Infrastructure.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Application.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Domain.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Infrastructure.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.csproj.AssemblyReference.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.AssemblyInfoInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.AssemblyInfo.cs
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.csproj.CoreCompileInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFu.2A455DA9.Up2Date
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\refint\FaysalFundsInternal.Persistence.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\ref\FaysalFundsInternal.Persistence.dll

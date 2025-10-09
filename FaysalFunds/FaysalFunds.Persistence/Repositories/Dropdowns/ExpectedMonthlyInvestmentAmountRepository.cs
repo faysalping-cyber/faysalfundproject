@@ -1,0 +1,23 @@
+﻿using FaysalFunds.Domain.Entities.Dropdowns;
+using FaysalFunds.Domain.Interfaces;
+using FaysalFunds.Domain.Interfaces.Dropdowns;
+using FaysalFunds.Persistence.Database;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FaysalFunds.Persistence.Repositories
+{
+    public class ExpectedMonthlyInvestmentAmountRepository : BaseRepository<ExpectedMonthlyInvestment>, IExpectedMonthlyInvestmentAmountRepository
+    {
+        public ExpectedMonthlyInvestmentAmountRepository(ApplicationDbContext context) : base(context)
+        {
+        }
+        public async Task<IEnumerable<ExpectedMonthlyInvestment>> GetAll()
+        {
+            return await base.GetAllAsync();
+        }
+    }
+}

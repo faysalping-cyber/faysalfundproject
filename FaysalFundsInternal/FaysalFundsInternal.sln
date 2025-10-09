@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaysalFundsInternal.API", "FaysalFundsInternal.API\FaysalFundsInternal.API.csproj", "{DDA26E73-7CE5-4A33-ABEA-07D1A99D3096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaysalFundsInternal.Application", "FaysalFundsInternal.Application\FaysalFundsInternal.Application.csproj", "{C93EBCAF-778D-4BCF-8A75-6FECA81DC80D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaysalFundsInternal.Domain", "FaysalFundsInternal.Domain\FaysalFundsInternal.Domain.csproj", "{AD3D1F7E-0630-43BD-8B30-750E48B3116B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaysalFundsInternal.Infrastructure", "FaysalFundsInternal.Infrastructure\FaysalFundsInternal.Infrastructure.csproj", "{0F56E3B2-8B42-43CA-A7D8-81670D2C97E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaysalFundsInternal.Persistence", "FaysalFundsInternal.Persistence\FaysalFundsInternal.Persistence.csproj", "{74484601-9072-44D3-A1E3-738CF1778F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaysalFundsInternal.CrossCutting", "FaysalFundsInternal.CrossCutting\FaysalFundsInternal.CrossCutting.csproj", "{3F621BE6-3FF1-4DEC-A936-BDF18EB5EDF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA26E73-7CE5-4A33-ABEA-07D1A99D3096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA26E73-7CE5-4A33-ABEA-07D1A99D3096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA26E73-7CE5-4A33-ABEA-07D1A99D3096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA26E73-7CE5-4A33-ABEA-07D1A99D3096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93EBCAF-778D-4BCF-8A75-6FECA81DC80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93EBCAF-778D-4BCF-8A75-6FECA81DC80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93EBCAF-778D-4BCF-8A75-6FECA81DC80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93EBCAF-778D-4BCF-8A75-6FECA81DC80D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3D1F7E-0630-43BD-8B30-750E48B3116B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3D1F7E-0630-43BD-8B30-750E48B3116B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3D1F7E-0630-43BD-8B30-750E48B3116B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3D1F7E-0630-43BD-8B30-750E48B3116B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F56E3B2-8B42-43CA-A7D8-81670D2C97E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F56E3B2-8B42-43CA-A7D8-81670D2C97E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F56E3B2-8B42-43CA-A7D8-81670D2C97E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F56E3B2-8B42-43CA-A7D8-81670D2C97E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74484601-9072-44D3-A1E3-738CF1778F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74484601-9072-44D3-A1E3-738CF1778F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74484601-9072-44D3-A1E3-738CF1778F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74484601-9072-44D3-A1E3-738CF1778F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F621BE6-3FF1-4DEC-A936-BDF18EB5EDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F621BE6-3FF1-4DEC-A936-BDF18EB5EDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F621BE6-3FF1-4DEC-A936-BDF18EB5EDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F621BE6-3FF1-4DEC-A936-BDF18EB5EDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0BE51BD-C6CC-4442-8C6E-2657447BE4FA}
+	EndGlobalSection
+EndGlobal

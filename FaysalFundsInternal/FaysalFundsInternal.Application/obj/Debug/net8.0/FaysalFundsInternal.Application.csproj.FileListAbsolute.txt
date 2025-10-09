@@ -1,0 +1,34 @@
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.Application.deps.json
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.Application.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.Application.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.CrossCutting.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.Domain.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.CrossCutting.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.Domain.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.csproj.AssemblyReference.cache
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.AssemblyInfoInputs.cache
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.AssemblyInfo.cs
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.csproj.CoreCompileInputs.cache
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFu.44D60FDA.Up2Date
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\refint\FaysalFundsInternal.Application.dll
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.pdb
+C:\Projects\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\ref\FaysalFundsInternal.Application.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.Application.deps.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.Application.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.Application.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.CrossCutting.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.Domain.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.CrossCutting.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Debug\net8.0\FaysalFundsInternal.Domain.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.csproj.AssemblyReference.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.AssemblyInfoInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.AssemblyInfo.cs
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.csproj.CoreCompileInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFu.44D60FDA.Up2Date
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\refint\FaysalFundsInternal.Application.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\FaysalFundsInternal.Application.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Debug\net8.0\ref\FaysalFundsInternal.Application.dll

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfundswrapper\\services\\dashhboardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|solutionrelative:services\\dashhboardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfundswrapper\\interfaces\\idashhboardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|solutionrelative:interfaces\\idashhboardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfundswrapper\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfundswrapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfundswrapper\\models\\dashboard\\raastallowedornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|solutionrelative:models\\dashboard\\raastallowedornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfundswrapper\\models\\dashboard\\transactionfeaturesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04F7923-C897-40C1-9002-78E05E2500B3}|FaysalFundsWrapper.csproj|solutionrelative:models\\dashboard\\transactionfeaturesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T10:06:09.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDashhboardServices.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\Interfaces\\IDashhboardServices.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDashhboardServices.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\Interfaces\\IDashhboardServices.cs",
+              "RelativeToolTip": "Interfaces\\IDashhboardServices.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAxwCQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:39:56.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashhboardServices.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\Services\\DashhboardServices.cs",
+              "RelativeDocumentMoniker": "Services\\DashhboardServices.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\Services\\DashhboardServices.cs",
+              "RelativeToolTip": "Services\\DashhboardServices.cs",
+              "ViewState": "AgIAAGcAAAAAzczMzMwpwHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:07:13.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashBoardController.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAmwJ8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:14:04.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs [Read Only]",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAmwIkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:09:54.6Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionFeaturesDTO.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\Models\\Dashboard\\TransactionFeaturesDTO.cs",
+              "RelativeDocumentMoniker": "Models\\Dashboard\\TransactionFeaturesDTO.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\Models\\Dashboard\\TransactionFeaturesDTO.cs",
+              "RelativeToolTip": "Models\\Dashboard\\TransactionFeaturesDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:53:02.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RaastAllowedOrNot.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\Models\\Dashboard\\RaastAllowedOrNot.cs",
+              "RelativeDocumentMoniker": "Models\\Dashboard\\RaastAllowedOrNot.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFundsWrapper\\Models\\Dashboard\\RaastAllowedOrNot.cs",
+              "RelativeToolTip": "Models\\Dashboard\\RaastAllowedOrNot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:51:41.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

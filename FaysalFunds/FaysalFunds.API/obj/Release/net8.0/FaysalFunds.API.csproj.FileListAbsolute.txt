@@ -1,0 +1,778 @@
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.Development.json
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.json
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.exe
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.deps.json
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.runtimeconfig.json
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.ManagedDataAccess.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Formats.Asn1.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.AssemblyReference.cache
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfoInputs.cache
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfo.cs
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.CoreCompileInputs.cache
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets\msbuild.FaysalFunds.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets\msbuild.build.FaysalFunds.API.props
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.FaysalFunds.API.props
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.FaysalFunds.API.props
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\scopedcss\bundle\FaysalFunds.API.styles.css
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFu.44B6A5D1.Up2Date
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\refint\FaysalFunds.API.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.pdb
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.genruntimeconfig.cache
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\ref\FaysalFunds.API.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MailKit.dll
+C:\Users\sdvendor\Desktop\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MimeKit.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.Development.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.staticwebassets.endpoints.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.exe
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.deps.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.runtimeconfig.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MailKit.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Http.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MimeKit.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.EntityFrameworkCore.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.ManagedDataAccess.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.DirectoryServices.Protocols.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.AssemblyReference.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfoInputs.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfo.cs
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.CoreCompileInputs.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cs
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\scopedcss\bundle\FaysalFunds.API.styles.css
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.development.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFu.44B6A5D1.Up2Date
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\refint\FaysalFunds.API.dll
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.pdb
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.genruntimeconfig.cache
+D:\sprint one api 14 july\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\ref\FaysalFunds.API.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.Development.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.staticwebassets.endpoints.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.exe
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.deps.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.runtimeconfig.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MailKit.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Http.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MimeKit.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.EntityFrameworkCore.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.ManagedDataAccess.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.DirectoryServices.Protocols.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.AssemblyReference.cache
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfoInputs.cache
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfo.cs
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.CoreCompileInputs.cache
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cs
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cache
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\scopedcss\bundle\FaysalFunds.API.styles.css
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.development.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFu.44B6A5D1.Up2Date
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\refint\FaysalFunds.API.dll
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.pdb
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.genruntimeconfig.cache
+D:\28 july code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\ref\FaysalFunds.API.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.Development.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.staticwebassets.endpoints.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.exe
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.deps.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.runtimeconfig.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MailKit.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Http.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MimeKit.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.EntityFrameworkCore.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.ManagedDataAccess.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.DirectoryServices.Protocols.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.AssemblyReference.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfoInputs.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfo.cs
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.CoreCompileInputs.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cs
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\scopedcss\bundle\FaysalFunds.API.styles.css
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.development.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFu.44B6A5D1.Up2Date
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\refint\FaysalFunds.API.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.genruntimeconfig.cache
+D:\all merge code here\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\ref\FaysalFunds.API.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\EPPlus.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\EPPlus.Interfaces.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Infrastructure.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Infrastructure.pdb
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\ClosedXML.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\DocumentFormat.OpenXml.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\ExcelNumberFormat.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Irony.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\SixLabors.Fonts.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IO.Packaging.dll
+D:\all merge code here\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\XLParser.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.Development.json
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.json
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.exe
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.deps.json
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.runtimeconfig.json
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\ClosedXML.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\DocumentFormat.OpenXml.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\EPPlus.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\EPPlus.Interfaces.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\ExcelNumberFormat.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Irony.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MailKit.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Http.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MimeKit.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.EntityFrameworkCore.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.ManagedDataAccess.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\SixLabors.Fonts.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.DirectoryServices.Protocols.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Formats.Asn1.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IO.Packaging.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\XLParser.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Infrastructure.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Infrastructure.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.AssemblyReference.cache
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfoInputs.cache
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfo.cs
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.CoreCompileInputs.cache
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.development.json
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets\msbuild.FaysalFunds.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets\msbuild.build.FaysalFunds.API.props
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.FaysalFunds.API.props
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.FaysalFunds.API.props
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.pack.json
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\scopedcss\bundle\FaysalFunds.API.styles.css
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFu.44B6A5D1.Up2Date
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\refint\FaysalFunds.API.dll
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.pdb
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.genruntimeconfig.cache
+C:\Projects\22 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\ref\FaysalFunds.API.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.Development.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.staticwebassets.endpoints.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.exe
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.deps.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.runtimeconfig.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\ClosedXML.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\DocumentFormat.OpenXml.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\EPPlus.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\EPPlus.Interfaces.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\ExcelNumberFormat.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Irony.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MailKit.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Http.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MimeKit.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.EntityFrameworkCore.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.ManagedDataAccess.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\SixLabors.Fonts.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.DirectoryServices.Protocols.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IO.Packaging.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\XLParser.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Infrastructure.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Infrastructure.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.AssemblyReference.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfoInputs.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.CoreCompileInputs.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\scopedcss\bundle\FaysalFunds.API.styles.css
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.development.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFu.44B6A5D1.Up2Date
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\refint\FaysalFunds.API.dll
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.pdb
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.genruntimeconfig.cache
+D:\25th august\25 august Faysal Fund Code-asad\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\ref\FaysalFunds.API.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.Development.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.staticwebassets.endpoints.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.exe
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.deps.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.runtimeconfig.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\ClosedXML.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\DocumentFormat.OpenXml.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\EPPlus.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\EPPlus.Interfaces.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\ExcelNumberFormat.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Irony.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MailKit.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Http.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MimeKit.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.EntityFrameworkCore.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.ManagedDataAccess.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\SixLabors.Fonts.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.DirectoryServices.Protocols.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IO.Packaging.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\XLParser.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Infrastructure.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Infrastructure.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.AssemblyReference.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfoInputs.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.CoreCompileInputs.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cs
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\scopedcss\bundle\FaysalFunds.API.styles.css
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.development.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFu.44B6A5D1.Up2Date
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\refint\FaysalFunds.API.dll
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.pdb
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.genruntimeconfig.cache
+D:\25th august\25 august Faysal Fund Code\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\ref\FaysalFunds.API.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.Development.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.staticwebassets.endpoints.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\appsettings.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.exe
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.deps.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.runtimeconfig.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.API.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\ClosedXML.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\DocumentFormat.OpenXml.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\EPPlus.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\EPPlus.Interfaces.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\ExcelNumberFormat.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Irony.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MailKit.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Http.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\MimeKit.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.EntityFrameworkCore.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Oracle.ManagedDataAccess.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\SixLabors.Fonts.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.IO.Packaging.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\XLParser.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Infrastructure.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Infrastructure.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.AssemblyReference.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfoInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.AssemblyInfo.cs
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.csproj.CoreCompileInputs.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\scopedcss\bundle\FaysalFunds.API.styles.css
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.json.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.development.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.build.endpoints.json
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFu.44B6A5D1.Up2Date
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\refint\FaysalFunds.API.dll
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.pdb
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\FaysalFunds.API.genruntimeconfig.cache
+D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.API\obj\Release\net8.0\ref\FaysalFunds.API.dll

@@ -1,0 +1,1103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\kuickpayservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\kuickpayservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967E713B-67D4-4CC9-9416-953C71E548FA}|FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.infrastructure\\externalservice\\famlinternalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967E713B-67D4-4CC9-9416-953C71E548FA}|FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj|solutionrelative:faysalfunds.infrastructure\\externalservice\\famlinternalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\d8933d8c84a635e1c37e9eb18c6bd032217008a8799fd62d3548cc8ad96b6005\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.api\\logs\\error_logs.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\logs\\error_logs.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\raastallowedornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\raastallowedornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.api\\controllers\\accountopeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\controllers\\accountopeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\accountopeningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\accountopeningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\interfaces\\iaccountopeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\interfaces\\iaccountopeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\transactionfeaturesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\transactionfeaturesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\dropdownservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\dropdownservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\ibftreceiptdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\ibftreceiptdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\kuickpayreceiptdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\kuickpayreceiptdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\repositories\\transactionreceiptdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\transactionreceiptdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\interfaces\\itransactionreceiptdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\interfaces\\itransactionreceiptdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\repositories\\accountopeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\accountopeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\entities\\transactionallowed\\transactionreceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\entities\\transactionallowed\\transactionreceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\calculatekuickpaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\calculatekuickpaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\generatekuickpayiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\generatekuickpayiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\interfaces\\itransactionfeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\interfaces\\itransactionfeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\repositories\\transactionfeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\transactionfeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\investmentfundsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\investmentfundsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\famlfundsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\famlfundsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.api\\faysalfunds.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\faysalfunds.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\repositories\\uhsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\uhsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\uhsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\uhsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\interfaces\\iuhsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\interfaces\\iuhsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\dashhboardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\dashhboardservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\transactionpinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\transactionpinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\entities\\quickaccessmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\entities\\quickaccessmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\verifyuserbeforeforgottpin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\verifyuserbeforeforgottpin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\interfaces\\ifamlfundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\interfaces\\ifamlfundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\repositories\\famlfundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\famlfundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\repositories\\otprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\otprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.api\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.api\\models\\generateotpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\models\\generateotpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\repositories\\userquickaccessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\userquickaccessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\accountopening\\missingstepsresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\accountopening\\missingstepsresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\riskprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\riskprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\entities\\accountopening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\entities\\accountopening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\services\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\accountopening\\accountopeningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\accountopening\\accountopeningdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\repositories\\emailrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\emailrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\f06cb9fc627ba731af15a08a4937cf754442f7adcec60b77f2d0986f71fb61db\\SmtpClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\83ca34cb13bbd5a50ea5bb752efe71db81c206cb5782a71e948bca9281f88b83\\ExceptionDispatchInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94B7ABC-4894-40F1-9FDB-F4987B115E4B}|FaysalFunds.Common\\FaysalFunds.Common.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.common\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94B7ABC-4894-40F1-9FDB-F4987B115E4B}|FaysalFunds.Common\\FaysalFunds.Common.csproj|solutionrelative:faysalfunds.common\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\repositories\\dropdowns\\riskprofileoccupationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\dropdowns\\riskprofileoccupationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\interfaces\\dropdowns\\iriskprofileoccupationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\interfaces\\dropdowns\\iriskprofileoccupationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.persistence\\repositories\\dropdowns\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\dropdowns\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\interfaces\\dropdowns\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\interfaces\\dropdowns\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\entities\\dropdowns\\expectedmonthlynoofinvestmenttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\entities\\dropdowns\\expectedmonthlynoofinvestmenttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\quickaccesmenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\quickaccesmenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.domain\\entities\\userquickaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\entities\\userquickaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\sprint 2 september 22 code deploy\\merged 22-sep-2025\\faysalfunds\\faysalfunds.application\\dtos\\userquickaccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\userquickaccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 457,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RiskProfileService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\RiskProfileService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\RiskProfileService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\RiskProfileService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\RiskProfileService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwFEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:33:29.123Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\EmailService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\EmailService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\EmailService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T11:55:59.113Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountOpeningRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\AccountOpeningRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\AccountOpeningRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\AccountOpeningRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\AccountOpeningRepository.cs",
+              "ViewState": "AgIAANkDAAAAADMzMzPDv+cDAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:43:00.473Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FamlInternalService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
+              "RelativeToolTip": "FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwG4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:59:13.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KuickPayServices.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\KuickPayServices.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\KuickPayServices.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\KuickPayServices.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\KuickPayServices.cs",
+              "ViewState": "AgIAAOcBAAAAAAAAAAAQwDICAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:59:14.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\Controllers\\DashBoardController.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "FaysalFunds.API\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAIwLMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:40:19.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FaysalFunds.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:54:05.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\d8933d8c84a635e1c37e9eb18c6bd032217008a8799fd62d3548cc8ad96b6005\\Task.cs",
+              "ToolTip": "C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\d8933d8c84a635e1c37e9eb18c6bd032217008a8799fd62d3548cc8ad96b6005\\Task.cs [Read Only]",
+              "ViewState": "AgIAAPoFAAAAAAAAAAAmwAoGAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:09:30.499Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "error_logs.csv",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\logs\\error_logs.csv",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\logs\\error_logs.csv",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\logs\\error_logs.csv",
+              "RelativeToolTip": "FaysalFunds.API\\logs\\error_logs.csv",
+              "ViewState": "AgIAAG0DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-10-07T14:10:09.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RaastAllowedOrNot.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\RaastAllowedOrNot.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\RaastAllowedOrNot.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\RaastAllowedOrNot.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\RaastAllowedOrNot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:27:10.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountOpeningController.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
+              "RelativeToolTip": "FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAawJoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:12:39.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountOpeningService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\AccountOpeningService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\AccountOpeningService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\AccountOpeningService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\AccountOpeningService.cs",
+              "ViewState": "AgIAAPkBAAAAAAAAAAAawAgCAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:58:45.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAccountOpeningRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IAccountOpeningRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\IAccountOpeningRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IAccountOpeningRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\IAccountOpeningRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:42:17.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAmwI8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:50:15.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionFeaturesDTO.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\TransactionFeaturesDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\TransactionFeaturesDTO.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\TransactionFeaturesDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\TransactionFeaturesDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:09:15.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DropdownService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\DropdownService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\DropdownService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\DropdownService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\DropdownService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:47:12.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\OtpService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\OtpService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\OtpService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\OtpService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwHAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:56:23.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBFTReceiptDetailDTO.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAzwDMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:06:41.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KuickPayReceiptDetailsDTO.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T11:18:17.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransactionReceiptDetailRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\TransactionReceiptDetailRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\TransactionReceiptDetailRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\TransactionReceiptDetailRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\TransactionReceiptDetailRepository.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAawIYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:10:05.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITransactionReceiptDetailRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:21:07.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransactionReceiptDetails.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:00:06.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CalculateKuickPayDTO.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateKuickPayDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateKuickPayDTO.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateKuickPayDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateKuickPayDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T15:03:17.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenerateKuickPayIdDTO.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\GenerateKuickPayIdDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\GenerateKuickPayIdDTO.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\GenerateKuickPayIdDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\GenerateKuickPayIdDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:44:22.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITransactionFeatureRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\ITransactionFeatureRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\ITransactionFeatureRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\ITransactionFeatureRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\ITransactionFeatureRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:19:54.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TransactionFeatureRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\TransactionFeatureRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\TransactionFeatureRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\TransactionFeatureRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\TransactionFeatureRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:21:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InvestmentFundsDTO.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\InvestmentFundsDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\InvestmentFundsDTO.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\InvestmentFundsDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\InvestmentFundsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:24:38.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FamlFundsService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\FamlFundsService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\FamlFundsService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\FamlFundsService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\FamlFundsService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:59:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FaysalFunds.API.csproj",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\FaysalFunds.API.csproj",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
+              "RelativeToolTip": "FaysalFunds.API\\FaysalFunds.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T14:37:59.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\appsettings.json",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\appsettings.json",
+              "RelativeToolTip": "FaysalFunds.API\\appsettings.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T09:52:24.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\AccountService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\AccountService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\AccountService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAawG0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:32:42.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UHSRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\UHSRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\UHSRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\UHSRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\UHSRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:52:33.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIA2wBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:14:42.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UHSService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\UHSService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\UHSService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\UHSService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\UHSService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwCYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:50:41.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUHSRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IUHSRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\IUHSRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IUHSRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\IUHSRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:46:24.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DashhboardServices.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\DashhboardServices.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\DashhboardServices.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\DashhboardServices.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\DashhboardServices.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAWwIAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:04:28.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TransactionPinService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\TransactionPinService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\TransactionPinService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\TransactionPinService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\TransactionPinService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAawEgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:02:55.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "QuickAccessMenu.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\QuickAccessMenu.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Entities\\QuickAccessMenu.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\QuickAccessMenu.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Entities\\QuickAccessMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:04:40.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "VerifyUserBeforeForgotTpin.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\VerifyUserBeforeForgotTpin.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\VerifyUserBeforeForgotTpin.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\VerifyUserBeforeForgotTpin.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\VerifyUserBeforeForgotTpin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:17:48.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\Signup.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\Signup.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\Signup.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\Signup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:22:53.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IFamlFundRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IFamlFundRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\IFamlFundRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IFamlFundRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\IFamlFundRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:53:49.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FamlFundRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\FamlFundRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\FamlFundRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\FamlFundRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\FamlFundRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T11:21:36.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Program.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\Program.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Program.cs",
+              "RelativeToolTip": "FaysalFunds.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:45:45.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OtpController.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Controllers\\OtpController.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\Controllers\\OtpController.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Controllers\\OtpController.cs",
+              "RelativeToolTip": "FaysalFunds.API\\Controllers\\OtpController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:06:37.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OtpRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\OtpRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\OtpRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\OtpRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\OtpRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:49:29.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SmsService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\SmsService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\SmsService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\SmsService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\SmsService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:35:43.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GenerateOtpModel.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Models\\GenerateOtpModel.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\Models\\GenerateOtpModel.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\Models\\GenerateOtpModel.cs",
+              "RelativeToolTip": "FaysalFunds.API\\Models\\GenerateOtpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T11:21:56.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserQuickAccessRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\UserQuickAccessRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\UserQuickAccessRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\UserQuickAccessRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\UserQuickAccessRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:30:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MissingStepsResponseModel.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\AccountOpening\\MissingStepsResponseModel.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\AccountOpening\\MissingStepsResponseModel.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\AccountOpening\\MissingStepsResponseModel.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\AccountOpening\\MissingStepsResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:56:45.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Entities\\Account.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\Account.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Entities\\Account.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA1wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:54:47.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAjwCoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:49:27.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:53:43.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AccountOpening.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\AccountOpening.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Entities\\AccountOpening.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\AccountOpening.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Entities\\AccountOpening.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAcwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:47:50.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\IServices\\IEmailService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\IServices\\IEmailService.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\Services\\IServices\\IEmailService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\IServices\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:11:16.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AccountOpeningDTO.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\AccountOpening\\AccountOpeningDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\AccountOpening\\AccountOpeningDTO.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\AccountOpening\\AccountOpeningDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\AccountOpening\\AccountOpeningDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:37:37.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SmtpClient.cs",
+              "DocumentMoniker": "C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\f06cb9fc627ba731af15a08a4937cf754442f7adcec60b77f2d0986f71fb61db\\SmtpClient.cs",
+              "ToolTip": "C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\f06cb9fc627ba731af15a08a4937cf754442f7adcec60b77f2d0986f71fb61db\\SmtpClient.cs",
+              "ViewState": "AgIAAHsDAAAAAAAAAAAQwJADAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:23:19.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EmailRepository .cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\EmailRepository .cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\EmailRepository .cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\EmailRepository .cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\EmailRepository .cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwEcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:08:38.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ExceptionDispatchInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\83ca34cb13bbd5a50ea5bb752efe71db81c206cb5782a71e948bca9281f88b83\\ExceptionDispatchInfo.cs",
+              "ToolTip": "C:\\Users\\sdvendor\\AppData\\Local\\Temp\\.vsdbgsrc\\83ca34cb13bbd5a50ea5bb752efe71db81c206cb5782a71e948bca9281f88b83\\ExceptionDispatchInfo.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:03:59.624Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Common\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Common\\EmailSettings.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Common\\EmailSettings.cs",
+              "RelativeToolTip": "FaysalFunds.Common\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:07:14.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IRiskProfileOccupationRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\Dropdowns\\IRiskProfileOccupationRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\Dropdowns\\IRiskProfileOccupationRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\Dropdowns\\IRiskProfileOccupationRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\Dropdowns\\IRiskProfileOccupationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:36:58.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "WalletRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\Dropdowns\\WalletRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\Dropdowns\\WalletRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\Dropdowns\\WalletRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\Dropdowns\\WalletRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:37:55.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RiskProfileOccupationRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\Dropdowns\\RiskProfileOccupationRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\Dropdowns\\RiskProfileOccupationRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\Dropdowns\\RiskProfileOccupationRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\Dropdowns\\RiskProfileOccupationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:38:40.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IWalletRepository.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\Dropdowns\\IWalletRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\Dropdowns\\IWalletRepository.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\Dropdowns\\IWalletRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\Dropdowns\\IWalletRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:37:17.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ExpectedMonthlyNoOfInvestmentTransaction.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\Dropdowns\\ExpectedMonthlyNoOfInvestmentTransaction.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Entities\\Dropdowns\\ExpectedMonthlyNoOfInvestmentTransaction.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\Dropdowns\\ExpectedMonthlyNoOfInvestmentTransaction.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Entities\\Dropdowns\\ExpectedMonthlyNoOfInvestmentTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:28:41.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "QuickAccesMenuDto.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\QuickAccesMenuDto.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\QuickAccesMenuDto.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\QuickAccesMenuDto.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\QuickAccesMenuDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:03:41.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserQuickAccess.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\UserQuickAccess.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Entities\\UserQuickAccess.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Domain\\Entities\\UserQuickAccess.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Entities\\UserQuickAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:05:05.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserQuickAccessDto.cs",
+              "DocumentMoniker": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\UserQuickAccessDto.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\UserQuickAccessDto.cs",
+              "ToolTip": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\DTOs\\UserQuickAccessDto.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\UserQuickAccessDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:04:06.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

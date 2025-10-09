@@ -1,0 +1,895 @@
+Date,ErrorId,ErrorMessage,InnerException
+"3/24/2025 4:25:03 PM","31b8e31c-45e6-4886-b837-fb0ce9d08db7","ORA-00904: ""FALSE"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"2/4/2025 7:19:54 AM","f28a6556-24c6-4723-926d-556e0513e68f","Value cannot be null. (Parameter 's')",""
+"2/4/2025 9:59:08 AM","7e454fbf-3c16-435b-ad57-b4de897f9957","Value cannot be null. (Parameter 's')",""
+"2/4/2025 10:00:28 AM","eef1c87b-db6a-4214-94a1-20c735023f92","Value cannot be null. (Parameter 's')",""
+"2/4/2025 10:12:45 AM","8b0e355f-fbc5-4df2-9f2b-ca0aa8318427","ORA-50000: Connection request timed out",""
+"2/4/2025 10:32:02 AM","e4fa8e89-b09c-417c-87b1-752b7fd4dc00","ORA-50000: Connection request timed out",""
+"2/4/2025 1:41:02 PM","2d6a6fd5-ab4c-4850-8311-79a7708a4fe2","ORA-50000: Connection request timed out",""
+"2/4/2025 1:42:11 PM","8697b27e-7bc8-4b09-9e57-587907563852","ORA-50000: Connection request timed out",""
+"2/4/2025 1:43:15 PM","31784354-b2a7-4363-9815-7e106964e3bc","ORA-50000: Connection request timed out",""
+"2/4/2025 1:44:44 PM","da60945c-1dd1-48f8-9f64-553f434bb5a5","ORA-50000: Connection request timed out",""
+"2/4/2025 1:46:34 PM","4bb25bc3-7d24-4af7-98cd-72d2c13df284","ORA-50000: Connection request timed out",""
+"2/4/2025 1:48:53 PM","f776d85d-be91-4863-ad6e-52637dd64628","ORA-50000: Connection request timed out",""
+"2/4/2025 2:41:21 PM","d233a36f-afa0-4ec1-97d3-1d39b17d950e","ORA-50000: Connection request timed out",""
+"2/4/2025 2:47:27 PM","af7b7f31-e088-459b-bfd0-d88288df8264","ORA-50000: Connection request timed out",""
+"4/4/2025 11:02:37 AM","4bb4140b-81e1-458f-a798-7d409115fceb","ORA-00904: ""u"".""AccountId"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"4/4/2025 11:13:08 AM","7a241c75-58bb-4de9-920a-9a8609b1d680","IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '168' bits. (Parameter 'keyBytes')",""
+"4/4/2025 8:10:09 PM","f938af91-dcb3-48ff-9045-83b6a30ee570","You cannot reuse any of your last 3 passwords.",""
+"7/4/2025 7:35:52 AM","e3c07c24-9ab1-4613-9bf9-4a3ce3059b74","ORA-50000: Connection request timed out",""
+"7/4/2025 7:38:32 AM","6ea09dd4-8a6f-44ba-bdb1-5f0ba683d214","ORA-50000: Connection request timed out",""
+"7/4/2025 8:08:46 AM","406108ca-7af6-48d9-acb2-3a6f06175b40","ORA-50000: Connection request timed out",""
+"7/4/2025 8:09:38 AM","860c0c68-89fe-4b2c-bed7-5e99799dfb8c","ORA-50000: Connection request timed out",""
+"10/4/2025 11:23:03 AM","84758b94-d68e-45bc-806c-d92eab80f07a","User not found.",""
+"10/4/2025 11:24:47 AM","9a826400-bd2e-4a0d-8bc9-50b18b938474","User not found.",""
+"10/4/2025 11:29:33 AM","f7641c5e-b210-4866-a141-be5c465c1cc8","User not found.",""
+"10/4/2025 11:32:16 AM","955117f3-12ec-4373-9c2e-8955ef50a9ee","User not found.",""
+"10/4/2025 11:32:55 AM","9729d72b-4600-47c0-bf1f-2d0d3682a19f","User not found.",""
+"10/4/2025 11:34:17 AM","367ea48c-2f5d-46ca-9b7e-c2e6eeaf2379","User not found.",""
+"10/4/2025 11:36:15 AM","4c3c3b62-796a-4623-81ab-8f4e2c956af2","User not found.",""
+"10/4/2025 12:24:19 PM","02252286-fe02-4cd5-8a52-7a4e95e034bd","An error occurred while saving the entity changes. See the inner exception for details.","ORA-06550: line 16, column 12:
+PL/SQL: ORA-00904: ""Id"": invalid identifier
+ORA-06550: line 14, column 1:
+PL/SQL: SQL Statement ignored
+https://docs.oracle.com/error-help/db/ora-06550/"
+"10/4/2025 12:27:20 PM","2abc4be8-500b-4884-ad15-48f40535e130","An error occurred while saving the entity changes. See the inner exception for details.","ORA-06550: line 16, column 12:
+PL/SQL: ORA-00904: ""Id"": invalid identifier
+ORA-06550: line 14, column 1:
+PL/SQL: SQL Statement ignored
+https://docs.oracle.com/error-help/db/ora-06550/"
+"10/4/2025 12:28:22 PM","c3361731-1bbc-40e7-a98a-7c61fb40a860","An error occurred while saving the entity changes. See the inner exception for details.","ORA-06550: line 16, column 12:
+PL/SQL: ORA-00904: ""Id"": invalid identifier
+ORA-06550: line 14, column 1:
+PL/SQL: SQL Statement ignored
+https://docs.oracle.com/error-help/db/ora-06550/"
+"10/4/2025 12:31:13 PM","4e019fac-3022-42b7-b279-c71545f4636e","An error occurred while saving the entity changes. See the inner exception for details.","ORA-06550: line 16, column 12:
+PL/SQL: ORA-00904: ""Id"": invalid identifier
+ORA-06550: line 14, column 1:
+PL/SQL: SQL Statement ignored
+https://docs.oracle.com/error-help/db/ora-06550/"
+"10/4/2025 1:39:21 PM","158aea21-1837-4dd2-bb70-f6eb5922fca7","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"11/4/2025 11:22:11 AM","cc079b3d-00a7-431f-a0fd-a8dca7d32837","An error occurred while saving the entity changes. See the inner exception for details.","ORA-06550: line 14, column 14:
+PL/SQL: ORA-00942: table or view does not exist
+ORA-06550: line 14, column 1:
+PL/SQL: SQL Statement ignored
+https://docs.oracle.com/error-help/db/ora-06550/"
+"11/4/2025 3:23:19 PM","4b6fd835-a295-4498-85d4-d728faa97cac","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"11/4/2025 5:06:54 PM","737d33e4-1bc4-4d49-85b9-9edffa956e96","ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string","ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string"
+"11/4/2025 5:07:18 PM","75e560eb-02c4-4bdf-8955-dd77d97ef028","ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string","ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string"
+"11/4/2025 5:08:38 PM","66f2ebad-d1fc-4ad6-8fd5-116618cdb9f9","ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string","ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string"
+"14/4/2025 4:48:30 PM","5f2da5eb-5983-4312-9f8d-5f04ff8c1377","ORA-00904: ""r"".""Email"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"14/4/2025 4:53:27 PM","19fbcc34-0083-4920-8206-eb2bd5ebaa63","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""REFRESHTOKEN"".""EMAIL"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"14/4/2025 4:56:42 PM","96b423ac-f70d-4f0e-8e76-8625e4d0b9fb","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""REFRESHTOKEN"".""EMAIL"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"14/4/2025 5:01:20 PM","c87a78e1-6676-4ea4-a713-2bf4a465b383","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""REFRESHTOKEN"".""EMAIL"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"14/4/2025 5:02:40 PM","836b2039-c57c-43db-ab38-5c7b394a2c3b","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""REFRESHTOKEN"".""EMAIL"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"14/4/2025 5:05:00 PM","ea60b0cc-6832-4dfa-9ac4-efa6f92c3663","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""REFRESHTOKEN"".""EMAIL"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"14/4/2025 5:12:10 PM","71e6bc80-66e8-4c04-89f3-4eb99a220b1f","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""REFRESHTOKEN"".""EMAIL"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"15/4/2025 2:32:14 PM","2497b2e7-3676-4e49-a7be-9c6ff235a5b8","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"25/4/2025 5:58:03 PM","a06a534d-344e-4964-afa1-ab38cd3da09a","ORA-50000: Connection request timed out",""
+"29/4/2025 3:29:03 PM","a0a13bfc-28ed-44b3-ae8e-18e612fd6cb6","Unable to resolve service for type 'FaysalFunds.Application.Services.DropdownService' while attempting to activate 'FaysalFunds.API.Controllers.AccountController'.",""
+"30/4/2025 11:15:47 AM","e7ac993b-0993-449c-80b6-69111d9ab569","An item with the same key has already been added. Key: Banks",""
+"30/4/2025 4:50:17 PM","b6fa43f2-478d-4597-9017-e0d2ebcb3a73","ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string","ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string"
+"5/5/2025 11:34:28 AM","0ed3e05f-ee05-4a48-9332-630461c94177","Value cannot be null. (Parameter 'hashedPassword')",""
+"7/5/2025 2:07:20 PM","63295502-e092-45ef-b4a3-26bbbb571b2b","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"9/5/2025 11:49:53 AM","df0f2cf9-5cf0-4229-8dcc-4dda1a06733e","ORA-50000: Connection request timed out",""
+"9/5/2025 11:50:53 AM","2324de7b-293b-4fef-af08-9c36434c9a48","ORA-50000: Connection request timed out",""
+"9/5/2025 12:03:35 PM","935886fd-e0f1-4d66-adc7-1711fef9cc14","ORA-50000: Connection request timed out",""
+"9/5/2025 12:04:51 PM","67300f38-a45f-49bd-aa45-2a9badcdb100","ORA-50000: Connection request timed out",""
+"9/5/2025 12:05:51 PM","0e562149-8c17-4325-9552-0b7b884d46be","ORA-50000: Connection request timed out",""
+"9/5/2025 12:07:31 PM","7342642a-fe8b-47d8-b3e7-1c205d8bc1c5","ORA-50000: Connection request timed out",""
+"9/5/2025 1:22:03 PM","8a5d2244-a656-43da-9eb5-da994a6bd37b","ORA-50000: Connection request timed out",""
+"9/5/2025 1:27:48 PM","102d1086-80c8-4c90-8bd9-b2fbf9a7e096","ORA-50000: Connection request timed out",""
+"9/5/2025 1:28:17 PM","13a8c09f-be6c-438f-b0f8-adc345fbadb8","ORA-50000: Connection request timed out",""
+"9/5/2025 1:29:24 PM","ca4d01c2-82a8-40ef-abac-ee1fbe21d03e","ORA-50000: Connection request timed out",""
+"9/5/2025 5:05:39 PM","9b61de1c-2e03-4540-a6df-f095f5ac3867","ORA-50000: Connection request timed out",""
+"9/5/2025 5:11:52 PM","1d426de2-e640-4892-bd86-663678d9b63a","ORA-50000: Connection request timed out",""
+"14/5/2025 3:19:33 PM","89db1354-e72e-49c7-b55d-2fdf4666fa8b","Unable to resolve service for type 'FaysalFunds.Application.Services.AccountOpeningService' while attempting to activate 'FaysalFunds.API.Controllers.AccountOpeningController'.",""
+"14/5/2025 3:23:27 PM","ea2b9eca-1ce1-4b0f-a7c2-69c4074fce67","An error occurred while saving the entity changes. See the inner exception for details.","ORA-06550: line 14, column 1977:
+PL/SQL: ORA-00904: ""UploadCZ_50"": invalid identifier
+ORA-06550: line 14, column 1:
+PL/SQL: SQL Statement ignored
+https://docs.oracle.com/error-help/db/ora-06550/"
+"14/5/2025 3:27:12 PM","1c02f11a-301f-4fff-b676-97f9877088f0","An error occurred while saving the entity changes. See the inner exception for details.","ORA-06550: line 14, column 1740:
+PL/SQL: ORA-00904: ""ReferralCode"": invalid identifier
+ORA-06550: line 14, column 1:
+PL/SQL: SQL Statement ignored
+https://docs.oracle.com/error-help/db/ora-06550/"
+"14/5/2025 3:29:36 PM","7d7ad28d-81de-4d8b-9be3-ce7159e0b0a5","An error occurred while saving the entity changes. See the inner exception for details.","ORA-06550: line 14, column 72:
+PL/SQL: ORA-00904: ""Bank_Name"": invalid identifier
+ORA-06550: line 14, column 1:
+PL/SQL: SQL Statement ignored
+https://docs.oracle.com/error-help/db/ora-06550/"
+"14/5/2025 4:47:25 PM","f2c0a115-39ff-4ed1-8b32-d5bc03147e06","The LINQ expression 'DbSet<AccountOpening>()
+    .Where(a => new AccountOpening{ 
+        ID = a.ID, 
+        ACCOUNT_TYPE = a.ACCOUNT_TYPE 
+    }
+    .ACCOUNTID == __userId_0)' could not be translated. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to 'AsEnumerable', 'AsAsyncEnumerable', 'ToList', or 'ToListAsync'. See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.",""
+"14/5/2025 4:49:33 PM","3685a01e-f9da-4994-a293-2802ebaaa7bc","The LINQ expression 'DbSet<AccountOpening>()
+    .Where(a => new AccountOpening{ 
+        ID = a.ID, 
+        ACCOUNT_TYPE = a.ACCOUNT_TYPE 
+    }
+    .ACCOUNTID == __userId_0)' could not be translated. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to 'AsEnumerable', 'AsAsyncEnumerable', 'ToList', or 'ToListAsync'. See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.",""
+"14/5/2025 4:52:37 PM","9ce319a0-ab5a-4a95-a3ae-69b3a04cd73f","The LINQ expression 'DbSet<AccountOpening>()
+    .Where(a => new AccountOpening{ 
+        ID = a.ID, 
+        ACCOUNT_TYPE = a.ACCOUNT_TYPE 
+    }
+    .ACCOUNTID == __userId_0)' could not be translated. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to 'AsEnumerable', 'AsAsyncEnumerable', 'ToList', or 'ToListAsync'. See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.",""
+"14/5/2025 4:58:10 PM","66615ece-6067-4d38-b453-68c756be5f78","The LINQ expression 'DbSet<AccountOpening>()
+    .Where(a => new AccountOpening{ 
+        ID = a.ID, 
+        ACCOUNT_TYPE = a.ACCOUNT_TYPE 
+    }
+    .ACCOUNTID == __userId_0)' could not be translated. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to 'AsEnumerable', 'AsAsyncEnumerable', 'ToList', or 'ToListAsync'. See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.",""
+"14/5/2025 5:15:39 PM","60d93ec3-a71d-403d-90e6-20cccbad1580","An error occurred while saving the entity changes. See the inner exception for details.","ORA-12899: value too large for column ""TEST"".""ACCOUNTOPENING"".""CNIC_ISSUANCE_DATE"" (actual: 21, maximum: 20)
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-12899/"
+"14/5/2025 5:27:42 PM","16f875f5-9049-4c81-914f-e45d67a3ea2c","An error occurred while saving the entity changes. See the inner exception for details.","ORA-12899: value too large for column ""TEST"".""ACCOUNTOPENING"".""CNIC_ISSUANCE_DATE"" (actual: 21, maximum: 20)
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-12899/"
+"14/5/2025 5:34:41 PM","70022bf5-00e6-4a4e-afae-3bbed4dcaf6b","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNT) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"15/5/2025 10:38:03 AM","0a5bdf38-3817-4956-8305-a1545b112874","ORA-50000: Connection request timed out",""
+"15/5/2025 10:39:18 AM","2d3cb28e-ac0c-4169-a5a5-e3ed54b66ecb","ORA-50000: Connection request timed out",""
+"15/5/2025 10:40:33 AM","e6c87a7c-2720-477f-a6b9-fdb9c0a2f62b","ORA-50000: Connection request timed out",""
+"15/5/2025 10:46:47 AM","7cb9ff09-b57e-4ad7-8ae1-cb3189a62d05","ORA-50000: Connection request timed out",""
+"15/5/2025 10:49:19 AM","3290bc94-d291-4805-b4ae-839c1a20d878","ORA-50000: Connection request timed out",""
+"15/5/2025 10:50:39 AM","6c27b8b0-ebe0-4843-8523-ea15eef9214e","ORA-50000: Connection request timed out",""
+"15/5/2025 10:51:12 AM","229b34dd-8c62-430f-939e-c5a587e25eeb","ORA-50000: Connection request timed out",""
+"15/5/2025 11:01:55 AM","d1dc0897-9d01-4029-a601-e57e9830b09d","ORA-50000: Connection request timed out",""
+"15/5/2025 11:18:48 AM","63948d43-e38e-4c0c-acec-d3c2db6e284c","ORA-50000: Connection request timed out",""
+"15/5/2025 1:08:37 PM","09a5da44-00ba-4049-9666-19a05a1e7033","ORA-50000: Connection request timed out",""
+"15/5/2025 1:21:57 PM","0f307c8c-d884-4787-952c-a1bbe5bb9759","ORA-50000: Connection request timed out",""
+"15/5/2025 1:30:47 PM","0b77995c-9041-413c-80d8-2174759bf330","ORA-50000: Connection request timed out",""
+"15/5/2025 1:36:32 PM","5108ed23-3a24-4940-8d66-f059c449ce76","ORA-50000: Connection request timed out",""
+"15/5/2025 1:44:19 PM","b8cf24cb-f52f-4707-b5df-b2d1b43d9603","ORA-50000: Connection request timed out",""
+"15/5/2025 2:49:23 PM","affd0d02-723e-4f18-8887-98ddcdb578a0","ORA-50000: Connection request timed out",""
+"15/5/2025 4:50:27 PM","7cb9c986-1ab8-48f4-8836-fc71a3cd56d3","ORA-50000: Connection request timed out",""
+"15/5/2025 5:11:03 PM","06eb599b-9846-4aaa-b393-8ad14f6f815d","ORA-50000: Connection request timed out",""
+"15/5/2025 5:11:24 PM","9c8a3f55-ed1b-4fca-ba2b-2187f767bb8d","ORA-50000: Connection request timed out",""
+"15/5/2025 5:12:19 PM","37af5f19-07a5-42a0-9edf-1c4b065e9d71","ORA-50000: Connection request timed out",""
+"15/5/2025 5:12:42 PM","06affac9-035f-492c-b9a7-060166a18b28","ORA-50000: Connection request timed out",""
+"15/5/2025 5:26:08 PM","c9381206-83ab-45a2-911d-beaaf4a94d9f","ORA-50000: Connection request timed out",""
+"15/5/2025 9:14:27 PM","1de19342-2274-4c4b-ac4b-dda97d446b67","ORA-50000: Connection request timed out",""
+"15/5/2025 9:14:56 PM","80f63e66-ec83-4bb0-a878-1ab37ea7dc3b","ORA-50000: Connection request timed out",""
+"16/5/2025 11:29:23 AM","fca794e0-6b18-4134-9f7d-f997c1dacb9d","ORA-50000: Connection request timed out",""
+"16/5/2025 11:34:19 AM","139cd4f5-c373-42a1-baa6-65f8748384d7","ORA-50000: Connection request timed out",""
+"16/5/2025 1:30:12 PM","09d17a88-dc0c-40d9-a8d6-e077c507928e","ORA-50000: Connection request timed out",""
+"16/5/2025 2:25:03 PM","fea34c0d-cb3e-46d1-a2af-4f0181ccd0af","ORA-50000: Connection request timed out",""
+"16/5/2025 4:19:40 PM","586bfd5b-8256-4ace-9b76-69c9945a7b9b","ORA-50000: Connection request timed out",""
+"16/5/2025 4:22:21 PM","f2c486ee-231b-4b9c-bb48-a0b5b5b99917","ORA-50000: Connection request timed out",""
+"16/5/2025 4:27:58 PM","41632caa-f5ff-4ff4-9940-09651a02a168","ORA-50000: Connection request timed out",""
+"16/5/2025 4:29:28 PM","568997c1-d14e-4ccf-af3f-65b11a101af1","ORA-50000: Connection request timed out",""
+"16/5/2025 4:31:22 PM","3aa6999f-0892-4f35-9465-78938582d309","ORA-50000: Connection request timed out",""
+"16/5/2025 6:28:00 PM","199e1a95-b50d-4836-b73d-6af00d275f8e","ORA-50000: Connection request timed out",""
+"16/5/2025 7:08:03 PM","a43221f7-1c8d-4354-ba6e-6bfceb04049f","ORA-50000: Connection request timed out",""
+"16/5/2025 7:09:13 PM","54d50c04-0e93-4428-b19d-a165c5037849","ORA-50000: Connection request timed out",""
+"16/5/2025 7:16:27 PM","0a67d982-9e5f-4158-9a48-9bdd5dd54edd","ORA-50000: Connection request timed out",""
+"17/5/2025 5:51:04 AM","8142faf7-2148-4c71-9af9-7da2ef57809e","ORA-50000: Connection request timed out",""
+"17/5/2025 5:52:47 AM","f470b8a2-3e5e-428c-84f3-bb45c21e756f","ORA-50000: Connection request timed out",""
+"17/5/2025 11:47:44 AM","297cc75e-4d3a-4283-896e-e71d8428ae44","ORA-50000: Connection request timed out",""
+"17/5/2025 11:48:11 AM","02093098-a62e-46b4-9afd-f540df97697d","ORA-50000: Connection request timed out",""
+"19/5/2025 11:59:28 AM","ec67b435-3230-4edf-8990-3c6b43942725","ORA-00904: ""a"".""IS_MAILING_SAME_AS_PERMANENT_ADDRESS"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"21/5/2025 12:40:01 PM","8cd8d5ea-61e7-47b1-b633-a3bbac3e4b4b","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"22/5/2025 3:04:15 PM","cf8648be-4f3a-437b-8637-939851cc9ca2","ORA-00942: table or view does not exist
+https://docs.oracle.com/error-help/db/ora-00942/",""
+"22/5/2025 3:04:39 PM","fe2aadbc-8bfa-462a-8320-fcb0ae025c09","ORA-00942: table or view does not exist
+https://docs.oracle.com/error-help/db/ora-00942/",""
+"22/5/2025 3:09:03 PM","e4cd5cd1-e504-4643-bc7b-c7be4f25ef45","ORA-00942: table or view does not exist
+https://docs.oracle.com/error-help/db/ora-00942/",""
+"23/5/2025 10:09:28 AM","e2650c07-bfb4-4a5e-a7a4-ec82f08b7067","ORA-50000: Connection request timed out",""
+"23/5/2025 5:47:02 PM","1b0019a0-08cc-4a5c-b543-2779d13d7839","ORA-50000: Connection request timed out",""
+"23/5/2025 5:47:41 PM","3a45eb56-12c9-4e11-ab63-64d7eb69106b","ORA-50000: Connection request timed out",""
+"26/5/2025 5:20:52 PM","5b6f8c93-5aad-4b8f-9d70-d991ea648ad3","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"27/5/2025 2:13:30 PM","a2eaeb78-acef-4bf0-8228-d68e5c998045","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""ACCOUNTOPENING"".""ID"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"27/5/2025 2:14:25 PM","3ebc5d4f-8f57-4354-9df7-e7c61b32e91f","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""ACCOUNTOPENING"".""ID"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"27/5/2025 2:18:18 PM","77cb1ece-9c2d-43e4-9dcc-34bd3726f4bd","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""ACCOUNTOPENING"".""ID"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"27/5/2025 2:20:32 PM","748698fc-9df2-4306-b07a-5d7383c3b7c5","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""ACCOUNTOPENING"".""ID"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"27/5/2025 2:22:28 PM","b811bfd1-1312-4bd8-9d83-aac1e3623da9","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""ACCOUNTOPENING"".""ID"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"27/5/2025 2:26:33 PM","024989b6-1f8d-410d-91d6-69f2cc215f62","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""ACCOUNTOPENING"".""ID"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"27/5/2025 2:34:00 PM","54ce8ba7-5aa9-4c52-a9d0-7ee607a415a1","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01400: cannot insert NULL into (""TEST"".""ACCOUNTOPENING"".""ID"")
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-01400/"
+"27/5/2025 7:40:50 PM","efe4571b-b0c7-4352-a4c8-6cdc1e318f41","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNT) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"27/5/2025 7:42:40 PM","fbfe273f-79ca-4554-8027-10c82fd2a6d3","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNT) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"27/5/2025 7:43:44 PM","1730c81e-99ba-4205-8373-b009ef969fde","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNT) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"27/5/2025 7:45:21 PM","0aa0ac1a-0695-4610-980f-f48b8e1b489d","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNT) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"27/5/2025 8:14:41 PM","24dbed1c-66e0-45e6-804c-976701d1495a","An error occurred while saving the entity changes. See the inner exception for details.","ORA-12899: value too large for column ""TEST"".""ACCOUNTOPENING"".""IS_MAILING_SAME_AS_PERMANENT_ADDRESS"" (actual: 6, maximum: 3)
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-12899/"
+"29/5/2025 11:04:09 AM","5625836c-3164-47af-9b66-570426524c95","ORA-50000: Connection request timed out",""
+"30/5/2025 3:02:31 PM","bf5cdc92-e25c-4cfb-b4df-01f6a8c67584","Nullable object must have a value.",""
+"30/5/2025 3:48:12 PM","dc21e972-1e7f-4a14-9795-511fcf4c8c48","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"1/6/2025 1:03:15 PM","4841c1a1-1090-4d9f-bc0d-65cfcccd29ad","ORA-50000: Connection request timed out",""
+"1/6/2025 1:04:16 PM","f70298f2-f097-45a2-81d9-f2a12ef894d5","ORA-50000: Connection request timed out",""
+"1/6/2025 1:45:04 PM","27fcc1c1-9d03-4276-8035-0ae51f7ab1ee","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"1/6/2025 4:44:00 PM","3bfa8ffc-de94-4e55-b73d-413e580da431","ORA-50000: Connection request timed out",""
+"1/6/2025 4:45:16 PM","e1669072-fddc-4b05-b470-3c08e59883f5","ORA-50000: Connection request timed out",""
+"1/6/2025 4:50:49 PM","95fc7419-d7b9-456a-be8b-5dc042ae38b5","ORA-00904: ""a"".""Score"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"1/6/2025 5:25:16 PM","0f5a1ed4-edbf-40c6-9623-dd804ac32205","Nullable object must have a value.",""
+"1/6/2025 5:36:07 PM","6f748290-b5a2-42f5-8be7-dd6e80fd3b3e","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNT) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"1/6/2025 5:36:33 PM","2dc811c5-8d8f-441e-bba6-82f59d122064","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNT) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"1/6/2025 8:54:59 PM","6a5ca8b1-73e7-4ff5-a505-1036754b76c1","ORA-50000: Connection request timed out",""
+"1/6/2025 8:56:30 PM","f7be56b8-57a6-4c1a-84d6-7f14bc2ad030","ORA-50000: Connection request timed out",""
+"1/6/2025 8:59:58 PM","fd94504a-3dfe-4cff-96fc-e80d2b5c4924","Nullable object must have a value.",""
+"1/6/2025 9:16:22 PM","e166c754-04a8-4753-ba8e-4836bfca1eb0","The property 'AccountOpening.RiskProfileOccupation' could not be found. Ensure that the property exists and has been included in the model.",""
+"1/6/2025 9:20:49 PM","ca2b4696-c9b7-4f84-a2ce-9721fc6eca84","The property 'AccountOpening.RiskProfileOccupation' could not be found. Ensure that the property exists and has been included in the model.",""
+"1/6/2025 9:21:17 PM","894465eb-def9-4ef3-9ce0-ec416561a30d","The property 'AccountOpening.RiskProfileOccupation' could not be found. Ensure that the property exists and has been included in the model.",""
+"1/6/2025 9:28:34 PM","7b2bc128-1380-4438-b9b3-4511819fec69","ORA-50000: Connection request timed out",""
+"1/6/2025 9:29:08 PM","c46e5f12-648e-435f-b5ed-896c608b5221","ORA-50000: Connection request timed out",""
+"1/6/2025 9:31:58 PM","bcf6b129-7743-4974-985b-0a3eaaf6afa1","ORA-50000: Connection request timed out",""
+"1/6/2025 9:33:41 PM","f1e6791c-6017-41f3-a616-8b11a87d1ca8","ORA-50000: Connection request timed out",""
+"1/6/2025 9:35:44 PM","fcca20fa-1758-4b80-a042-9ee0ec8d5bce","ORA-50000: Connection request timed out",""
+"2/6/2025 2:09:29 PM","bd39da4d-22cb-4baa-ab42-37962d677be9","An error occurred while saving the entity changes. See the inner exception for details.","ORA-12899: value too large for column ""TEST"".""ACCOUNTOPENING"".""IS_MAILING_SAME_AS_PERMANENT_ADDRESS"" (actual: 6, maximum: 3)
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-12899/"
+"2/6/2025 4:43:58 PM","07b2ea62-717e-41a4-bc8c-c555b16fbd3d","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNT) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"2/6/2025 8:23:39 PM","2a863fd7-01ab-47cc-8086-66e0f251efce","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"5/6/2025 11:30:29 AM","899a19d1-e541-477e-9e2a-59c6b3e900c3","ORA-50000: Connection request timed out",""
+"5/6/2025 11:31:52 AM","68254498-7ea2-4e83-aff3-829fc2af35b1","ORA-50000: Connection request timed out",""
+"5/6/2025 11:46:57 AM","7371e0bb-2a2e-4417-bf85-963553780739","A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.",""
+"5/6/2025 11:56:59 AM","e5b50f0b-da43-4be6-a076-97a99e655870","A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.",""
+"5/6/2025 2:48:07 PM","9d129ffa-2ca6-4a4c-ba65-b3eb38587af1","ORA-50000: Connection request timed out",""
+"5/6/2025 2:48:51 PM","488a4406-abc4-4a96-8995-6063d8e0bffa","ORA-50000: Connection request timed out",""
+"5/6/2025 3:03:36 PM","c1992c39-a8e7-43b9-ad39-d429b5fc8930","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"5/6/2025 3:04:32 PM","6754bc13-3b5a-4cae-a8a5-c390ff31a3be","ORA-50000: Connection request timed out",""
+"5/6/2025 3:05:51 PM","475d3b3b-0b2c-4c04-a3e8-8efdbd5ca2b7","ORA-50000: Connection request timed out",""
+"5/6/2025 3:06:48 PM","bf88f9a6-0c43-4a66-bb98-35093dd2a5dc","ORA-50000: Connection request timed out",""
+"5/6/2025 3:12:29 PM","322e5cab-a1d4-4189-931c-a4c74100d9cf","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"5/6/2025 3:20:16 PM","60309e8c-8072-4653-9502-71e364cb18c1","ORA-50000: Connection request timed out",""
+"5/6/2025 4:29:13 PM","23c3c162-4c6b-4f5f-94cf-d8f809271824","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"5/6/2025 4:30:17 PM","f6da31b4-5f1a-49aa-ad48-b86263705971","ORA-50000: Connection request timed out",""
+"5/6/2025 5:26:01 PM","acf7da3b-fd0f-412b-a18e-2ae65c82b903","ORA-50000: Connection request timed out",""
+"5/6/2025 5:26:30 PM","268b46e0-c7e9-47bb-a283-9c92a6a30461","ORA-50000: Connection request timed out",""
+"5/6/2025 8:19:07 PM","4a9da75f-d23f-4d4f-a60e-921a2cf9f86e","ORA-50000: Connection request timed out",""
+"5/6/2025 8:19:36 PM","44bc33df-0a43-4cc6-88f8-aae3232d26cf","ORA-50000: Connection request timed out",""
+"6/6/2025 3:42:37 AM","db7b8cbb-56f3-4154-94b9-fd0fd8f09219","ORA-50000: Connection request timed out",""
+"6/6/2025 3:43:22 AM","05f9ef69-3a16-4ebf-98bd-e9d8e6387aa2","ORA-50000: Connection request timed out",""
+"6/6/2025 4:03:00 AM","d71130b7-09f2-452c-bae0-066785538fbc","Nullable object must have a value.",""
+"6/6/2025 4:13:04 AM","451166ce-27ee-431f-bd16-312c10b82bb1","Nullable object must have a value.",""
+"6/6/2025 4:28:37 AM","6fd29607-cfc1-4e9e-962d-f24ee9819ca5","Nullable object must have a value.",""
+"6/6/2025 11:23:55 AM","d87ceb90-edbc-4736-b13f-f0faab52521f","ORA-50000: Connection request timed out",""
+"6/6/2025 11:24:22 AM","ed939cd1-9590-4030-8811-4d7d69670f1c","ORA-50000: Connection request timed out",""
+"6/6/2025 11:25:38 AM","928bb24a-b5e1-4da8-b94c-a44380d0fb9b","A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (hybridapi.lfdanalytics.com:443)","A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."
+"6/6/2025 11:55:54 AM","406b12fd-f776-4a6d-abb3-2b19f88c251b","ORA-50000: Connection request timed out",""
+"7/6/2025 6:47:24 PM","ab18c3bc-16bf-446c-9592-9a15e8b61ba6","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_MARITAL_STATUS) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"7/6/2025 6:50:09 PM","7771af13-2bd3-4472-97b3-6260f0ae1fb0","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_MARITAL_STATUS) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"7/6/2025 6:58:15 PM","b94f09aa-067f-48c2-a9fe-609c4ada88d7","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_MARITAL_STATUS) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"7/6/2025 8:45:12 PM","37e4f6e6-2146-4bbb-bc72-46a062aa00d1","ORA-50000: Connection request timed out",""
+"7/6/2025 8:46:22 PM","7983e9f6-64b2-4dd7-9350-7ea8dfa6bdc7","ORA-50000: Connection request timed out",""
+"7/6/2025 8:59:13 PM","17109205-9dff-4aab-a782-f7fe2748a8a3","ORA-50000: Connection request timed out",""
+"7/6/2025 8:59:40 PM","be8703f7-2c46-435d-9f74-ab7129a51627","ORA-50000: Connection request timed out",""
+"7/6/2025 9:32:58 PM","83a7f1a8-71bd-44a7-bbd7-cd98e0718d60","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_TAX_RESIDENT_COUNTRY) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"8/6/2025 12:22:13 PM","c205a0c2-002f-4f85-8ad7-91c2eecdcec9","The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.",""
+"8/6/2025 12:22:46 PM","a8b160b5-c4b3-4c2e-a1f3-c44f377d3383","The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.",""
+"8/6/2025 1:05:34 PM","870f8251-031b-4a52-ba2c-aaa51ec1cd9c","The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.",""
+"8/6/2025 1:09:19 PM","933f9e18-e15f-4c45-91ad-76df7800aa67","The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.",""
+"8/6/2025 1:14:08 PM","238bdc96-2088-449a-8f80-ef73b342be59","The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.",""
+"8/6/2025 1:22:13 PM","4c44117b-6461-4258-97fe-498571d2b019","The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'ID'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.",""
+"8/6/2025 3:30:56 PM","f6a99ec5-e9ed-4670-b0d7-49c08c010986","ORA-50032: Column contains NULL data",""
+"8/6/2025 3:31:08 PM","32ec7cdb-75c0-4848-927e-59ded8f15200","ORA-50032: Column contains NULL data",""
+"8/6/2025 3:33:53 PM","bf0ba70e-41cd-4736-be33-ba62f7733e41","ORA-50032: Column contains NULL data",""
+"8/6/2025 6:22:59 PM","e2000e19-d88a-4de3-add3-75c1ac0afeab","ORA-50000: Connection request timed out",""
+"8/6/2025 6:23:31 PM","e2790625-a96e-4a97-a18d-4ad36e1f76ed","ORA-50000: Connection request timed out",""
+"8/6/2025 8:39:21 PM","b175c01a-6833-47f7-bbed-4e1336fda2b9","ORA-50000: Connection request timed out",""
+"8/6/2025 8:39:59 PM","ead230e4-9ad0-4ca0-aca7-cd39dbdc7225","ORA-50000: Connection request timed out",""
+"9/6/2025 11:27:33 AM","53958408-f6f2-48f4-b0f1-dbb7cbe95f18","ORA-50000: Connection request timed out",""
+"9/6/2025 11:28:26 AM","c65aa380-78cb-42e1-addc-9d27ed670f7a","ORA-50000: Connection request timed out",""
+"9/6/2025 1:40:26 PM","f6ff8ef5-bce4-46f9-a881-ed6c0af1c5a0","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"9/6/2025 3:52:56 PM","96b96913-7e17-41a2-bf57-703adfd7d977","ORA-50000: Connection request timed out",""
+"9/6/2025 3:53:25 PM","683a8f25-a6d5-4a0d-b669-82a34c077480","ORA-50000: Connection request timed out",""
+"9/6/2025 5:22:07 PM","39e3910a-c7fe-42db-b39a-2b9811347ce6","ORA-50000: Connection request timed out",""
+"9/6/2025 5:22:38 PM","ea7a1257-dec9-4faf-950e-f2c3e468071c","ORA-50000: Connection request timed out",""
+"10/6/2025 5:55:57 AM","75a95543-4f26-4fdd-a22f-7916a266d3d8","ORA-50000: Connection request timed out",""
+"10/6/2025 5:56:58 AM","d5e48478-0689-4d1d-a9ac-7a21b8711ef0","ORA-50000: Connection request timed out",""
+"12/6/2025 1:06:04 PM","bfe13b08-c2cb-44a3-b124-fc3a8835d791","ORA-50000: Connection request timed out",""
+"12/6/2025 1:06:36 PM","e147355f-c107-4d36-ba38-1f100a89cff9","ORA-50000: Connection request timed out",""
+"12/6/2025 1:10:03 PM","3a639efc-63b7-4e5a-8f77-72ff58f771ab","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"13/6/2025 1:54:12 AM","800102f3-bfbc-46ff-a072-68e418d8d207","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_MOBILE_NUMBER_OWNERSHIP) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"13/6/2025 1:56:25 AM","0ddac853-d71d-479d-a658-3323e6a3551c","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_MOBILE_NUMBER_OWNERSHIP) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"13/6/2025 6:48:08 AM","16c53f58-78bb-4109-bb8a-189b4a0a801e","ORA-50000: Connection request timed out",""
+"13/6/2025 6:48:35 AM","1f96f2e0-08b9-40bf-9629-023b88069383","ORA-50000: Connection request timed out",""
+"13/6/2025 10:43:54 AM","830bd31b-c00c-432a-b05a-30060658df1f","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"13/6/2025 10:44:28 AM","9539087e-ef5e-4d57-8935-7969c65f5549","ORA-50000: Connection request timed out",""
+"13/6/2025 3:47:39 PM","3b8bc650-cd98-4363-a561-6ff184a44af8","ORA-50000: Connection request timed out",""
+"13/6/2025 3:48:33 PM","3011127f-478e-4cfe-862b-903dcb9bed68","ORA-50000: Connection request timed out",""
+"17/6/2025 10:59:15 AM","add34e15-6ba5-4b95-a231-9141ace7a44c","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"17/6/2025 12:51:50 PM","7b1719ac-0996-429e-919d-e0546516a172","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"17/6/2025 3:40:19 PM","d651657f-9d1a-4054-a254-8fbe7280c922","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"17/6/2025 5:52:08 PM","cefe45e9-f3e3-4e7b-bcb1-92c1519be4a9","Cannot create a DbSet for 'TransactionPin' because this type is not included in the model for the context.",""
+"17/6/2025 5:55:09 PM","9a860bf5-1b93-44ad-a35d-f7925e77c5b9","Cannot create a DbSet for 'TransactionPin' because this type is not included in the model for the context.",""
+"17/6/2025 5:56:19 PM","335f5f6b-f64e-4d26-a00c-698e60609300","Cannot create a DbSet for 'TransactionPin' because this type is not included in the model for the context.",""
+"17/6/2025 5:57:40 PM","602eee29-e62b-4e8a-bd9c-f7d0e109ebcc","Cannot create a DbSet for 'TransactionPin' because this type is not included in the model for the context.",""
+"17/6/2025 5:57:59 PM","2521666a-e24b-41ae-97ea-7e0cc1207d8c","Cannot create a DbSet for 'TransactionPin' because this type is not included in the model for the context.",""
+"17/6/2025 5:59:05 PM","8ed2fef7-66d8-43b6-8dfd-1f7757d11fa8","Cannot create a DbSet for 'TransactionPin' because this type is not included in the model for the context.",""
+"17/6/2025 6:01:25 PM","1c60e496-44d8-4609-b364-bd162c04812d","Cannot create a DbSet for 'TransactionPin' because this type is not included in the model for the context.",""
+"17/6/2025 6:16:01 PM","f0efb728-9b91-43d1-94a3-158e40720568","Cannot create a DbSet for 'TransactionPin' because this type is not included in the model for the context.",""
+"18/6/2025 11:00:09 AM","b6c72661-5e9a-413b-af54-7a89d41ab143","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"18/6/2025 4:01:18 PM","33fc6f1e-119e-488e-8599-d434b4175165","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"20/6/2025 1:07:19 PM","e06c8cef-2d62-47bb-89b7-48153c1864f1","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"20/6/2025 2:50:57 PM","23134b6a-6fd5-4f64-a398-bd1e32c5e285","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"20/6/2025 2:52:25 PM","d128b5d0-9dd9-46b5-8edb-39ec44ae9aaa","ORA-50000: Connection request timed out",""
+"23/6/2025 2:39:26 PM","b9495f63-ace7-4bdb-b2b2-d48a92f43d4c","ORA-50000: Connection request timed out",""
+"23/6/2025 2:45:41 PM","4fcf2717-3e3d-4d27-932d-202e56634d8e","ORA-50000: Connection request timed out",""
+"23/6/2025 4:10:18 PM","8f04044c-5455-4b07-b511-a2fba9cbc9f5","ORA-50000: Connection request timed out",""
+"23/6/2025 4:48:14 PM","be3c71a8-7807-4699-825f-f932cc7cbf58","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"23/6/2025 4:51:28 PM","2f85b0b0-6b21-4a8b-8cb3-97628cdfbc15","Attempted to invoke a deleted method implementation. This can happen when a method is deleted or its name or signature is changed while the application is running.",""
+"23/6/2025 5:09:35 PM","4fe8d819-3ce8-472d-8142-4f7303dfa1be","Attempted to invoke a deleted method implementation. This can happen when a method is deleted or its name or signature is changed while the application is running.",""
+"23/6/2025 5:09:52 PM","a9deb176-fca0-42d3-ba67-61c4e66b711f","Attempted to invoke a deleted method implementation. This can happen when a method is deleted or its name or signature is changed while the application is running.",""
+"23/6/2025 5:09:59 PM","613bb9f0-8339-4ee8-b864-f4a41145ca65","Attempted to invoke a deleted method implementation. This can happen when a method is deleted or its name or signature is changed while the application is running.",""
+"23/6/2025 6:17:56 PM","261bf686-10e2-4ae3-8562-05a95f047e44","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"14/7/2025 2:02:19 PM","d4902bc6-3a38-479d-84d3-491c1248fc29","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_AGE) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"14/7/2025 2:06:09 PM","9f99b2a3-397e-48c1-9450-feb985b84e0b","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_AGE) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"14/7/2025 2:12:10 PM","6571ad0f-1cde-476e-9599-fc55376a1c9d","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_EXPECTED_MONTHLY_NO_OF_REDEMPTION_TRANSACTION) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"14/7/2025 2:12:58 PM","46194841-eaea-49d7-ac7b-1cead5ab87e2","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_EXPECTED_MONTHLY_NO_OF_REDEMPTION_TRANSACTION) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"14/7/2025 2:17:30 PM","3fc638fe-5207-4716-add0-c674ba9b6ebe","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"14/7/2025 3:07:30 PM","416783f2-752e-4ec9-8a3c-9bd8f1909a72","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"19/7/2025 3:11:06 AM","c037c088-6921-4acb-96aa-8a3e0554574f","String '' was not recognized as a valid DateTime.",""
+"19/7/2025 3:12:52 AM","31460f58-bc9f-47ca-b116-998a60d207f1","String '' was not recognized as a valid DateTime.",""
+"19/7/2025 3:51:19 AM","1469898a-6103-4f2f-987d-c231ed805cac","Value cannot be null. (Parameter 's')",""
+"19/7/2025 3:52:50 AM","d2d0d32d-f3fb-4fac-b3a6-c75b30aaf4c4","Value cannot be null. (Parameter 's')",""
+"19/7/2025 3:57:14 AM","b5c38be8-048d-445f-901f-b639ec33bc08","Value cannot be null. (Parameter 's')",""
+"19/7/2025 3:59:01 AM","f2fe61d8-74d3-41dc-b3d7-09bf321b7406","Value cannot be null. (Parameter 's')",""
+"19/7/2025 4:08:44 AM","65a69401-0aa5-4435-9870-ad83a791920c","Value cannot be null. (Parameter 's')",""
+"19/7/2025 1:02:58 PM","c16ba4be-0089-43bb-b345-37727f653d37","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_MAILING_COUNTRY) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"19/7/2025 1:06:31 PM","fad15033-880d-4b42-8e19-8164f15f1a29","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_MAILING_COUNTRY) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"19/7/2025 1:10:49 PM","2f063118-487c-45f8-a66b-73d307bf15f9","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_MAILING_COUNTRY) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"19/7/2025 1:23:30 PM","3b135730-739f-4008-8260-17560ca38188","Value cannot be null. (Parameter 's')",""
+"21/7/2025 1:10:43 PM","e3190b8e-9d1a-45e5-b52a-4677b3d628e7","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_EXPECTED_MONTHLY_NO_OF_REDEMPTION_TRANSACTION) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"21/7/2025 1:13:28 PM","362e6741-f370-45c9-a597-e667f6e414a7","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_EXPECTED_MONTHLY_NO_OF_INVESTMENT_TRANSACTION) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"21/7/2025 1:15:13 PM","de8a3117-e3da-4f01-abd3-e3d4f7c42e27","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_EXPECTED_MONTHLY_INVESTEMENTAMOUNT) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"21/7/2025 1:16:27 PM","e578d73d-91ff-4f59-90ba-2cdb4d314c22","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_SOURCE_OF_INCOME) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"21/7/2025 1:18:59 PM","5678fa97-53ce-49f8-8749-7ff51dc92a35","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_PROFESSION) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"21/7/2025 1:50:24 PM","31f0c7e4-75df-484d-a457-2d1da8c22e03","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_PROFESSION) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"21/7/2025 3:36:46 PM","efcdf75d-4e5f-4910-ae0c-befd4a699765","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"21/7/2025 4:36:30 PM","773f19c2-aa2f-4912-ad1d-603732370fae","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_REASON_FOR_NO_TIN_NUMBER) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"21/7/2025 4:42:38 PM","1edd4d25-f165-4cf2-a407-199c86d0be06","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_REASON_FOR_NO_TIN_NUMBER) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"23/7/2025 11:18:54 PM","54406fa2-1818-4db1-b8c2-4661af10faa6","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNTID) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"23/7/2025 11:19:13 PM","5cb3d428-5260-4434-9a4c-4fa86d834b63","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNTID) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"23/7/2025 11:22:26 PM","1b523e35-7a59-494a-a795-5c724f1069ee","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNTID) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"23/7/2025 11:22:41 PM","80d24166-fd0f-4bf6-9bd1-dd8169b46ae4","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNTID) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"23/7/2025 11:23:34 PM","b8462289-97d1-4bc2-9c0d-051ea7c28be7","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNTID) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"23/7/2025 11:27:47 PM","7a6b99ac-158d-475d-b184-74a6c6aabf62","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNTID) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"25/7/2025 12:43:35 PM","7522673f-9208-41fe-b771-2ba9a0e68f22","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"25/7/2025 3:32:09 PM","3f8a626a-0441-4f5e-955a-6e4c5d64981e","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"25/7/2025 3:39:30 PM","546017ce-c9e0-46c5-bc42-0bbdebd30173","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"27/7/2025 1:54:39 PM","d12a4124-9f1a-412b-8151-632b5059247f","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"28/7/2025 11:43:15 AM","77de1486-3ff2-44dc-80a6-5ce5e06116b8","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_BRANCH_CITY) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"28/7/2025 11:46:32 AM","2448021c-16de-4cb5-9946-6e1ba706cde4","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_BRANCH_CITY) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"28/7/2025 12:34:07 PM","36de8493-cfa6-4be3-94c4-1567293e1b90","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_BANK_NAME) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"28/7/2025 1:02:21 PM","08819ffc-1683-40b6-92c6-26b0aeed93a3","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"28/7/2025 4:50:01 PM","25d9a783-eda8-41e2-8e9c-c989e17eb85c","Cannot create a DbSet for 'TransactionTypesGroup' because this type is not included in the model for the context.",""
+"28/7/2025 4:52:35 PM","d08bb796-fa16-4c18-b386-37ac272deea8","Cannot create a DbSet for 'TransactionTypesGroup' because this type is not included in the model for the context.",""
+"28/7/2025 4:53:10 PM","3f53faad-e9ae-4b25-9568-e0814c9bc868","Cannot create a DbSet for 'TransactionFeatures' because this type is not included in the model for the context.",""
+"28/7/2025 5:45:44 PM","cd4a824d-6dac-4608-9177-588a15ce54b6","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"29/7/2025 4:06:05 PM","1c4950aa-c5ab-4d3c-9fb3-f85078743e36","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNTID) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"29/7/2025 4:06:34 PM","0382ebc3-bfe7-45f0-9669-379d3ff46382","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNTID) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"29/7/2025 4:07:09 PM","12350412-2df6-4324-9b57-855f7f57eca4","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNTID) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"29/7/2025 4:09:48 PM","340cb38d-de96-4a59-8fae-7eb1c8c5fc1f","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_ACCOUNTID) violated - parent key not found
+ORA-06512: at line 14
+https://docs.oracle.com/error-help/db/ora-02291/"
+"29/7/2025 4:36:55 PM","7dc863e3-4428-484d-9282-9aca7adf76a8","ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string","ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string"
+"30/7/2025 1:13:07 PM","8d84d05d-55a9-4bdd-8861-19e7d32d101f","Unable to resolve service for type 'FaysalFunds.Domain.Interfaces.IEmailRepository' while attempting to activate 'FaysalFunds.API.Controllers.AccountOpeningController'.",""
+"30/7/2025 1:20:17 PM","15b25781-c6f6-47df-a1ce-c9149838493f","Unable to resolve service for type 'FaysalFunds.Domain.Interfaces.IEmailRepository' while attempting to activate 'FaysalFunds.API.Controllers.AccountOpeningController'.",""
+"30/7/2025 5:58:54 PM","cc0d202c-99ae-48b9-a15d-791977cee604","Specified cast is not valid.",""
+"30/7/2025 6:04:46 PM","8c0c851b-c394-45d2-8afb-15b1684f9f91","Specified cast is not valid.",""
+"30/7/2025 6:13:26 PM","690dbb94-d316-41aa-8520-960dcbf2d478","Please set the license using one of the methods on the static property ExcelPackage.License. See https://epplussoftware.com/developers/licensenotsetexception for more information",""
+"30/7/2025 6:15:28 PM","0160b1b4-ed97-43b9-b7b1-8ed9a1067fe6","Please set the license using one of the methods on the static property ExcelPackage.License. See https://epplussoftware.com/developers/licensenotsetexception for more information",""
+"31/7/2025 10:24:14 PM","8e58b88c-7d0a-4fb1-8545-7a84a887f0d0","Please set the license using one of the methods on the static property ExcelPackage.License. See https://epplussoftware.com/developers/licensenotsetexception for more information",""
+"4/8/2025 6:13:48 PM","6ec18aab-126d-4437-ab2a-defd1aa7ed05","ORA-50032: Column contains NULL data",""
+"4/8/2025 6:14:18 PM","12769952-edad-4c8e-b3f8-8d1ad1bde797","ORA-50032: Column contains NULL data",""
+"4/8/2025 6:16:17 PM","8b3e34e8-ec42-42fb-90ad-dfa1e4705198","ORA-50032: Column contains NULL data",""
+"4/8/2025 6:17:04 PM","c369fc6f-b3ba-428c-80ab-09f5353faac0","ORA-50032: Column contains NULL data",""
+"4/8/2025 6:22:30 PM","184a0266-5557-4e8d-8b2c-b96fe7c4c646","ORA-50032: Column contains NULL data",""
+"4/8/2025 6:23:43 PM","e4a78031-3713-45ac-805e-3fd6d7c97ec7","ORA-50032: Column contains NULL data",""
+"4/8/2025 6:31:02 PM","a07d5312-cb07-4bd2-969a-bcd7ca554d46","ORA-50032: Column contains NULL data",""
+"4/8/2025 6:42:57 PM","0017fa6c-0be4-47fd-98c3-69e15ab10033","ORA-50032: Column contains NULL data",""
+"4/8/2025 6:59:48 PM","045b6618-9246-4e4f-bdc5-1997dc4b8631","ORA-50032: Column contains NULL data",""
+"4/8/2025 8:08:09 PM","fe9c29c4-83fb-481d-a244-a4de86a2b8c2","Cannot create a DbSet for 'WalletName' because this type is not included in the model for the context.",""
+"4/8/2025 8:43:40 PM","f0645586-31cc-46e3-843a-ab958348b29e","ORA-00904: ""u"".""TRANSACTION_FEATURE_ID"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"5/8/2025 5:27:01 PM","ffad1c46-436a-48bb-b70f-9062896fe2c5","Recipient email cannot be empty. (Parameter 'toEmail')",""
+"5/8/2025 5:28:27 PM","2484d6be-ca6f-417d-ba48-0c5d95a90c01","Recipient email cannot be empty. (Parameter 'toEmail')",""
+"5/8/2025 5:45:59 PM","d61274d4-2dc8-41cc-af90-e9d2a81f81fe","Conflicting method/path combination ""POST api/AccountOpening/sendEmail"" for actions - FaysalFunds.API.Controllers.AccountOpeningController.SendEmail (FaysalFunds.API),FaysalFunds.API.Controllers.AccountOpeningController.GetActiveFundsList (FaysalFunds.API). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround",""
+"5/8/2025 5:46:06 PM","ac462c27-9ca2-42a9-8146-161bc2fd0137","Conflicting method/path combination ""POST api/AccountOpening/sendEmail"" for actions - FaysalFunds.API.Controllers.AccountOpeningController.SendEmail (FaysalFunds.API),FaysalFunds.API.Controllers.AccountOpeningController.GetActiveFundsList (FaysalFunds.API). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround",""
+"5/8/2025 5:48:25 PM","33201d55-8eb4-484b-b8d5-72000c2a8cb6","Recipient email cannot be empty. (Parameter 'toEmail')",""
+"5/8/2025 5:51:27 PM","f91375e6-40b9-4e03-bba7-d207c54b3c0b","Please set the license using one of the methods on the static property ExcelPackage.License. See https://epplussoftware.com/developers/licensenotsetexception for more information",""
+"5/8/2025 6:07:06 PM","a89a8e0b-ce1d-4ac4-a7bf-02b3cb1a3279","The process cannot access the file 'D:\ExcelFileOnboarding\OnboardingDetails.xlsx' because it is being used by another process.",""
+"5/8/2025 9:09:21 PM","f757514e-2019-4751-87e9-c91375b8bd73","The process cannot access the file 'D:\ExcelFileOnboarding\OnboardingDetails.xlsx' because it is being used by another process.",""
+"5/8/2025 9:13:01 PM","af32edd3-a3ac-4365-9f33-c050b0ef1653","The process cannot access the file 'D:\ExcelFileOnboarding\OnboardingDetails.xlsx' because it is being used by another process.",""
+"5/8/2025 9:19:54 PM","7b529690-bb7f-41a5-8045-56915e7bd921","The process cannot access the file 'D:\ExcelFileOnboarding\OnboardingDetails.xlsx' because it is being used by another process.",""
+"6/8/2025 3:00:19 PM","1f13643f-de31-4b67-a86c-6ca5c03023e9","The process cannot access the file 'D:\ExcelFileOnboarding\OnboardingDetails.xlsx' because it is being used by another process.",""
+"11/8/2025 3:02:17 PM","af4193ea-53d4-4772-9d22-767cc9be5a5a","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_EXPECTED_MONTHLY_INVESTEMENTAMOUNT) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"11/8/2025 3:02:51 PM","7e437df0-d1d4-41dc-a501-6b4d746e9270","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_EXPECTED_MONTHLY_INVESTEMENTAMOUNT) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"11/8/2025 3:04:34 PM","26f18093-b623-449c-b337-e6c84871fbaf","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_EXPECTED_MONTHLY_INVESTEMENTAMOUNT) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"11/8/2025 3:06:54 PM","f81bbbbd-c49d-4c4a-be03-8d0d59770929","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_EXPECTED_MONTHLY_INVESTEMENTAMOUNT) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"11/8/2025 3:09:40 PM","117264b1-de5b-4ecb-9c25-96f61436452b","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_EXPECTED_MONTHLY_INVESTEMENTAMOUNT) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"11/8/2025 3:10:55 PM","3e53606f-d93f-462c-aa38-4faa7f3b9a7e","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_EXPECTED_MONTHLY_INVESTEMENTAMOUNT) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"11/8/2025 6:37:34 PM","2fbcb05e-8e92-458f-a008-c46809fb9bbd","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01460: unimplemented or unreasonable conversion requested
+https://docs.oracle.com/error-help/db/ora-01460/"
+"11/8/2025 7:09:24 PM","5880381d-c6bc-4724-9a7f-f5c0f747e324","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01460: unimplemented or unreasonable conversion requested
+https://docs.oracle.com/error-help/db/ora-01460/"
+"11/8/2025 7:33:26 PM","9fd5986d-7f59-4e55-81f2-e4787a90e099","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01460: unimplemented or unreasonable conversion requested
+https://docs.oracle.com/error-help/db/ora-01460/"
+"11/8/2025 7:35:28 PM","b6678824-0a20-467b-b910-6e3750244922","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01460: unimplemented or unreasonable conversion requested
+https://docs.oracle.com/error-help/db/ora-01460/"
+"11/8/2025 7:49:51 PM","4ed7cdc7-02bd-4b0c-934b-781d91d3346a","An error occurred while saving the entity changes. See the inner exception for details.","ORA-01460: unimplemented or unreasonable conversion requested
+https://docs.oracle.com/error-help/db/ora-01460/"
+    "11/8/2025 8:38:53 PM","fdb5984c-c5a7-4176-851b-5fbbe81ec124","ORA-00942: table or view does not exist
+https://docs.oracle.com/error-help/db/ora-00942/",""
+"13/8/2025 3:11:29 PM","a7d3af30-055b-4583-8817-59418ac6247c","An item with the same key has already been added. Key: EXPECTED_MONTHLY_INVESTEMENTAMOUNT",""
+"13/8/2025 3:13:44 PM","ed50caf9-7291-4e6a-bb8a-f86f52132cda","An item with the same key has already been added. Key: EXPECTED_MONTHLY_NO_OF_REDEMPTION_TRANSACTION",""
+"13/8/2025 3:23:38 PM","d6e6e658-42d4-4b67-8d0a-2ade1b576b91","The process cannot access the file 'D:\ExcelFileOnboarding\OnboardingDetails.xlsx' because it is being used by another process.",""
+"13/8/2025 3:26:59 PM","4e77e721-3f72-4b43-a3bc-db54182fb64f","The process cannot access the file 'D:\ExcelFileOnboarding\OnboardingDetails.xlsx' because it is being used by another process.",""
+"13/8/2025 3:27:58 PM","a23c0d71-ee7f-43ed-b782-07776260d827","The process cannot access the file 'D:\ExcelFileOnboarding\OnboardingDetails.xlsx' because it is being used by another process.",""
+"13/8/2025 4:28:21 PM","5b44dffa-0641-47b8-ba9f-edf937e44cd1","ORA-00904: ""u"".""TRANSACTION_FEATURE_ID"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"13/8/2025 4:30:06 PM","83418b92-a05d-4a44-b1c7-13ac1f9743d0","ORA-00904: ""u"".""TRANSACTION_FEATURE_ID"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"21/8/2025 2:01:21 AM","01073e21-b410-4e7b-8e26-18506b0d862b","ORA-50000: Connection request timed out",""
+"21/8/2025 2:02:27 AM","668952c1-7c7a-4f82-a322-568d7c5e7ac9","ORA-50000: Connection request timed out",""
+"21/8/2025 2:04:31 AM","5f4e5306-83d4-44ae-b1f5-883b1a858742","An error occurred while saving the entity changes. See the inner exception for details.","ORA-12899: value too large for column ""TEST"".""ACCOUNTOPENING"".""ZAKAT_STATUS"" (actual: 12, maximum: 10)
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-12899/"
+"22/8/2025 3:10:29 PM","3980c54c-c94e-4802-9800-f66c6c1964b4","ORA-50000: Connection request timed out",""
+"22/8/2025 3:11:43 PM","fb23f552-b2d3-44d5-9d35-b5c2abc83c18","ORA-50000: Connection request timed out",""
+
+"26/8/2025 5:04:05 PM","9f5221fd-f465-4c29-be76-dd971d01c630","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"26/8/2025 5:16:15 PM","36e9936b-4ada-44aa-b28c-8df3aabc6bd6","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"26/8/2025 5:45:02 PM","4bfae78f-b21d-40bf-941f-4ff9f89c8b9d","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"26/8/2025 5:47:39 PM","faae51f2-b28f-49a4-ad1d-094dcdad235c","The operation has timed out.",""
+"26/8/2025 5:51:03 PM","84e6f91a-7b39-438f-a310-25f78e9ff0c7","The SMTP server does not support authentication.",""
+"26/8/2025 6:10:51 PM","d1afbe4c-2eef-4b6a-8654-bb663d245fad","5.7.3 STARTTLS is required to send mail [DO3P289CA0002.QATP289.PROD.OUTLOOK.COM 2025-08-26T13:08:11.664Z 08DDE2BA6951C7C1]",""
+"27/8/2025 2:59:27 PM","1bf6c19e-97de-44dd-8232-bd1765ccd2ac","5.7.3 STARTTLS is required to send mail [DO3P289CA0023.QATP289.PROD.OUTLOOK.COM 2025-08-27T09:56:44.551Z 08DDE2B0451A1988]",""
+"27/8/2025 3:11:43 PM","900d2cef-c4cc-42bf-a4b4-4f7428e0da3a","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"27/8/2025 3:14:07 PM","86fe4328-d432-4713-b555-79e4b3a965e8","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"27/8/2025 3:34:57 PM","bb7e7a23-c05e-4700-9e0d-19f17bce6e3e","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"27/8/2025 6:44:56 PM","51488038-a8c1-4de0-a873-9e7397f53e73","The operation has timed out.",""
+"27/8/2025 8:10:55 PM","73163a5c-a8c0-4c5c-b1a5-ab657a1d49eb","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_RISKPROFILE_OCCUPATION) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"27/8/2025 8:20:36 PM","ef148d6b-7f6b-4a57-aaed-f9784e57a6e3","An error occurred while saving the entity changes. See the inner exception for details.","ORA-02291: integrity constraint (TEST.FK_ACCOUNTOPENING_RISKPROFILE_OCCUPATION) violated - parent key not found
+ORA-06512: at line 7
+https://docs.oracle.com/error-help/db/ora-02291/"
+"1/9/2025 2:51:51 PM","cd4ec70a-27f1-43f2-9a9f-1e772e8b4da3","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"1/9/2025 3:11:33 PM","91eb4160-0606-4db2-bbe8-48fc4c18ce3a","An error occurred while attempting to establish an SSL or TLS connection.
+
+When connecting to an SMTP service, port 587 is typically reserved for plain-text connections. If
+you intended to connect to SMTP on the SSL port, try connecting to port 465 instead. Otherwise,
+if you intended to use STARTTLS, make sure to use the following code:
+
+client.Connect (""smtp.office365.com"", 587, SecureSocketOptions.StartTls);
+","Cannot determine the frame size or a corrupted frame was received."
+"1/9/2025 3:22:57 PM","5da71c8f-2938-4ad4-b633-cbc7712a43a6","The operation has timed out.",""
+"1/9/2025 3:40:05 PM","f85a09ad-6fab-4cea-b751-1656cc930eb3","Failure sending mail.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
+"1/9/2025 3:43:19 PM","62e9425c-a5ed-41d7-b2d7-94641eefbdf9","Failure sending mail.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
+"1/9/2025 3:51:56 PM","8d665034-14e4-43a6-a3fb-91ac6fdc75e6","Failure sending mail.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
+"1/9/2025 4:17:55 PM","6728843b-ec4d-4e52-a6c3-14555208bd7e","Failure sending mail.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
+"1/9/2025 4:21:08 PM","c444a580-a0e4-44cd-a14f-e40d87eecf46","Failure sending mail.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
+"1/9/2025 4:51:26 PM","b26ddce8-549a-49d5-924f-f65c5f3de5ab","Failure sending mail.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
+"1/9/2025 5:32:02 PM","6cd570a3-ca15-4e01-9cd6-3854fe9173a4","Failure sending mail.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
+"1/9/2025 5:53:47 PM","ff2b6d67-9fb0-4cb4-91be-e7633a367ab1","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"1/9/2025 6:04:03 PM","05bc8ae4-6ed3-4254-a5e0-1f948accf409","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"1/9/2025 6:23:55 PM","985d6149-e7c1-45eb-8376-66b72d7b651e","Failure sending mail.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
+"1/9/2025 6:49:54 PM","51859ca9-0da7-42e3-a7d4-027a31e1ab64","Failure sending mail.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
+"1/9/2025 7:15:41 PM","61c12781-599e-4a66-860b-76e9c31ebebb","Failure sending mail.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
+"1/9/2025 8:41:44 PM","d5f84439-6ae8-4ca3-b495-a149d9144823","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"2/9/2025 7:44:25 PM","e22aa826-682a-4ebb-b7d3-22f8d16ae927","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"2/9/2025 8:06:36 PM","3580f765-a6e6-4d18-895e-756eada4b8d0","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"2/9/2025 8:08:58 PM","b4049962-257b-4661-a34d-6c03583efd34","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"2/9/2025 8:16:31 PM","22b5b24e-389f-4a97-81c9-a121b2a910d8","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"2/9/2025 8:42:21 PM","74e0c71f-8d9e-47de-9173-63b9f79b9feb","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"2/9/2025 8:48:02 PM","8c4de651-d501-4008-8e3a-01901aa74605","An error occurred while attempting to establish an SSL or TLS connection.
+
+This usually means that the SSL certificate presented by the server is not trusted by the system for one or more of
+the following reasons:
+
+1. The server is using a self-signed certificate which cannot be verified.
+2. The local system is missing a Root or Intermediate certificate needed to verify the server's certificate.
+3. A Certificate Authority CRL server for one or more of the certificates in the chain is temporarily unavailable.
+4. The certificate presented by the server is expired or invalid.
+5. The set of SSL/TLS protocols supported by the client and server do not match.
+
+See https://github.com/jstedfast/MailKit/blob/master/FAQ.md#ssl-handshake-exception for possible solutions.
+","An existing connection was forcibly closed by the remote host."
+"3/9/2025 4:31:15 PM","26d68eab-2a7a-46bb-9a4a-da5756dcd17e","The process cannot access the file 'D:\ExcelFileOnboarding\OnboardingDetails_401.xlsx' because it is being used by another process.",""
+"3/9/2025 4:37:05 PM","55c384c6-fd38-4fc2-bcc1-287caab1a80b","The process cannot access the file 'D:\ExcelFileOnboarding\OnboardingDetails_401.xlsx' because it is being used by another process.",""
+"3/9/2025 9:15:06 PM","acef6012-7d89-449e-9872-1b29d3715ff4","ORA-50000: Connection request timed out",""
+"3/9/2025 9:16:51 PM","8e37ae37-8502-4545-9130-637cb1036ab0","ORA-50000: Connection request timed out",""
+"3/9/2025 9:18:37 PM","7ca71eca-2ca5-45ec-be2e-033396957fcc","ORA-50000: Connection request timed out",""
+"8/9/2025 5:50:14 PM","f2377bf7-a7f2-4791-8e9c-e2057d3762ea","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"9/9/2025 5:33:45 PM","80059fa3-de77-4877-ad4d-7f52f2b85531","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"9/9/2025 7:32:40 PM","b366b686-7a5b-49fd-a3ed-57bef22aa8aa","ORA-50000: Connection request timed out",""
+"9/9/2025 7:33:23 PM","d8fd5c8d-cb32-456f-9c7c-f19f02a012b0","ORA-50000: Connection request timed out",""
+"11/9/2025 6:06:35 PM","ac8c69f1-ccf8-480d-8e28-5ed47dd4ef7c","A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.",""
+"22/9/2025 7:07:45 PM","5c69151b-42b8-4933-89c9-f61e4aff3246","Conflicting method/path combination ""POST api/dashboard/GetActiveAccountTypeID"" for actions - FaysalFunds.API.Controllers.DashBoardController.GetActiveAccountType (FaysalFunds.API),FaysalFunds.API.Controllers.DashBoardController.GetActiveAccountType (FaysalFunds.API). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround",""
+"24/9/2025 7:59:01 PM","1cf69766-2501-42ff-aeef-3ead4970fd0f","The input does not contain any JSON tokens. Expected the input to start with a valid JSON token, when isFinalBlock is true. Path: $ | LineNumber: 0 | BytePositionInLine: 0.","The input does not contain any JSON tokens. Expected the input to start with a valid JSON token, when isFinalBlock is true. LineNumber: 0 | BytePositionInLine: 0."
+"24/9/2025 7:59:23 PM","12008b62-1e0f-45f8-91cc-84e58a95d58e","The input does not contain any JSON tokens. Expected the input to start with a valid JSON token, when isFinalBlock is true. Path: $ | LineNumber: 0 | BytePositionInLine: 0.","The input does not contain any JSON tokens. Expected the input to start with a valid JSON token, when isFinalBlock is true. LineNumber: 0 | BytePositionInLine: 0."
+"24/9/2025 8:01:26 PM","73374d5b-821f-41ff-bd5c-6c4b6c02ff3a","The input does not contain any JSON tokens. Expected the input to start with a valid JSON token, when isFinalBlock is true. Path: $ | LineNumber: 0 | BytePositionInLine: 0.","The input does not contain any JSON tokens. Expected the input to start with a valid JSON token, when isFinalBlock is true. LineNumber: 0 | BytePositionInLine: 0."
+"25/9/2025 9:08:55 PM","51ce96e9-b9ff-49b7-a3b8-07dd471c0829","No such host is known. (sanbox.faysalfunds.com:205)","No such host is known."
+"25/9/2025 9:12:06 PM","ebb3224a-fe33-4e56-b8be-12362a73dd1e","No such host is known. (sanbox.faysalfunds.com:205)","No such host is known."
+"29/9/2025 7:07:12 PM","1a56ca08-f31a-42c4-bac6-ffd4ffecceb0","ORA-50000: Connection request timed out",""
+"29/9/2025 7:09:38 PM","214b1a39-799d-4e5f-8997-ddfcdd604ec8","ORA-50000: Connection request timed out",""
+"30/9/2025 4:46:10 PM","edb9a99c-b1cb-48cc-bbfe-e29def118658","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"
+"1/10/2025 4:31:02 PM","fc0a91eb-0490-4385-91ec-37377007caf3","The input string 'Faysal Islamic Savings Growth Fund' was not in a correct format.",""
+"1/10/2025 4:34:02 PM","f77e8e62-8fd1-407a-bbf3-c814c6d78c83","The input string 'Faysal Islamic Savings Growth Fund' was not in a correct format.",""
+"1/10/2025 4:50:30 PM","d077522c-25a2-40da-bf63-f3d71508c3b2","The input string 'Faysal Islamic Savings Growth Fund' was not in a correct format.",""
+"1/10/2025 4:55:08 PM","62b63601-3ca8-4dd8-a5d4-e54cb51b85da","No connection could be made because the target machine actively refused it. (localhost:7201)","No connection could be made because the target machine actively refused it."
+"1/10/2025 4:55:31 PM","4fd005ae-2259-4188-a20d-563c22f19ddd","No connection could be made because the target machine actively refused it. (localhost:7201)","No connection could be made because the target machine actively refused it."
+"1/10/2025 4:56:42 PM","a3ac2c17-dab1-4777-a41e-780a25a45061","No connection could be made because the target machine actively refused it. (localhost:7201)","No connection could be made because the target machine actively refused it."
+"1/10/2025 4:57:04 PM","2523166c-7357-4824-a414-61f26b879613","No connection could be made because the target machine actively refused it. (localhost:7201)","No connection could be made because the target machine actively refused it."
+"1/10/2025 6:14:50 PM","efe5de79-5970-44bc-8bc7-1add7d3cf31f","The input string 'Faysal Islamic Financial Growth Plan - I' was not in a correct format.",""
+"1/10/2025 6:24:23 PM","d498c25b-d8e9-4b14-bf07-c0c4fe531be8","Value cannot be null. (Parameter 's')",""
+"1/10/2025 6:46:53 PM","106651f2-080d-442f-bf2a-cadc5778e571","Value cannot be null. (Parameter 's')",""
+"1/10/2025 6:59:52 PM","1692b023-c05c-4cc5-b37f-3dfadefdda89","ORA-00942: table or view does not exist
+https://docs.oracle.com/error-help/db/ora-00942/",""
+"6/10/2025 8:11:05 PM","3b0707c5-40aa-4f68-8f37-695ceba1ea0e","No connection could be made because the target machine actively refused it. (localhost:7201)","No connection could be made because the target machine actively refused it."
+"8/10/2025 3:05:14 PM","e468fbaf-11fc-4e2e-ab65-8972b424d820","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
+https://docs.oracle.com/error-help/db/ora-12570/"

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.97.0" />
+    <PackageReference Include="MailKit" Version="4.12.1" />
+    <PackageReference Include="Oracle.EntityFrameworkCore" Version="8.23.70" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="23.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FaysalFunds.Application\FaysalFunds.Application.csproj" />
+    <ProjectReference Include="..\FaysalFunds.Common\FaysalFunds.Common.csproj" />
+    <ProjectReference Include="..\FaysalFunds.Domain\FaysalFunds.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
