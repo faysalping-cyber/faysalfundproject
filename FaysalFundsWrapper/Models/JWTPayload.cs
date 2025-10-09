@@ -6,5 +6,7 @@
 
         public string Email { get; set; }
         public string Name { get; set; }
+        public string CNIC { get; set; }
+        public string PhoneNo { get; set; }
     }
 }

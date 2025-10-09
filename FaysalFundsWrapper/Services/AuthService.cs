@@ -74,7 +74,9 @@ namespace FaysalFundsWrapper.Services
             {
                 Email = userDetails.Email,
                 Name = userDetails.Name,
-                UserId = userDetails.UserId
+                UserId = userDetails.UserId,
+                CNIC = userDetails.Cnic,
+                PhoneNo = userDetails.PhoneNo
             });
 
             // Build response

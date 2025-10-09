@@ -21,6 +21,8 @@ public sealed class TokenProviderService(IConfiguration configuration)
             new Claim(ClaimTypes.NameIdentifier, model.UserId.ToString()),  
             new Claim(ClaimTypes.Name, model.Name),
             new Claim(ClaimTypes.Email, model.Email),
+            new Claim(ClaimTypes.MobilePhone, model.PhoneNo),
+            new Claim(CustomClaimTypes.CNIC,model.CNIC)
         };
 
         var tokenDescriptor = new SecurityTokenDescriptor
