@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FaysalFundsWrapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b6701cc0d6c638a913bef8d806d012d2877cc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b6c80003632280208a0544d17b6a2322183728d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FaysalFundsWrapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FaysalFundsWrapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

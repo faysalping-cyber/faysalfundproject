@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FaysalFunds.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c3ff4957493160cf555c898fdcd2942d9175050")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b6c80003632280208a0544d17b6a2322183728d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FaysalFunds.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FaysalFunds.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
