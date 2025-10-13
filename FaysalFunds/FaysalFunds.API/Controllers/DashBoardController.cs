@@ -3,6 +3,7 @@ using FaysalFunds.Application.DTOs.AccountOpening;
 using FaysalFunds.Application.DTOs.ExternalAPI;
 using FaysalFunds.Application.DTOs.TransactionAllowedDTO;
 using FaysalFunds.Application.Services;
+using FaysalFunds.Domain.DTOs.ExternalAPI;
 using FaysalFunds.Infrastructure.ExternalService;
 using Microsoft.AspNetCore.Mvc;
 

@@ -8855,11 +8855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
+      "projectUniqueName": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
       "projectName": "FaysalFunds.API",
-      "projectPath": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
+      "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
       "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-      "outputPath": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.API\\obj\\",
+      "outputPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8873,23 +8873,25 @@
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj": {
-              "projectPath": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj"
+            "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj": {
+              "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj"
             },
-            "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
-              "projectPath": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
+            "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
+              "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
             },
-            "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj": {
-              "projectPath": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj"
+            "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj": {
+              "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj"
             },
-            "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj": {
-              "projectPath": "D:\\Sprint 2 september 22 code deploy\\merged 22-sep-2025\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj"
+            "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj": {
+              "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj"
             }
           }
         }
@@ -8903,8 +8905,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -8938,7 +8939,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

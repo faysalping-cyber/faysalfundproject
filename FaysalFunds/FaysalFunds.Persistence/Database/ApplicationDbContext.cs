@@ -34,6 +34,7 @@ namespace FaysalFunds.Persistence.Database
         public DbSet<kpSlab> kpSlabs { get; set; }
         public DbSet<TransactionReceiptDetails> TransactionReceiptDetails { get; set; }
         public DbSet<InvestmentInstructions> InvestmentInstructions { get; set; }
+        public DbSet<FAML_FUND> FAML_FUND { get; set; }
         // Views
 
         public DbSet<UHS> UHS { get; set; }
@@ -71,6 +72,7 @@ namespace FaysalFunds.Persistence.Database
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<UHS>().ToView("UHS");
+            modelBuilder.Entity<FAML_FUND>().HasNoKey();
         }
     }
 }

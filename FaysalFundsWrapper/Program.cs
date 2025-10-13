@@ -27,6 +27,7 @@ builder.Services.AddScoped<IJWTBlackLisService, JWTBlackLisService>();
 builder.Services.AddScoped<IOnBoardingService, OnBoardingService>();
 builder.Services.AddScoped<ITransactionPinService, TransactionPinService>();
 builder.Services.AddScoped<IDashhboardServices, DashhboardServices>();
+builder.Services.AddScoped<IRaastService, RaastService>();
 builder.Services.AddScoped<RefreshTokenService>();
 builder.Services.Configure<JsonOptions>(options =>
 {

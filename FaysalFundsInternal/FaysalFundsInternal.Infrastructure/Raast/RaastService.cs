@@ -36,17 +36,15 @@ namespace FaysalFundsInternal.Infrastructure.Raast
             var deserializedResponse = JsonConvert.DeserializeObject<GenerateIbanResponseModel>(apiContent);
             if (deserializedResponse == null)
                 throw new ApiException("Invalid or empty response received from Raast GenerateIBAN API.");
-
+            if (deserializedResponse.ResponseCode == "99")
+            {
+                throw new ApiException(deserializedResponse.ResponseMessage);
+            }
             var responseModel = new GenerateIbanResponse
             {
-                RaastIban = deserializedResponse.raastIBAN
+                RaastIban = deserializedResponse.RaastIBAN
             };
-
-            var messageText = deserializedResponse.responseCode == "00"
-                ? "Successful"
-                : deserializedResponse.errorRemarks ?? "Failed to generate IBAN.";
-
-            return ApiResponse<GenerateIbanResponse>.Success(responseModel, messageText);
+            return ApiResponse<GenerateIbanResponse>.Success(responseModel);
         }
 
 

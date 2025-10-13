@@ -86,6 +86,7 @@ builder.Services.AddScoped<IExpectedMonthlyInvestmentAmountRepository, ExpectedM
 builder.Services.AddScoped<IExpectedMonthlyNoOfInvestmentTransactionRepository, ExpectedMonthlyNoOfInvestmentTransactionRepository>();
 builder.Services.AddScoped<IExpectedMonthlyNoOfRedemptionTransactionRepository, ExpectedMonthlyNoOfRedemptionTransactionRepository>();
 builder.Services.AddScoped<IRiskProfileOccupationRepository, RiskProfileOccupationRepository>();
+builder.Services.AddScoped<IFamlFundByFAMLRepository, FamlFundByFAMLRepository>();
 
 builder.Services.AddScoped<IQuickAccessRepository, QuickAccessRepository>();
 builder.Services.AddScoped<IUserQuickAccessRepository, UserQuickAccessRepository>();

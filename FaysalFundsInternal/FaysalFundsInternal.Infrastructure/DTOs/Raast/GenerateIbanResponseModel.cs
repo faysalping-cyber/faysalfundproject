@@ -2,9 +2,10 @@
 {
     public class GenerateIbanResponseModel
     {
-        public string errorRemarks { get; set; } = string.Empty;
-        public string raastIBAN { get; set; } = string.Empty;
-        public string responseCode { get; set; } = string.Empty;
-        public string responseStatus { get; set; } = string.Empty;
+        public string ErrorRemarks { get; set; } = string.Empty;
+        public string RaastIBAN { get; set; } = string.Empty;
+        public string ResponseCode { get; set; } = string.Empty;
+        public string ResponseStatus { get; set; } = string.Empty;
+        public string? ResponseMessage { get; set; } = string.Empty;
     }
 }

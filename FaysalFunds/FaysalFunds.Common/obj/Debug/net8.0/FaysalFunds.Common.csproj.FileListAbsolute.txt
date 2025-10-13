@@ -166,3 +166,16 @@ D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\refint\FaysalFunds.Common.dll
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.pdb
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\ref\FaysalFunds.Common.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Debug\net8.0\FaysalFunds.Common.deps.json
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Debug\net8.0\FaysalFunds.Common.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Debug\net8.0\FaysalFunds.Common.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.sourcelink.json
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\refint\FaysalFunds.Common.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\ref\FaysalFunds.Common.dll

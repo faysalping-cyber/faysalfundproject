@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FaysalFundsInternal.CrossCutting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c3ff4957493160cf555c898fdcd2942d9175050")]
 [assembly: System.Reflection.AssemblyProductAttribute("FaysalFundsInternal.CrossCutting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FaysalFundsInternal.CrossCutting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

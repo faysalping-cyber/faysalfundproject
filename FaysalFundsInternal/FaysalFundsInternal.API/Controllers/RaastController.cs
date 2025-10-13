@@ -1,8 +1,5 @@
-﻿using FaysalFundsInternal.API.ModelValidations;
-using FaysalFundsInternal.Infrastructure.DTOs;
-using FaysalFundsInternal.Infrastructure.DTOs.Raast;
+﻿using FaysalFundsInternal.Infrastructure.DTOs.Raast;
 using FaysalFundsInternal.Infrastructure.Raast;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FaysalFundsInternal.API.Controllers

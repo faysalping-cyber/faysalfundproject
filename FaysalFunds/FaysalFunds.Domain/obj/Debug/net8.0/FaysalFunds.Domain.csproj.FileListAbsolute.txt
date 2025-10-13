@@ -205,3 +205,19 @@ D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\refint\FaysalFunds.Domain.dll
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.pdb
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\ref\FaysalFunds.Domain.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Domain.deps.json
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Domain.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Domain.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Common.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Common.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.csproj.AssemblyReference.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.AssemblyInfoInputs.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.AssemblyInfo.cs
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.csproj.CoreCompileInputs.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.sourcelink.json
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFu.32A27238.Up2Date
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\refint\FaysalFunds.Domain.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\ref\FaysalFunds.Domain.dll

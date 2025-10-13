@@ -1,4 +1,4 @@
-﻿namespace FaysalFunds.Application.DTOs
+﻿namespace FaysalFunds.Domain.DTOs.ExternalAPI
 {
     public class CheckBalanceRequestModel
     {

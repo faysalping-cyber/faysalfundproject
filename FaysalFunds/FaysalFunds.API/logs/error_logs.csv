@@ -893,3 +893,12 @@ https://docs.oracle.com/error-help/db/ora-00942/",""
 "8/10/2025 3:05:14 PM","e468fbaf-11fc-4e2e-ab65-8972b424d820","ORA-12570: TNS:packet reader failure
 https://docs.oracle.com/error-help/db/ora-12570/","ORA-12570: TNS:packet reader failure
 https://docs.oracle.com/error-help/db/ora-12570/"
+"10/10/2025 12:06:42 AM","b838cdd0-04b7-493e-9897-f39a071d4511","A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (sanbox.faysalfunds.com:205)","A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."
+"10/10/2025 12:08:14 AM","b9f7738a-71f6-4e01-b3ee-f3de456cedaf","A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (sanbox.faysalfunds.com:205)","A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."
+"10/10/2025 12:08:42 AM","c85de375-a2ce-4b79-991b-d9e8abd08dc7","A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. (sanbox.faysalfunds.com:205)","A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."
+"13/10/2025 1:05:23 PM","8c45baa2-11a0-4c34-9737-2289996dcf79","ORA-00904: ""f"".""fund_short_name"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"13/10/2025 1:16:24 PM","c338ef54-2524-48c8-bae7-d6d696581dd6","ORA-00904: ""f"".""ID"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"13/10/2025 2:06:59 PM","66a8c0b3-84ad-46c9-9ee2-b6d7023520c5","ORA-00904: ""f"".""FAML_ID"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""

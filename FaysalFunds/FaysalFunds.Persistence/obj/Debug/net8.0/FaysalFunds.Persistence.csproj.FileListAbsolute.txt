@@ -248,3 +248,23 @@ D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\refint\FaysalFunds.Persistence.dll
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\FaysalFunds.Persistence.pdb
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\ref\FaysalFunds.Persistence.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Debug\net8.0\FaysalFunds.Persistence.deps.json
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Debug\net8.0\FaysalFunds.Persistence.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Debug\net8.0\FaysalFunds.Persistence.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Debug\net8.0\FaysalFunds.Application.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Debug\net8.0\FaysalFunds.Common.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Debug\net8.0\FaysalFunds.Domain.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Debug\net8.0\FaysalFunds.Application.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Debug\net8.0\FaysalFunds.Common.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Debug\net8.0\FaysalFunds.Domain.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\FaysalFunds.Persistence.csproj.AssemblyReference.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\FaysalFunds.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\FaysalFunds.Persistence.AssemblyInfoInputs.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\FaysalFunds.Persistence.AssemblyInfo.cs
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\FaysalFunds.Persistence.csproj.CoreCompileInputs.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\FaysalFunds.Persistence.sourcelink.json
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\FaysalFu.96186288.Up2Date
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\FaysalFunds.Persistence.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\refint\FaysalFunds.Persistence.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\FaysalFunds.Persistence.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Debug\net8.0\ref\FaysalFunds.Persistence.dll

@@ -1,18 +1,14 @@
 ﻿using FaysalFunds.Application.DTOs;
 using FaysalFunds.Application.DTOs.ExternalAPI;
-using FaysalFunds.Application.DTOs.TransactionAllowedDTO;
 using FaysalFunds.Common;
 using FaysalFunds.Common.APIException;
 using FaysalFunds.Common.ApiResponses;
+using FaysalFunds.Domain.DTOs.ExternalAPI;
+using FaysalFunds.Domain.Interfaces;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
-using Newtonsoft.Json.Linq;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace FaysalFunds.Infrastructure.ExternalService
 {
@@ -21,14 +17,15 @@ namespace FaysalFunds.Infrastructure.ExternalService
         private readonly BaseUrls _baseUrls;
         private readonly HttpClient _httpClient;
         private readonly IConfiguration _configuration;
-
-        public FamlInternalService(HttpClient httpClient, IConfiguration configuration, IOptions<BaseUrls> baseUrls)
+        private readonly IFamlFundByFAMLRepository _fundByFAMLRepository;
+        public FamlInternalService(HttpClient httpClient, IConfiguration configuration, IOptions<BaseUrls> baseUrls, IFamlFundByFAMLRepository fundByFAMLRepository)
         {
             _httpClient = httpClient;
             _configuration = configuration;
             _baseUrls = baseUrls.Value;
+            _fundByFAMLRepository = fundByFAMLRepository;
         }
-        public async Task<List<CheckBalanceResponseModel>> CheckBalance(CheckBalanceRequestModel request) 
+        public async Task<List<CheckBalanceResponseModel>> CheckBalance(CheckBalanceRequestModel request)
         {
             var url = _configuration["BaseUrls/FaysalInternal"];
 
@@ -144,12 +141,60 @@ namespace FaysalFunds.Infrastructure.ExternalService
 
             {
                 ResponseCode = result.response_Code,
-                KuickPayId = result.response_description, 
+                KuickPayId = result.response_description,
                 ResponseDetail = result.responseCode_Detail
             });
         }
 
+        public async Task<ApiResponseWithData<GenerateIbanResponseModel>> GenerateIban(GenerateIbanRequestModel request)
+        {
+            string url = _baseUrls.FaysalInternal + "/Raast/GenerateIban";
 
+            var content = new StringContent(JsonSerializer.Serialize(request), Encoding.UTF8, "application/json");
 
+            var response = await _httpClient.PostAsync(url, content);
+
+            var options = new JsonSerializerOptions
+            {
+                PropertyNameCaseInsensitive = true
+            };
+            var responseStream = await response.Content.ReadAsStreamAsync();
+            if (!response.IsSuccessStatusCode)
+            {
+                var err = await JsonSerializer.DeserializeAsync<ApiResponseNoData>(responseStream, options);
+                throw new ApiException(err.Message);
+            }
+            var fundName = await _fundByFAMLRepository.GetFundNameByFUndShortName(request.FundCode);
+            var result = await JsonSerializer.DeserializeAsync<ApiResponseWithData<GenerateIbanResponseModel>>(responseStream, options);
+            result.Data.FolioNo = request.FolioNo;
+            result.Data.FundName = fundName;
+            return result;
+        }
+
+        public async Task<ApiResponseWithData<List<RaastIdsModel>>> GetRaastIdsList(RaastIdsListRequestModel request)
+        {
+
+            string url = _baseUrls.FaysalInternal + "/Raast/GetIbanList";
+
+            var content = new StringContent(JsonSerializer.Serialize(request), Encoding.UTF8, "application/json");
+
+            var response = await _httpClient.PostAsync(url, content);
+
+            var options = new JsonSerializerOptions
+            {
+                PropertyNameCaseInsensitive = true
+            };
+            var responseStream = await response.Content.ReadAsStreamAsync();
+            if (!response.IsSuccessStatusCode)
+            {
+                var err = await JsonSerializer.DeserializeAsync<ApiResponseNoData>(responseStream, options);
+                throw new ApiException(err.Message);
+            }
+            var result = await JsonSerializer.DeserializeAsync<ApiResponseWithData<List<RaastIdsListResponseModel>>>(responseStream, options);
+            var IbanList = result.Data;
+
+            var fundList = await _fundByFAMLRepository.GetRaastIdsModels(IbanList);
+            return ApiResponseWithData<List<RaastIdsModel>>.SuccessResponse(fundList);
+        }
     }
 }
