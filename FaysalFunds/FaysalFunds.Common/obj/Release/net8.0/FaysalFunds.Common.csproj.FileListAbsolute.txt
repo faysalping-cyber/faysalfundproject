@@ -94,3 +94,16 @@ D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\refint\FaysalFunds.Common.dll
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.pdb
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\ref\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.deps.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.sourcelink.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\refint\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\FaysalFunds.Common.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Release\net8.0\ref\FaysalFunds.Common.dll

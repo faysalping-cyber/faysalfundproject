@@ -20,8 +20,10 @@ namespace FaysalFunds.Application.Services
         private readonly RefreshTokenService _refreshTokenService;
         private readonly ILoginAttemptRepository _loginAttemptRepository;
         private readonly IUserPasswordHistoryRepository _userPasswordHistoryRepository;
+        private readonly ITransactionPinRepository _transactionPinRepository;
+
         private readonly double _lockMinute;
-        public AccountService(EncryptionService encryptionService, IAccountRepository accountRepository, UHSService uHSService, LFDService lFDService, ILoginAttemptRepository loginAttemptRepository, IUHSRepository uHSRepository, /*TokenProviderService tokenProviderService,*/ IUserPasswordHistoryRepository userPasswordHistoryRepository, RefreshTokenService refreshTokenService, IOptions<Settings> options)
+        public AccountService(EncryptionService encryptionService, IAccountRepository accountRepository, UHSService uHSService, LFDService lFDService, ILoginAttemptRepository loginAttemptRepository, IUHSRepository uHSRepository, /*TokenProviderService tokenProviderService,*/ IUserPasswordHistoryRepository userPasswordHistoryRepository, RefreshTokenService refreshTokenService, IOptions<Settings> options, ITransactionPinRepository transactionPinRepository)
         {
             _encryptionService = encryptionService;
             _accountRepository = accountRepository;
@@ -32,6 +34,7 @@ namespace FaysalFunds.Application.Services
             _userPasswordHistoryRepository = userPasswordHistoryRepository;
             _refreshTokenService = refreshTokenService;
             _lockMinute = options.Value.lockMinutes;
+            _transactionPinRepository = transactionPinRepository;
         }
 
         public async Task<ApiResponseWithData<SignupResponseModel>> Signup(Signup signup)
@@ -123,6 +126,13 @@ namespace FaysalFunds.Application.Services
             //await CHeckAndSaveUserScreening(accountId, account.CNIC);
             await _loginAttemptRepository.ResetAttemptsAsync(accountId);
             var refreshToken = await _refreshTokenService.SaveRefreshToken(account.EMAIL);
+            var existingPin = await _transactionPinRepository.GetTpinByAccountOpeningId(accountId);
+            bool pinExists = false;
+
+            if (existingPin != null)
+            {
+                pinExists = !string.IsNullOrEmpty(existingPin.PINHASH);
+            }
 
             var result = await _accountRepository.IsDeviceRegistered(model.RegisteredDeviceId, accountId);
 
@@ -136,7 +146,9 @@ namespace FaysalFunds.Application.Services
                 CountryCode = account.COUNTRYCODE,
                 IsDeviceRegistered = result == 2,
                 AccessToken = "",
-                RefreshToken = refreshToken.Data
+                RefreshToken = refreshToken.Data,
+                TpinExist = pinExists
+
             };
 
             return ApiResponseWithData<LoginResponseModel>.SuccessResponse(responseModel, "Login successful");

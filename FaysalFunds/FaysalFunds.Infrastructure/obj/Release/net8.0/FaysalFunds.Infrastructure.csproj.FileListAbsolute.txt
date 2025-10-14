@@ -93,3 +93,23 @@ D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\refint\FaysalFunds.Infrastructure.dll
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\FaysalFunds.Infrastructure.pdb
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\ref\FaysalFunds.Infrastructure.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\bin\Release\net8.0\FaysalFunds.Infrastructure.deps.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\bin\Release\net8.0\FaysalFunds.Infrastructure.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\bin\Release\net8.0\FaysalFunds.Infrastructure.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\FaysalFunds.Infrastructure.csproj.AssemblyReference.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\FaysalFunds.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\FaysalFunds.Infrastructure.AssemblyInfoInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\FaysalFunds.Infrastructure.AssemblyInfo.cs
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\FaysalFunds.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\FaysalFunds.Infrastructure.sourcelink.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\FaysalFu.98FD2BB8.Up2Date
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\FaysalFunds.Infrastructure.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\refint\FaysalFunds.Infrastructure.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\FaysalFunds.Infrastructure.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Infrastructure\obj\Release\net8.0\ref\FaysalFunds.Infrastructure.dll

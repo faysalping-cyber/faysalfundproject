@@ -144,3 +144,23 @@ D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\refint\FaysalFunds.Persistence.dll
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.pdb
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\ref\FaysalFunds.Persistence.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.deps.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.AssemblyReference.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfoInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.AssemblyInfo.cs
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.csproj.CoreCompileInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.sourcelink.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFu.96186288.Up2Date
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\refint\FaysalFunds.Persistence.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\FaysalFunds.Persistence.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Persistence\obj\Release\net8.0\ref\FaysalFunds.Persistence.dll

@@ -179,3 +179,16 @@ C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Deb
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\refint\FaysalFunds.Common.dll
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.pdb
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\ref\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Debug\net8.0\FaysalFunds.Common.deps.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Debug\net8.0\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Debug\net8.0\FaysalFunds.Common.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.sourcelink.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\refint\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\ref\FaysalFunds.Common.dll

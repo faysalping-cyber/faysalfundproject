@@ -41,7 +41,6 @@
         public int MonthlyProfit { get; set; }
         public long PaymentMode { get; set; }
         public string BankName { get; set; }
-        public string AccountTitle { get; set; }
         public string IBAN { get; set; }
         public byte[] TransactionProof { get; set; }
         public int IsExistingBank { get; set; }

@@ -134,3 +134,21 @@ D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\refint\FaysalFunds.Application.dll
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\FaysalFunds.Application.pdb
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\ref\FaysalFunds.Application.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\bin\Release\net8.0\FaysalFunds.Application.deps.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\bin\Release\net8.0\FaysalFunds.Application.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\bin\Release\net8.0\FaysalFunds.Application.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\bin\Release\net8.0\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\bin\Release\net8.0\FaysalFunds.Domain.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\bin\Release\net8.0\FaysalFunds.Common.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\bin\Release\net8.0\FaysalFunds.Domain.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\FaysalFunds.Application.csproj.AssemblyReference.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\FaysalFunds.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\FaysalFunds.Application.AssemblyInfoInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\FaysalFunds.Application.AssemblyInfo.cs
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\FaysalFunds.Application.csproj.CoreCompileInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\FaysalFunds.Application.sourcelink.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\FaysalFu.9271FBA4.Up2Date
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\FaysalFunds.Application.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\refint\FaysalFunds.Application.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\FaysalFunds.Application.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Application\obj\Release\net8.0\ref\FaysalFunds.Application.dll

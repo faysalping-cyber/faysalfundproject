@@ -1174,7 +1174,10 @@
           "Microsoft.AspNetCore.Identity": "2.3.1"
         },
         "runtime": {
-          "FaysalFunds.Common.dll": {}
+          "FaysalFunds.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

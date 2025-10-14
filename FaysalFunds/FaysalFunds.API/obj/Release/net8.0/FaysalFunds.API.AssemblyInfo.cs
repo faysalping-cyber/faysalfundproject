@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FaysalFunds.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9523b03c37fa5a1bde7b3ce572fa7b5082f0a563")]
 [assembly: System.Reflection.AssemblyProductAttribute("FaysalFunds.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FaysalFunds.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -221,3 +221,19 @@ C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Deb
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\refint\FaysalFunds.Domain.dll
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.pdb
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\ref\FaysalFunds.Domain.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Domain.deps.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Domain.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Domain.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Common.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Common.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.csproj.AssemblyReference.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.AssemblyInfoInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.AssemblyInfo.cs
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.csproj.CoreCompileInputs.cache
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.sourcelink.json
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFu.32A27238.Up2Date
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\refint\FaysalFunds.Domain.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.pdb
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\ref\FaysalFunds.Domain.dll
