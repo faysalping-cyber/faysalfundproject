@@ -22,9 +22,9 @@
         public decimal TotalAmount { get; set; }
         public string Iban { get; set; }
         public string BankName { get; set; }
-        //public string? AccountTitle { get; set; }
         public int? IsExistingAccount { get; set; }
         public int ACKNOWLEDGE { get; set; }
+
         public byte[] TransactionProofPath { get; set; }
         public DateTime CreatedOn { get; set; }
     }

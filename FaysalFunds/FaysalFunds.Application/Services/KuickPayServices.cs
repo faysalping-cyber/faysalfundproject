@@ -602,6 +602,8 @@ namespace FaysalFunds.Application.Services
                 PAYMENTMODE = payload.PaymentMode,
                 TRANSACTIONTYPE = ActivePaymentmode.FEATURE_GROUP,
                 ACKNOWLEDGE = payload.ACKNOWLEDGE,
+                FUNDID = payload.FundID,
+                ACCOUNTID =payload.UserId,
                 DATETIME = DateTime.Now,
                 CREATEDON = DateTime.Now,
             };
@@ -667,6 +669,8 @@ namespace FaysalFunds.Application.Services
                 TRANSACTION_PROOF_PATH = payload?.TransactionProof,
                 IS_EXISTING_ACCOUNT = payload?.IsExistingBank ?? 0,
                 ACKNOWLEDGE = payload.ACKNOWLEDGE,
+                FUNDID = payload.FundID,
+                ACCOUNTID = payload.UserId,
                 DATETIME = DateTime.Now,
                 CREATEDON = DateTime.Now,
             };
@@ -703,6 +707,45 @@ namespace FaysalFunds.Application.Services
             return ApiResponseWithData<IBFTReceiptDetailDTO>.SuccessResponse(responseDto, "Saved successfully.");
         }
 
+        //Select invested Funds
+
+
+        public async Task<ApiResponseWithData<Dictionary<string, List<AlreadyInvestedFundsDTO>>>> SelectinvestedFunds(AccountOpeningRequestModel request)
+        {
+            // Step 1: Get all transactions for this user
+            var accountDetails = await _transactionReceiptDetailRepository.GetByAccountID(request.UserId);
+
+            if (accountDetails == null || !accountDetails.Any())
+            {
+                throw new ApiException("No records found.");
+            }
+
+            var selectedFundsList = new List<AlreadyInvestedFundsDTO>();
+
+            foreach (var transaction in accountDetails)
+            {
+                var fund = await _kuickPayRepository.GetByIdAsync((long)transaction.FUNDID);
+                if (fund != null)
+                {
+                    selectedFundsList.Add(new AlreadyInvestedFundsDTO
+                    {
+                        FundID = fund.ID,
+                        FundName = fund.FUNDNAME,
+                        FundCategory = fund.FUNDCATEGORY,
+                        MonthlyProfit = fund.MONTHLYPROFILT,
+                        // These values are not in InvestmentFunds, adjust as needed
+                        TotalAmount = transaction.TOTALAMOUNT,
+                        RiskProfile = fund.RISKPROFILE,
+
+                    });
+                }
+            }
+            var AlreadyInvestedFunds = new Dictionary<string, List<AlreadyInvestedFundsDTO>>
+                 {
+                  { "AlreadyInvestedFunds", selectedFundsList }
+                  };
+            return ApiResponseWithData< Dictionary<string, List<AlreadyInvestedFundsDTO>>>.SuccessResponse(AlreadyInvestedFunds);
+        }
 
 
     }

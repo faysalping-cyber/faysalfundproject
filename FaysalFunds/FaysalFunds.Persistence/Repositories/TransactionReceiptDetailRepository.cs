@@ -79,6 +79,8 @@ namespace FaysalFunds.Persistence.Repositories
                 x => x.PAYMENTMODE,
                 x => x.TRANSACTIONTYPE,
                 x => x.ACKNOWLEDGE,
+                x =>x.ACCOUNTID,
+                x => x.FUNDID,
                 x => x.DATETIME,
                 x => x.CREATEDON
             );
@@ -102,9 +104,10 @@ namespace FaysalFunds.Persistence.Repositories
                 x => x.TRANSACTIONTYPE,
                 x => x.BANK_NAME,
                 x => x.IBAN,
-                x => x.ACCOUNT_TITLE,
                 x => x.IS_EXISTING_ACCOUNT,
                 x => x.ACKNOWLEDGE,
+                x => x.ACCOUNTID,
+                x => x.FUNDID,
                 x => x.DATETIME,
                 x => x.CREATEDON
             );
@@ -145,6 +148,16 @@ WHERE ID = :p_id";
          
             var result = await _transactionreceiptDetail
             .Where(f => f.FOLIONUMBER == FolioNumber)
+            .ToListAsync();
+
+            return result ?? new List<TransactionReceiptDetails>();
+        }
+
+        public async Task<List<TransactionReceiptDetails>> GetByAccountID(long AccountID)
+        {
+
+            var result = await _transactionreceiptDetail
+            .Where(f => f.ACCOUNTID == AccountID)
             .ToListAsync();
 
             return result ?? new List<TransactionReceiptDetails>();

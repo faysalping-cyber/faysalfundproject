@@ -32,11 +32,11 @@ namespace FaysalFunds.Domain.Entities.TransactionAllowed
         // IBFT-Specific Fields
         public string? IBAN { get; set; }
         public string? BANK_NAME { get; set; }
-        public string? ACCOUNT_TITLE { get; set; }
         public int? IS_EXISTING_ACCOUNT { get; set; } // not bool?
         public byte[]? TRANSACTION_PROOF_PATH { get; set; }
         public int? ACKNOWLEDGE { get; set; }
-
+        public long? FUNDID { get; set; }
+        public long? ACCOUNTID { get; set; }
 
 
     }

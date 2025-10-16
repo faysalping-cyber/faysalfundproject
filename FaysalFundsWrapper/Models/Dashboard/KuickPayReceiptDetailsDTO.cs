@@ -26,6 +26,7 @@
 
         public string KuickPayId { get; set; }
         public int ACKNOWLEDGE { get; set; }
+   
         public DateTime CreatedOn { get; set; }
     }
 

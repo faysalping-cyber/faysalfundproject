@@ -181,5 +181,11 @@ namespace FaysalFunds.API.Controllers
             var result = await _famlInternalService.GenerateKuickPayId(request);
             return Ok(result);
         }
+        //[HttpPost("AlreadyInvestedFunds")]
+        //public async Task<IActionResult> SelectinvestedFunds(AccountOpeningRequestModel request)
+        //{
+        //    var result = await _KuickPayServices.SelectinvestedFunds(request);
+        //    return Ok(result);
+        //}
     }
 }

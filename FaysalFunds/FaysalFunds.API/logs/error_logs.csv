@@ -902,3 +902,12 @@ https://docs.oracle.com/error-help/db/ora-00904/",""
 https://docs.oracle.com/error-help/db/ora-00904/",""
 "13/10/2025 2:06:59 PM","66a8c0b3-84ad-46c9-9ee2-b6d7023520c5","ORA-00904: ""f"".""FAML_ID"": invalid identifier
 https://docs.oracle.com/error-help/db/ora-00904/",""
+"15/10/2025 4:20:44 PM","ded0657c-25fe-41e9-90a5-b119a182a36f","ORA-50000: Connection request timed out",""
+"15/10/2025 4:22:44 PM","b3602e90-bfb5-403a-a4a6-43b72bf6caf9","ORA-50000: Connection request timed out",""
+"15/10/2025 5:44:59 PM","6892126f-813c-46ce-a410-fd314ce5eabc","ORA-00904: ""t"".""FundID"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"15/10/2025 5:51:32 PM","216a379a-4c67-4716-be1d-3a61916ffa6f","ORA-00904: ""t"".""FundID"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"15/10/2025 5:53:39 PM","5a2989d3-54b2-4b7c-8d75-0bef2d248a81","ORA-00904: ""t"".""FundID"": invalid identifier
+https://docs.oracle.com/error-help/db/ora-00904/",""
+"15/10/2025 6:00:20 PM","a3153c3d-1a98-4f2c-819f-07e8ed736869","ORA-50032: Column contains NULL data",""

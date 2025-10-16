@@ -51,7 +51,7 @@ namespace FaysalFunds.Application.DTOs.TransactionAllowedDTO
         public byte[] TransactionProof { get; set; }
         public int IsExistingBank { get; set; }
         public int ACKNOWLEDGE { get; set; }
-
+        public string Pin { get; set; }
     }
 
 }
