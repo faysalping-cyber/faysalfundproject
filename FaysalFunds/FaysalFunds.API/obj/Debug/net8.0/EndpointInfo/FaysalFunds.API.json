@@ -1923,6 +1923,37 @@
         }
       }
     },
+    "/api/dashboard/AlreadyInvestedFunds": {
+      "post": {
+        "tags": [
+          "DashBoard"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AccountOpeningRequestModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AccountOpeningRequestModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AccountOpeningRequestModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/LFD_Credentials": {
       "get": {
         "tags": [
@@ -2043,6 +2074,68 @@
             "application/*+json": {
               "schema": {
                 "$ref": "#/components/schemas/ValidateOtpModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Raast/GenerateRaastId": {
+      "post": {
+        "tags": [
+          "Raast"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenerateIbanRequestModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenerateIbanRequestModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenerateIbanRequestModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Raast/GetRaastIdsList": {
+      "post": {
+        "tags": [
+          "Raast"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RaastIdsListRequestModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RaastIdsListRequestModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RaastIdsListRequestModel"
               }
             }
           }
@@ -2563,6 +2656,28 @@
         },
         "additionalProperties": false
       },
+      "GenerateIbanRequestModel": {
+        "type": "object",
+        "properties": {
+          "fundCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "folioNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "cnic": {
+            "type": "string",
+            "nullable": true
+          },
+          "cellNo": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "GenerateKuickPayIdDTO": {
         "type": "object",
         "properties": {
@@ -2814,6 +2929,16 @@
           "active": {
             "type": "integer",
             "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RaastIdsListRequestModel": {
+        "type": "object",
+        "properties": {
+          "folioNo": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

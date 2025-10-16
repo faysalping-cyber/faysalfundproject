@@ -761,6 +761,22 @@
   },
   {
     "ContainingType": "FaysalFunds.API.Controllers.DashBoardController",
+    "Method": "SelectinvestedFunds",
+    "RelativePath": "api/dashboard/AlreadyInvestedFunds",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFunds.Application.DTOs.AccountOpening.AccountOpeningRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFunds.API.Controllers.DashBoardController",
     "Method": "CalculateKuickPay",
     "RelativePath": "api/dashboard/CalculateKuickPay",
     "HttpMethod": "POST",
@@ -801,7 +817,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "FaysalFunds.Application.DTOs.CheckBalanceRequestModel",
+        "Type": "FaysalFunds.Domain.DTOs.ExternalAPI.CheckBalanceRequestModel",
         "IsRequired": true
       }
     ],
@@ -1070,6 +1086,38 @@
       {
         "Name": "model",
         "Type": "FaysalFunds.Application.DTOs.ValidateOtpModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFunds.API.Controllers.RaastController",
+    "Method": "GenerateRaastId",
+    "RelativePath": "api/Raast/GenerateRaastId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "FaysalFunds.Application.DTOs.ExternalAPI.GenerateIbanRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFunds.API.Controllers.RaastController",
+    "Method": "GetRaastIdsList",
+    "RelativePath": "api/Raast/GetRaastIdsList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "FaysalFunds.Application.DTOs.ExternalAPI.RaastIdsListRequestModel",
         "IsRequired": true
       }
     ],

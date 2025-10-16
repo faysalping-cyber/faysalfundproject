@@ -50,7 +50,7 @@ namespace FaysalFunds.Application.DTOs.TransactionAllowedDTO
         public string kuickPayID { get; set; }
         public long PaymentMode { get; set; }
         public int ACKNOWLEDGE { get; set; }
-
+        public string Pin { get; set; }
     }
 
 }

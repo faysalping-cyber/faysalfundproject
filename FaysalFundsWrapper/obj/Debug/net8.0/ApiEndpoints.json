@@ -868,6 +868,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "FaysalFundsWrapper.Controllers.RaastController",
+    "Method": "GenerateRaastId",
+    "RelativePath": "api/Raast/GenerateRaastId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "FaysalFundsWrapper.Models.Raast.GenerateRaastIdRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFundsWrapper.Controllers.RaastController",
+    "Method": "GetRaastIdsList",
+    "RelativePath": "api/Raast/GetRaastIdsList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "FaysalFundsWrapper.Models.Raast.RaastIdsListRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "FaysalFundsWrapper.Controllers.TransactionPinController",
     "Method": "ChangeTPin",
     "RelativePath": "api/TransactionPin/ChangeTPin",

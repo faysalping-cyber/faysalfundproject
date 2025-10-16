@@ -1456,6 +1456,68 @@
         }
       }
     },
+    "/api/Raast/GenerateRaastId": {
+      "post": {
+        "tags": [
+          "Raast"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenerateRaastIdRequestModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenerateRaastIdRequestModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenerateRaastIdRequestModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Raast/GetRaastIdsList": {
+      "post": {
+        "tags": [
+          "Raast"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RaastIdsListRequestModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RaastIdsListRequestModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RaastIdsListRequestModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/TransactionPin/GenerateTPin": {
       "post": {
         "tags": [
@@ -2294,6 +2356,28 @@
         },
         "additionalProperties": false
       },
+      "GenerateRaastIdRequestModel": {
+        "type": "object",
+        "properties": {
+          "fundCode": {
+            "type": "string",
+            "nullable": true
+          },
+          "folioNo": {
+            "type": "string",
+            "nullable": true
+          },
+          "cnic": {
+            "type": "string",
+            "nullable": true
+          },
+          "cellNo": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "GenerateTPinRequest": {
         "type": "object",
         "properties": {
@@ -2436,10 +2520,6 @@
             "format": "int64"
           },
           "bankName": {
-            "type": "string",
-            "nullable": true
-          },
-          "accountTitle": {
             "type": "string",
             "nullable": true
           },
@@ -2713,6 +2793,16 @@
           "active": {
             "type": "integer",
             "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RaastIdsListRequestModel": {
+        "type": "object",
+        "properties": {
+          "folio": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

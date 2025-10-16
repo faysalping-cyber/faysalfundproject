@@ -1419,3 +1419,4 @@ D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.API\obj\Debug\net8.0\sta
 D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.API\obj\Debug\net8.0\FaysalFu.44B6A5D1.Up2Date
 D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.API\obj\Debug\net8.0\FaysalFunds.API.genruntimeconfig.cache
 D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.API\obj\Debug\net8.0\ref\FaysalFunds.API.dll
+D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
