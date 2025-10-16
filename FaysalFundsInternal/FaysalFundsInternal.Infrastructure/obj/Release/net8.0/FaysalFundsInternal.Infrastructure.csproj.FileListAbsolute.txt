@@ -32,3 +32,21 @@ D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFund
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\refint\FaysalFundsInternal.Infrastructure.dll
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\FaysalFundsInternal.Infrastructure.pdb
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\ref\FaysalFundsInternal.Infrastructure.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\bin\Release\net8.0\FaysalFundsInternal.Infrastructure.deps.json
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\bin\Release\net8.0\FaysalFundsInternal.Infrastructure.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\bin\Release\net8.0\FaysalFundsInternal.Infrastructure.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\bin\Release\net8.0\FaysalFundsInternal.Domain.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\bin\Release\net8.0\FaysalFundsInternal.Domain.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\FaysalFundsInternal.Infrastructure.csproj.AssemblyReference.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\FaysalFundsInternal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\FaysalFundsInternal.Infrastructure.AssemblyInfoInputs.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\FaysalFundsInternal.Infrastructure.AssemblyInfo.cs
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\FaysalFundsInternal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\FaysalFundsInternal.Infrastructure.sourcelink.json
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\FaysalFu.B48531F4.Up2Date
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\FaysalFundsInternal.Infrastructure.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\refint\FaysalFundsInternal.Infrastructure.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\FaysalFundsInternal.Infrastructure.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Infrastructure\obj\Release\net8.0\ref\FaysalFundsInternal.Infrastructure.dll

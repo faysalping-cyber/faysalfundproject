@@ -399,7 +399,14 @@
           }
         }
       },
-      "System.Formats.Asn1/8.0.1": {},
+      "System.Formats.Asn1/8.0.1": {
+        "runtime": {
+          "lib/net8.0/System.Formats.Asn1.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.724.31311"
+          }
+        }
+      },
       "System.Memory/4.6.0": {},
       "System.Security.Cryptography.Pkcs/8.0.1": {
         "runtime": {
@@ -431,18 +438,12 @@
           "FaysalFundsInternal.Domain": "1.0.0"
         },
         "runtime": {
-          "FaysalFundsInternal.Application.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "FaysalFundsInternal.Application.dll": {}
         }
       },
       "FaysalFundsInternal.CrossCutting/1.0.0": {
         "runtime": {
-          "FaysalFundsInternal.CrossCutting.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "FaysalFundsInternal.CrossCutting.dll": {}
         }
       },
       "FaysalFundsInternal.Domain/1.0.0": {
@@ -451,10 +452,7 @@
           "Oracle.ManagedDataAccess.Core": "23.8.0"
         },
         "runtime": {
-          "FaysalFundsInternal.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "FaysalFundsInternal.Domain.dll": {}
         }
       },
       "FaysalFundsInternal.Infrastructure/1.0.0": {
@@ -465,10 +463,7 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "FaysalFundsInternal.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "FaysalFundsInternal.Infrastructure.dll": {}
         }
       },
       "FaysalFundsInternal.Persistence/1.0.0": {
@@ -479,10 +474,7 @@
           "FaysalFundsInternal.Infrastructure": "1.0.0"
         },
         "runtime": {
-          "FaysalFundsInternal.Persistence.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "FaysalFundsInternal.Persistence.dll": {}
         }
       }
     }

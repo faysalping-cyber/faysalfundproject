@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"4bVS93+KjblVFKguTCz9IgdNIkaxq5cboU+bmin7k7I=","Source":"FaysalFundsInternal.API","BasePath":"_content/FaysalFundsInternal.API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "4ThlTVXWBjc3EzO+97iga2WckRhZgPeYqtXauxT1m8Y=",
+  "Source": "FaysalFundsInternal.API",
+  "BasePath": "_content/FaysalFundsInternal.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

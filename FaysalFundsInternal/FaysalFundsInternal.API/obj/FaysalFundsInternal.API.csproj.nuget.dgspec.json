@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.API\\FaysalFundsInternal.API.csproj": {}
+    "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.API\\FaysalFundsInternal.API.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.API\\FaysalFundsInternal.API.csproj": {
+    "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.API\\FaysalFundsInternal.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.API\\FaysalFundsInternal.API.csproj",
+        "projectUniqueName": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.API\\FaysalFundsInternal.API.csproj",
         "projectName": "FaysalFundsInternal.API",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.API\\FaysalFundsInternal.API.csproj",
+        "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.API\\FaysalFundsInternal.API.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.API\\obj\\",
+        "outputPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,20 +25,22 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj"
+              "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj": {
+                "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj"
+              "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj": {
+                "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\FaysalFundsInternal.Persistence.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\FaysalFundsInternal.Persistence.csproj"
+              "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\FaysalFundsInternal.Persistence.csproj": {
+                "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\FaysalFundsInternal.Persistence.csproj"
               }
             }
           }
@@ -52,8 +54,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -91,18 +92,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj": {
+    "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj",
+        "projectUniqueName": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj",
         "projectName": "FaysalFundsInternal.Application",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj",
+        "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\obj\\",
+        "outputPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -116,17 +117,19 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj"
+              "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj": {
+                "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj"
+              "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj": {
+                "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj"
               }
             }
           }
@@ -140,8 +143,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -162,18 +164,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj": {
+    "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj",
+        "projectUniqueName": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj",
         "projectName": "FaysalFundsInternal.CrossCutting",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj",
+        "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\obj\\",
+        "outputPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -187,6 +189,8 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -204,8 +208,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -226,18 +229,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj": {
+    "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj",
+        "projectUniqueName": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj",
         "projectName": "FaysalFundsInternal.Domain",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj",
+        "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\obj\\",
+        "outputPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -251,6 +254,8 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -268,8 +273,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -300,18 +304,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\FaysalFundsInternal.Infrastructure.csproj": {
+    "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\FaysalFundsInternal.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\FaysalFundsInternal.Infrastructure.csproj",
+        "projectUniqueName": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\FaysalFundsInternal.Infrastructure.csproj",
         "projectName": "FaysalFundsInternal.Infrastructure",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\FaysalFundsInternal.Infrastructure.csproj",
+        "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\FaysalFundsInternal.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\obj\\",
+        "outputPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -325,17 +329,19 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj"
+              "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj": {
+                "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj"
+              "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj": {
+                "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj"
               }
             }
           }
@@ -349,8 +355,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -381,18 +386,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\FaysalFundsInternal.Persistence.csproj": {
+    "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\FaysalFundsInternal.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\FaysalFundsInternal.Persistence.csproj",
+        "projectUniqueName": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\FaysalFundsInternal.Persistence.csproj",
         "projectName": "FaysalFundsInternal.Persistence",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\FaysalFundsInternal.Persistence.csproj",
+        "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\FaysalFundsInternal.Persistence.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\obj\\",
+        "outputPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -406,23 +411,25 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj"
+              "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj": {
+                "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Application\\FaysalFundsInternal.Application.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj"
+              "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj": {
+                "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.CrossCutting\\FaysalFundsInternal.CrossCutting.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj"
+              "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj": {
+                "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\FaysalFundsInternal.Infrastructure.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\FaysalFundsInternal.Infrastructure.csproj"
+              "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\FaysalFundsInternal.Infrastructure.csproj": {
+                "projectPath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Infrastructure\\FaysalFundsInternal.Infrastructure.csproj"
               }
             }
           }
@@ -436,8 +443,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -458,7 +464,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,6 +6,7 @@ using FaysalFunds.Common.APIException;
 using FaysalFunds.Common.ApiResponses;
 using FaysalFunds.Domain.Entities;
 using FaysalFunds.Domain.Interfaces;
+using Org.BouncyCastle.Asn1.Ocsp;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography;
@@ -181,6 +182,14 @@ namespace FaysalFunds.Application.Services
             return ApiResponseNoData.SuccessResponse("User verification successful.");
         }
 
+        public async Task IsTpinGenerated(long accountOpeningId)
+        {
+            var transactionPin = await _transactionPinRepository.GetTpinByAccountOpeningId(accountOpeningId);
+            if (transactionPin == null)
+            {
+                throw new ApiException("No Tpin found! Please generate Tpin first.");
+            }
+        }
     }
 }
 

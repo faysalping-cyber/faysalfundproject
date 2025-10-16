@@ -20,3 +20,15 @@ D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFund
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\refint\FaysalFundsInternal.CrossCutting.dll
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.pdb
 D:\Sprint 2 september 22 code deploy\merged 22-sep-2025\asad internal\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\ref\FaysalFundsInternal.CrossCutting.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.deps.json
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.AssemblyInfoInputs.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.AssemblyInfo.cs
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.csproj.CoreCompileInputs.cache
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.sourcelink.json
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\refint\FaysalFundsInternal.CrossCutting.dll
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.pdb
+C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\ref\FaysalFundsInternal.CrossCutting.dll

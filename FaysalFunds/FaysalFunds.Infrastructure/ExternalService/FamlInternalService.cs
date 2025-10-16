@@ -1,5 +1,6 @@
 ﻿using FaysalFunds.Application.DTOs;
 using FaysalFunds.Application.DTOs.ExternalAPI;
+using FaysalFunds.Application.Services;
 using FaysalFunds.Common;
 using FaysalFunds.Common.APIException;
 using FaysalFunds.Common.ApiResponses;
@@ -18,12 +19,16 @@ namespace FaysalFunds.Infrastructure.ExternalService
         private readonly HttpClient _httpClient;
         private readonly IConfiguration _configuration;
         private readonly IFamlFundByFAMLRepository _fundByFAMLRepository;
-        public FamlInternalService(HttpClient httpClient, IConfiguration configuration, IOptions<BaseUrls> baseUrls, IFamlFundByFAMLRepository fundByFAMLRepository)
+        private readonly ITransactionPinRepository _transactionPinRepository;
+        private readonly TransactionPinService _transactionPinService;
+        public FamlInternalService(HttpClient httpClient, IConfiguration configuration, IOptions<BaseUrls> baseUrls, IFamlFundByFAMLRepository fundByFAMLRepository, ITransactionPinRepository transactionPinRepository, TransactionPinService transactionPinService)
         {
             _httpClient = httpClient;
             _configuration = configuration;
             _baseUrls = baseUrls.Value;
             _fundByFAMLRepository = fundByFAMLRepository;
+            _transactionPinRepository = transactionPinRepository;
+            _transactionPinService = transactionPinService;
         }
         public async Task<List<CheckBalanceResponseModel>> CheckBalance(CheckBalanceRequestModel request)
         {
@@ -148,6 +153,12 @@ namespace FaysalFunds.Infrastructure.ExternalService
 
         public async Task<ApiResponseWithData<GenerateIbanResponseModel>> GenerateIban(GenerateIbanRequestModel request)
         {
+
+            //Validate Transaction Pin
+            await _transactionPinService.IsTpinGenerated(request.AccountOpeningId);
+            await _transactionPinService.VerifyTransactionPin(new() { AccountOpeningId =request.AccountOpeningId,Pin = request.TPin});
+            
+            //Now Generate IBAN
             string url = _baseUrls.FaysalInternal + "/Raast/GenerateIban";
 
             var content = new StringContent(JsonSerializer.Serialize(request), Encoding.UTF8, "application/json");

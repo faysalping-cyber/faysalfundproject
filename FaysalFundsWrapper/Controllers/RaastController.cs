@@ -1,6 +1,8 @@
 ﻿using FaysalFundsWrapper.Interfaces;
+using FaysalFundsWrapper.Models;
 using FaysalFundsWrapper.Models.Raast;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace FaysalFundsWrapper.Controllers
 {
@@ -18,6 +20,10 @@ namespace FaysalFundsWrapper.Controllers
         [HttpPost("GenerateRaastId")]
         public async Task<IActionResult> GenerateRaastId(GenerateRaastIdRequestModel model)
         {
+            var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
+            model.CNIC = User.FindFirst(CustomClaimTypes.CNIC).ToString();
+            model.CellNo = User.FindFirst(ClaimTypes.MobilePhone).ToString();
+            model.AccountOpeningId = long.Parse(userIdClaim.Value);
             var response =await _raastService.GenerateRaastId(model);
             return Ok(response);
         }

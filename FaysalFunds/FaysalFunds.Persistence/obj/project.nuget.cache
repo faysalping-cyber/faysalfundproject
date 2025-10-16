@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pcGdGLlrx3E=",
+  "dgSpecHash": "EyKXeC9alFk=",
   "success": true,
-  "projectFilePath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj",
+  "projectFilePath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sdvendor\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\sdvendor\\.nuget\\packages\\closedxml\\0.97.0\\closedxml.0.97.0.nupkg.sha512",
