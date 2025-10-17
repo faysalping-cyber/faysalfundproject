@@ -13,6 +13,7 @@ using FaysalFunds.Domain.Entities;
 using FaysalFunds.Domain.Entities.TransactionAllowed;
 using FaysalFunds.Domain.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Org.BouncyCastle.Asn1.Ocsp;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,10 +34,11 @@ namespace FaysalFunds.Application.Services
         private readonly ITransactionReceiptDetailRepository _transactionReceiptDetailRepository;
         private readonly IInvestmentInstructionRepository _investmentinstructionRepository;
         private readonly IAccountOpeningRepository _accountOpeningRepository;
+        private readonly TransactionPinService _transactionPinService;
 
         public KuickPayServices(InvesmentFundRepository kuickPayRepository, IKpSlabRepository kpSlabRepository, ITransactionTypesGroupRepository transactionTypesGroupRepository,
             IFundFeaturePermissionRepository fundFeaturePermissionRepository,
-            ITransactionFeatureRepository transactionFeatureRepository, IFamlFundRepository famlFundRepository, ITransactionReceiptDetailRepository transactionReceiptDetailRepository, IInvestmentInstructionRepository investmentinstructionRepository, IAccountOpeningRepository accountOpeningRepository)
+            ITransactionFeatureRepository transactionFeatureRepository, IFamlFundRepository famlFundRepository, ITransactionReceiptDetailRepository transactionReceiptDetailRepository, IInvestmentInstructionRepository investmentinstructionRepository, IAccountOpeningRepository accountOpeningRepository, TransactionPinService transactionPinService)
         {
 
             _kuickPayRepository = kuickPayRepository;
@@ -48,6 +50,7 @@ namespace FaysalFunds.Application.Services
             _transactionReceiptDetailRepository = transactionReceiptDetailRepository;
             _investmentinstructionRepository = investmentinstructionRepository;
             _accountOpeningRepository = accountOpeningRepository;
+            _transactionPinService = transactionPinService;
         }
 
         //Get Invetment Funds
@@ -578,6 +581,8 @@ namespace FaysalFunds.Application.Services
         public async Task<ApiResponseWithData<KuickPayReceiptDetailsDTO>> SaveKuickpayReceiptDetail(KuickPayReceiptPayload payload)
         {
             // Step 1: Calculate KuickPay values
+            await _transactionPinService.IsTpinGenerated(payload.UserId);
+            await _transactionPinService.VerifyTransactionPin(new() { AccountOpeningId = payload.UserId, Pin = payload.Pin });
             var calculated = await CalculateKuickPay(new CalculateKuickPayLoad
             {
                 FolioNumber = payload.FolioNumber,
@@ -642,6 +647,8 @@ namespace FaysalFunds.Application.Services
         //save IBFT and rerurn DTO
         public async Task<ApiResponseWithData<IBFTReceiptDetailDTO>> SaveIBFTReceiptDetail(IBFTReceiptPayload payload)
         {
+            await _transactionPinService.IsTpinGenerated(payload.UserId);
+            await _transactionPinService.VerifyTransactionPin(new() { AccountOpeningId = payload.UserId, Pin = payload.Pin });
             // Step 1: Calculate KuickPay values
             var calculated = await CalculateKuickPay(new CalculateKuickPayLoad
             {

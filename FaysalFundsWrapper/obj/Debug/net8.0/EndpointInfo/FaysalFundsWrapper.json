@@ -2367,6 +2367,15 @@
             "type": "string",
             "nullable": true
           },
+          "tPin": {
+            "type": "string",
+            "nullable": true
+          },
+          "accountOpeningId": {
+            "type": "integer",
+            "format": "int64",
+            "nullable": true
+          },
           "cnic": {
             "type": "string",
             "nullable": true

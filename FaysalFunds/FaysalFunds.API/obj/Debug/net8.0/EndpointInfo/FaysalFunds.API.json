@@ -1923,37 +1923,6 @@
         }
       }
     },
-    "/api/dashboard/AlreadyInvestedFunds": {
-      "post": {
-        "tags": [
-          "DashBoard"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/AccountOpeningRequestModel"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/AccountOpeningRequestModel"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/AccountOpeningRequestModel"
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
     "/LFD_Credentials": {
       "get": {
         "tags": [
@@ -2667,6 +2636,14 @@
             "type": "string",
             "nullable": true
           },
+          "tPin": {
+            "type": "string",
+            "nullable": true
+          },
+          "accountOpeningId": {
+            "type": "integer",
+            "format": "int64"
+          },
           "cnic": {
             "type": "string",
             "nullable": true
@@ -2795,6 +2772,10 @@
           "acknowledge": {
             "type": "integer",
             "format": "int32"
+          },
+          "pin": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -2833,6 +2814,10 @@
           "acknowledge": {
             "type": "integer",
             "format": "int32"
+          },
+          "pin": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
