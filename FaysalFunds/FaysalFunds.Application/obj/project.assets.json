@@ -7811,11 +7811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj",
+      "projectUniqueName": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj",
       "projectName": "FaysalFunds.Application",
-      "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj",
+      "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj",
       "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\obj\\",
+      "outputPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7835,11 +7835,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
-              "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
+            "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
+              "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
             },
-            "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj": {
-              "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj"
+            "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj": {
+              "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj"
             }
           }
         }

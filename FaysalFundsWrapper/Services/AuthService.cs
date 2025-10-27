@@ -90,7 +90,8 @@ namespace FaysalFundsWrapper.Services
                     UserId = userDetails.UserId,
                     AccessToken = accessToken,
                     RefreshToken = userDetails.RefreshToken,
-                    IsDeviceRegistered = true
+                    IsDeviceRegistered = true,
+                    TpinExist =userDetails.TpinExist
             };
             return ApiResponseWithData<LoginResponseModel>.SuccessResponse(response);
         }

@@ -30,7 +30,8 @@ namespace FaysalFundsInternal.Persistence.Repositories
                      FOLIONO = x.uhr.FOLIONO,
                      FUND_NAME = x.uhr.FUND_NAME,
                      BALANCE_AMOUNT = x.uhr.BALANCE_AMOUNT,
-                     ACCOUNTTYPE = x.uhs.ACCOUNTTYPE // now included
+                     ACCOUNTTYPE = x.uhs.ACCOUNTTYPE,
+                     FUND_ID = x.uhr.FUND_ID
                  })
                  .FirstOrDefault())
     .ToListAsync();
@@ -51,7 +52,8 @@ namespace FaysalFundsInternal.Persistence.Repositories
                                              FUND_NAME = x.uhr.FUND_NAME,
                                              BALANCE_AMOUNT = x.uhr.BALANCE_AMOUNT,
                                              // Assuming you have ACCOUNTTYPE in UHR or want to add it
-                                             ACCOUNTTYPE = x.uhs.ACCOUNTTYPE
+                                             ACCOUNTTYPE = x.uhs.ACCOUNTTYPE,
+                                             FUND_ID = x.uhr.FUND_ID,
                                          }).FirstOrDefault())
                     .ToListAsync();
 

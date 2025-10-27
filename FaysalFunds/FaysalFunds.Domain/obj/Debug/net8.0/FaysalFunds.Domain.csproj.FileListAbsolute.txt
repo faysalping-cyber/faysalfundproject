@@ -237,3 +237,19 @@ D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\
 D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\refint\FaysalFunds.Domain.dll
 D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.pdb
 D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\ref\FaysalFunds.Domain.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Domain.deps.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Domain.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Domain.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Common.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\bin\Debug\net8.0\FaysalFunds.Common.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.csproj.AssemblyReference.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.AssemblyInfoInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.AssemblyInfo.cs
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.csproj.CoreCompileInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.sourcelink.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFu.32A27238.Up2Date
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\refint\FaysalFunds.Domain.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\FaysalFunds.Domain.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Domain\obj\Debug\net8.0\ref\FaysalFunds.Domain.dll

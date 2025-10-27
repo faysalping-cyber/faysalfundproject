@@ -62,3 +62,25 @@ C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInterna
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\refint\FaysalFundsInternal.Persistence.dll
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.pdb
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\ref\FaysalFundsInternal.Persistence.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Persistence.deps.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Persistence.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Persistence.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Application.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Domain.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Infrastructure.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Application.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Domain.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\bin\Release\net8.0\FaysalFundsInternal.Infrastructure.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.csproj.AssemblyReference.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.AssemblyInfoInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.AssemblyInfo.cs
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.csproj.CoreCompileInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.sourcelink.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFu.2A455DA9.Up2Date
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\refint\FaysalFundsInternal.Persistence.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\FaysalFundsInternal.Persistence.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Persistence\obj\Release\net8.0\ref\FaysalFundsInternal.Persistence.dll

@@ -32,3 +32,15 @@ C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInterna
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\refint\FaysalFundsInternal.CrossCutting.dll
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.pdb
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\ref\FaysalFundsInternal.CrossCutting.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.deps.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.AssemblyInfoInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.AssemblyInfo.cs
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.sourcelink.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\refint\FaysalFundsInternal.CrossCutting.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\FaysalFundsInternal.CrossCutting.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.CrossCutting\obj\Release\net8.0\ref\FaysalFundsInternal.CrossCutting.dll

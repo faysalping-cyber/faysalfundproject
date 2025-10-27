@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj": {}
+    "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj": {
+    "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
+        "projectUniqueName": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
         "projectName": "FaysalFunds.API",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
+        "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\obj\\",
+        "outputPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,17 +31,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj": {
+    "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj",
+        "projectUniqueName": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj",
         "projectName": "FaysalFunds.Application",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj",
+        "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\obj\\",
+        "outputPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,11 +121,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj"
               }
             }
           }
@@ -195,14 +195,14 @@
         }
       }
     },
-    "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
+    "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj",
+        "projectUniqueName": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj",
         "projectName": "FaysalFunds.Common",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj",
+        "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\obj\\",
+        "outputPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -269,14 +269,14 @@
         }
       }
     },
-    "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj": {
+    "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj",
+        "projectUniqueName": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj",
         "projectName": "FaysalFunds.Domain",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj",
+        "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\obj\\",
+        "outputPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -296,8 +296,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
               }
             }
           }
@@ -347,14 +347,14 @@
         }
       }
     },
-    "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj": {
+    "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj",
         "projectName": "FaysalFunds.Infrastructure",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj",
+        "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\obj\\",
+        "outputPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -374,11 +374,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj"
               }
             }
           }
@@ -424,14 +424,14 @@
         }
       }
     },
-    "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj": {
+    "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj",
+        "projectUniqueName": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj",
         "projectName": "FaysalFunds.Persistence",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj",
+        "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\obj\\",
+        "outputPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -451,14 +451,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj"
               },
-              "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj": {
-                "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj"
+              "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj": {
+                "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\FaysalFunds.Domain.csproj"
               }
             }
           }

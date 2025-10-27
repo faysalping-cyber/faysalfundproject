@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\FaysalFunds.Application\FaysalFunds.Application.csproj" />
     <ProjectReference Include="..\FaysalFunds.Domain\FaysalFunds.Domain.csproj" />
+	  
   </ItemGroup>
 
 </Project>

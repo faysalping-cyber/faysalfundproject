@@ -15,6 +15,13 @@ namespace FaysalFunds.Application.DTOs.TransactionAllowedDTO
         public string FundCategory { get; set; }
         public decimal TotalAmount { get; set; }
         public string RiskProfile { get; set; }
+        public int FolioNo { get; set; }
 
+    }
+    public class AlreadyInvestedFundspayload
+    {
+        public long UserId { get; set; }
+
+        public int FolioNo { get; set; }
     }
 }

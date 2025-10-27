@@ -14,7 +14,12 @@ namespace FaysalFunds.Domain.Interfaces
         Task<bool> SaveIBFTReceipt(TransactionReceiptDetails entity);
 
         Task<List<TransactionReceiptDetails>> GetByFolio(int FolioNumber);
-        Task<List<TransactionReceiptDetails>> GetByAccountID(long AccountID);
+        Task<List<TransactionReceiptDetails>> GetByAccountID(long AccountID, int FolioNo);
+        Task<decimal> GetPendingTotalAmount(long OldFundId, int FolioNumber);
+        Task<bool> SaveConversionReceipt(TransactionReceiptDetails entity);
+        Task<bool> SaveRedemptionReceipt(TransactionReceiptDetails entity);
+
+
 
     }
 }

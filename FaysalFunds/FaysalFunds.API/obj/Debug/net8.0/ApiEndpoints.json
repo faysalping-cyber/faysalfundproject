@@ -761,6 +761,38 @@
   },
   {
     "ContainingType": "FaysalFunds.API.Controllers.DashBoardController",
+    "Method": "SelectinvestedFunds",
+    "RelativePath": "api/dashboard/AlreadyInvestedFunds",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FaysalFunds.Application.DTOs.TransactionAllowedDTO.AlreadyInvestedFundspayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFunds.API.Controllers.DashBoardController",
+    "Method": "CalculateConversionDetail",
+    "RelativePath": "api/dashboard/CalculateConversionDetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "FaysalFunds.Application.DTOs.TransactionAllowedDTO.CaculateReceiptPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFunds.API.Controllers.DashBoardController",
     "Method": "CalculateKuickPay",
     "RelativePath": "api/dashboard/CalculateKuickPay",
     "HttpMethod": "POST",
@@ -980,6 +1012,22 @@
       {
         "Name": "request",
         "Type": "FaysalFunds.Application.DTOs.RemoveUserQuickAccessDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FaysalFunds.API.Controllers.DashBoardController",
+    "Method": "SaveConversionReceiptDetail",
+    "RelativePath": "api/dashboard/SaveConversionReceiptDetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "FaysalFunds.Application.DTOs.TransactionAllowedDTO.ConversionReceiptPayload",
         "IsRequired": true
       }
     ],

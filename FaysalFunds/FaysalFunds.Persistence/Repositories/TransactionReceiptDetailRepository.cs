@@ -153,15 +153,91 @@ WHERE ID = :p_id";
             return result ?? new List<TransactionReceiptDetails>();
         }
 
-        public async Task<List<TransactionReceiptDetails>> GetByAccountID(long AccountID)
+        public async Task<bool> SaveConversionReceipt(TransactionReceiptDetails entity)
+        {
+            AttachAndMarkModified(entity,
+                x => x.FOLIONUMBER,
+                x => x.OLD_FUND_ID,
+                x => x.NEW_FUND_ID,
+                x => x.CONVERSION_AMOUNT,
+                x => x.AVAIL_BALANCE_AT_TRANSACTION,
+                x => x.PAYMENTMODE,
+                x => x.STATUS,
+                x => x.CREATEDON,
+                x => x.ACCOUNTID,
+                x => x.ACKNOWLEDGE,
+                x => x.TRANSACTIONTYPE,
+                x => x.FELCHARGES,
+                x => x.TOTALAMOUNT,
+                x => x.MONTHLYPROFIT,
+                x=>x.FUNDID,
+                x => x.FUNDNAME,
+                x => x.CGT,
+                x => x.DATETIME
+            );
+
+            var efResult = await SaveChangesAsync();
+            return efResult > 0;
+        }
+
+        public async Task<bool> SaveRedemptionReceipt(TransactionReceiptDetails entity)
+        {
+            // Step 1: EF Core se non-BLOB fields save/update
+            AttachAndMarkModified(entity,
+                x => x.FOLIONUMBER,
+                x => x.FUNDID,
+                x => x.REDEMPTION_AMOUNT,
+                x => x.AVAIL_BALANCE_AT_TRANSACTION,
+                x => x.PAYMENTMODE,
+                x => x.STATUS,
+                x => x.CREATEDON,
+                x => x.CREATEDON
+
+            );
+
+            var efResult = await SaveChangesAsync();
+
+            // KuickPay case me TRANSACTION_PROOF_PATH save/update nahi hota
+            return efResult > 0;
+        }
+        
+        public async Task<decimal> GetPendingTotalAmount(long fundId, int folioNumber)
+        {
+            // Step 1: Pending conversions for this folio & fund
+            var pendingConversions = await _transactionreceiptDetail
+                .Where(x =>
+                    x.FOLIONUMBER == folioNumber &&
+                    x.OLD_FUND_ID == fundId &&
+                    x.STATUS == 1 &&
+                    x.CONVERSION_AMOUNT != null)
+                .SumAsync(x => (decimal?)x.CONVERSION_AMOUNT) ?? 0;
+
+            // Step 2: Pending redemptions for this folio & fund
+            var pendingRedemptions = await _transactionreceiptDetail
+                .Where(x =>
+                    x.FOLIONUMBER == folioNumber &&
+                    x.FUNDID == fundId &&
+                    x.STATUS == 1 &&
+                    x.REDEMPTION_AMOUNT != null)
+                .SumAsync(x => (decimal?)x.REDEMPTION_AMOUNT) ?? 0;
+
+            // Step 3: Combine both
+            var totalPending = pendingConversions + pendingRedemptions;
+
+            return totalPending;
+        }
+
+        public async Task<List<TransactionReceiptDetails>> GetByAccountID(long AccountID, int FolioNo)
         {
 
             var result = await _transactionreceiptDetail
-            .Where(f => f.ACCOUNTID == AccountID)
+            .Where(f => f.ACCOUNTID == AccountID && f.FOLIONUMBER == FolioNo)
             .ToListAsync();
 
             return result ?? new List<TransactionReceiptDetails>();
         }
+
+
 
         private void AttachAndMarkModified(TransactionReceiptDetails model, params Expression<Func<TransactionReceiptDetails, object>>[] properties)
         {

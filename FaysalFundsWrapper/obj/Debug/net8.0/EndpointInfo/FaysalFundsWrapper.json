@@ -2548,6 +2548,10 @@
           "acknowledge": {
             "type": "integer",
             "format": "int32"
+          },
+          "pin": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -2722,6 +2726,10 @@
           "acknowledge": {
             "type": "integer",
             "format": "int32"
+          },
+          "pin": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

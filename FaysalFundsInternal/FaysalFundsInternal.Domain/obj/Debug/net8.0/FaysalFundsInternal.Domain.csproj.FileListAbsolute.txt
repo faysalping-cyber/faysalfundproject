@@ -35,3 +35,16 @@ C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInterna
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\refint\FaysalFundsInternal.Domain.dll
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\FaysalFundsInternal.Domain.pdb
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\ref\FaysalFundsInternal.Domain.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\bin\Debug\net8.0\FaysalFundsInternal.Domain.deps.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\bin\Debug\net8.0\FaysalFundsInternal.Domain.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\bin\Debug\net8.0\FaysalFundsInternal.Domain.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\FaysalFundsInternal.Domain.csproj.AssemblyReference.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\FaysalFundsInternal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\FaysalFundsInternal.Domain.AssemblyInfoInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\FaysalFundsInternal.Domain.AssemblyInfo.cs
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\FaysalFundsInternal.Domain.csproj.CoreCompileInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\FaysalFundsInternal.Domain.sourcelink.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\FaysalFundsInternal.Domain.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\refint\FaysalFundsInternal.Domain.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\FaysalFundsInternal.Domain.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Domain\obj\Debug\net8.0\ref\FaysalFundsInternal.Domain.dll

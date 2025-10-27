@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FaysalFunds.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9523b03c37fa5a1bde7b3ce572fa7b5082f0a563")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+089e650bdfee6c8e2a0dcc8598fdb4cade6655db")]
 [assembly: System.Reflection.AssemblyProductAttribute("FaysalFunds.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FaysalFunds.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

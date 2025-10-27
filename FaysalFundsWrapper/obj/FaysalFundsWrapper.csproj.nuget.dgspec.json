@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\faysalfundproject\\FaysalFundsWrapper\\FaysalFundsWrapper.csproj": {}
+    "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFundsWrapper\\FaysalFundsWrapper.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\faysalfundproject\\FaysalFundsWrapper\\FaysalFundsWrapper.csproj": {
+    "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFundsWrapper\\FaysalFundsWrapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFundsWrapper\\FaysalFundsWrapper.csproj",
+        "projectUniqueName": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFundsWrapper\\FaysalFundsWrapper.csproj",
         "projectName": "FaysalFundsWrapper",
-        "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFundsWrapper\\FaysalFundsWrapper.csproj",
+        "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFundsWrapper\\FaysalFundsWrapper.csproj",
         "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFundsWrapper\\obj\\",
+        "outputPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFundsWrapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

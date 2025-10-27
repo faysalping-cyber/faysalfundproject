@@ -6,5 +6,6 @@
         public string FundName { get; set; }
         public string AccountType { get; set; }
         public decimal BalanceAmount { get; set; }
+        public string FUNDID { get; set; }
     }
 }

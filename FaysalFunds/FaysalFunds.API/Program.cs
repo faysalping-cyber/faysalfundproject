@@ -1,3 +1,4 @@
+using DocumentFormat.OpenXml.Office2016.Drawing.ChartDrawing;
 using FaysalFunds.API.Middlewares;
 using FaysalFunds.Application.DTOs;
 using FaysalFunds.Application.Services;
@@ -98,6 +99,8 @@ builder.Services.AddScoped<ITransactionFeatureRepository, TransactionFeatureRepo
 builder.Services.AddScoped<IFundFeaturePermissionRepository, FundFeaturePermissionRepository>();
 builder.Services.AddScoped<ITransactionReceiptDetailRepository, TransactionReceiptDetailRepository>();
 builder.Services.AddScoped<IInvestmentInstructionRepository, InvestmentInstructionRepository>();
+builder.Services.AddScoped<IFamlInternalService, FamlInternalService>();
+
 builder.Services.AddSingleton<DateParserUtility>();
 //Configuration Registration
 builder.Services.Configure<Settings>(builder.Configuration.GetSection("Settings"));

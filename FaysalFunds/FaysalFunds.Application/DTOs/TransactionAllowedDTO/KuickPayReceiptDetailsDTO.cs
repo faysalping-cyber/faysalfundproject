@@ -23,7 +23,7 @@ namespace FaysalFunds.Application.DTOs.TransactionAllowedDTO
 
         public string FundName { get; set; }
 
-        public int FelCharges { get; set; }
+        public decimal FelCharges { get; set; }
 
         public int? KuickPayCharges { get; set; }
 

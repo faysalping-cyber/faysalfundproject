@@ -144,6 +144,24 @@ namespace FaysalFunds.API.Controllers
             var result = await _KuickPayServices.SaveIBFTReceiptDetail(payload);
             return Ok(result);
         }
+        [HttpPost("CalculateConversionDetail")]
+        public async Task<IActionResult> CalculateConversionDetail(CaculateReceiptPayload payload)
+        {
+            var result = await _KuickPayServices.CalculateConversionDetail(payload);
+            return Ok(result);
+        }
+        [HttpPost("SaveConversionReceiptDetail")]
+        public async Task<IActionResult> SaveConversionReceiptDetail(ConversionReceiptPayload payload)
+        {
+            var result = await _KuickPayServices.SaveConversionReceiptDetail(payload);
+            return Ok(result);
+        }
+        //[HttpPost("SaveRedemptionReceiptDetail")]
+        //public async Task<IActionResult> SaveRedemptionReceiptDetail(RedemptionReceiptPayload payload)
+        //{
+        //    var result = await _KuickPayServices.SaveRedemptionReceiptDetail(payload);
+        //    return Ok(result);
+        //}
         //
         #endregion
 
@@ -181,11 +199,11 @@ namespace FaysalFunds.API.Controllers
             var result = await _famlInternalService.GenerateKuickPayId(request);
             return Ok(result);
         }
-        //[HttpPost("AlreadyInvestedFunds")]
-        //public async Task<IActionResult> SelectinvestedFunds(AccountOpeningRequestModel request)
-        //{
-        //    var result = await _KuickPayServices.SelectinvestedFunds(request);
-        //    return Ok(result);
-        //}
+        [HttpPost("AlreadyInvestedFunds")]
+        public async Task<IActionResult> SelectinvestedFunds(AlreadyInvestedFundspayload request)
+        {
+            var result = await _KuickPayServices.SelectinvestedFunds(request);
+            return Ok(result);
+        }
     }
 }

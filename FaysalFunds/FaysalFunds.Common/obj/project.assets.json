@@ -6566,11 +6566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj",
+      "projectUniqueName": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj",
       "projectName": "FaysalFunds.Common",
-      "projectPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj",
+      "projectPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\FaysalFunds.Common.csproj",
       "packagesPath": "C:\\Users\\sdvendor\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\obj\\",
+      "outputPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

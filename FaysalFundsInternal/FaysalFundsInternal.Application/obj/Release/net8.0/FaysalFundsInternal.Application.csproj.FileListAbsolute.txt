@@ -50,3 +50,21 @@ C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInterna
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\refint\FaysalFundsInternal.Application.dll
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\FaysalFundsInternal.Application.pdb
 C:\FaysalFundsMobileApp\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\ref\FaysalFundsInternal.Application.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Release\net8.0\FaysalFundsInternal.Application.deps.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Release\net8.0\FaysalFundsInternal.Application.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Release\net8.0\FaysalFundsInternal.Application.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Release\net8.0\FaysalFundsInternal.Domain.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Release\net8.0\FaysalFundsInternal.CrossCutting.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\bin\Release\net8.0\FaysalFundsInternal.Domain.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\FaysalFundsInternal.Application.csproj.AssemblyReference.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\FaysalFundsInternal.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\FaysalFundsInternal.Application.AssemblyInfoInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\FaysalFundsInternal.Application.AssemblyInfo.cs
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\FaysalFundsInternal.Application.csproj.CoreCompileInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\FaysalFundsInternal.Application.sourcelink.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\FaysalFu.44D60FDA.Up2Date
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\FaysalFundsInternal.Application.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\refint\FaysalFundsInternal.Application.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\FaysalFundsInternal.Application.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFundsInternal\FaysalFundsInternal.Application\obj\Release\net8.0\ref\FaysalFundsInternal.Application.dll

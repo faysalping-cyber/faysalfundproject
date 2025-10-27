@@ -1768,6 +1768,68 @@
         }
       }
     },
+    "/api/dashboard/CalculateConversionDetail": {
+      "post": {
+        "tags": [
+          "DashBoard"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CaculateReceiptPayload"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CaculateReceiptPayload"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CaculateReceiptPayload"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/dashboard/SaveConversionReceiptDetail": {
+      "post": {
+        "tags": [
+          "DashBoard"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ConversionReceiptPayload"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ConversionReceiptPayload"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ConversionReceiptPayload"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/dashboard/RemoveUserQuickAccess": {
       "post": {
         "tags": [
@@ -1912,6 +1974,37 @@
             "application/*+json": {
               "schema": {
                 "$ref": "#/components/schemas/GenerateKuickPayIdDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/dashboard/AlreadyInvestedFunds": {
+      "post": {
+        "tags": [
+          "DashBoard"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AlreadyInvestedFundspayload"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AlreadyInvestedFundspayload"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AlreadyInvestedFundspayload"
               }
             }
           }
@@ -2236,6 +2329,20 @@
         },
         "additionalProperties": false
       },
+      "AlreadyInvestedFundspayload": {
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "folioNo": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
       "BankDetails": {
         "type": "object",
         "properties": {
@@ -2394,6 +2501,39 @@
         },
         "additionalProperties": false
       },
+      "CaculateReceiptPayload": {
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "folioNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "oldFundId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "newFundId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "conversionAmount": {
+            "type": "number",
+            "format": "double"
+          },
+          "paymentmode": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "checkConvertAll": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
       "CalculateKuickPayLoad": {
         "type": "object",
         "properties": {
@@ -2525,6 +2665,44 @@
             "nullable": true
           },
           "malingCountry": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ConversionReceiptPayload": {
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "folioNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "oldFundId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "newFundId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "conversionAmount": {
+            "type": "number",
+            "format": "double"
+          },
+          "checkConvertAll": {
+            "type": "boolean"
+          },
+          "paymentmode": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "acknowledge": {
             "type": "integer",
             "format": "int32",
             "nullable": true

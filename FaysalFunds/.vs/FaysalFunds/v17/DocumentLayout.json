@@ -1,85 +1,145 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\New folder\\faysalfundproject\\FaysalFunds\\",
+  "WorkspaceRootPath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\kuickpayreceiptdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\kuickpayreceiptdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.application\\services\\kuickpayservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\kuickpayservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.application\\services\\transactionpinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\transactionpinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\ibftreceiptdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\ibftreceiptdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{967E713B-67D4-4CC9-9416-953C71E548FA}|FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.infrastructure\\externalservice\\famlinternalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{967E713B-67D4-4CC9-9416-953C71E548FA}|FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.infrastructure\\externalservice\\famlinternalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967E713B-67D4-4CC9-9416-953C71E548FA}|FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj|solutionrelative:faysalfunds.infrastructure\\externalservice\\famlinternalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.api\\controllers\\raastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\controllers\\raastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.api\\controllers\\accountopeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\controllers\\accountopeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.persistence\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\services\\kuickpayservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\kuickpayservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\alreadyinvestedfundsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\alreadyinvestedfundsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.domain\\entities\\transactionallowed\\transactionreceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\entities\\transactionallowed\\transactionreceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.persistence\\repositories\\transactionreceiptdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.persistence\\repositories\\transactionreceiptdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\transactionreceiptdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.persistence\\repositories\\investmentfundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\investmentfundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\calculatereceiptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\calculatereceiptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.domain\\interfaces\\itransactionreceiptdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.domain\\interfaces\\itransactionreceiptdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\interfaces\\itransactionreceiptdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.api\\logs\\error_logs.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.domain\\entities\\transactionallowed\\transactionreceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\entities\\transactionallowed\\transactionreceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\kuickpayreceiptdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\kuickpayreceiptdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\ibftreceiptdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\ibftreceiptdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.api\\logs\\error_logs.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\logs\\error_logs.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\conversionreceiptdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\conversionreceiptdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\redemptionreceiptdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\redemptionreceiptdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\calculatekuickpaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\calculatekuickpaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.domain\\interfaces\\ifamlinternalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\interfaces\\ifamlinternalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\services\\transactionpinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\transactionpinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.application\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.domain\\dtos\\externalapi\\checkbalancerequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\dtos\\externalapi\\checkbalancerequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.domain\\dtos\\externalapi\\checkbalanceresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\dtos\\externalapi\\checkbalanceresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D94B7ABC-4894-40F1-9FDB-F4987B115E4B}|FaysalFunds.Common\\FaysalFunds.Common.csproj|d:\\new folder\\faysalfundproject\\faysalfunds\\faysalfunds.common\\apiexception\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.api\\controllers\\accountopeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\controllers\\accountopeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\pendingconversiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\pendingconversiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.domain\\interfaces\\iaccountopeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4433E9-ED7A-48D9-B9E6-263CBB0BEEE9}|FaysalFunds.Domain\\FaysalFunds.Domain.csproj|solutionrelative:faysalfunds.domain\\interfaces\\iaccountopeningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\faysalfunds.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\faysalfunds.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967E713B-67D4-4CC9-9416-953C71E548FA}|FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.infrastructure\\faysalfunds.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{967E713B-67D4-4CC9-9416-953C71E548FA}|FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj|solutionrelative:faysalfunds.infrastructure\\faysalfunds.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.api\\faysalfunds.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\faysalfunds.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.persistence\\faysalfunds.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\faysalfunds.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.api\\controllers\\raastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E71846-D8F3-4E18-9242-336A05210F4B}|FaysalFunds.API\\FaysalFunds.API.csproj|solutionrelative:faysalfunds.api\\controllers\\raastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.application\\dtos\\transactionalloweddto\\alreadyinvestedfundsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ABF0A2-5329-48B9-94EA-9D6CB2B37A35}|FaysalFunds.Application\\FaysalFunds.Application.csproj|solutionrelative:faysalfunds.application\\dtos\\transactionalloweddto\\alreadyinvestedfundsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.persistence\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.persistence\\repositories\\investmentfundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C3C22-3467-4C3B-BA6A-0D0DB711D7D9}|FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj|solutionrelative:faysalfunds.persistence\\repositories\\investmentfundrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94B7ABC-4894-40F1-9FDB-F4987B115E4B}|FaysalFunds.Common\\FaysalFunds.Common.csproj|d:\\git hub connected code 17 october\\faysalfundproject\\faysalfunds\\faysalfunds.common\\apiexception\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D94B7ABC-4894-40F1-9FDB-F4987B115E4B}|FaysalFunds.Common\\FaysalFunds.Common.csproj|solutionrelative:faysalfunds.common\\apiexception\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -90,142 +150,403 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "KuickPayServices.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\KuickPayServices.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\KuickPayServices.cs",
               "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\KuickPayServices.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\KuickPayServices.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\KuickPayServices.cs",
               "RelativeToolTip": "FaysalFunds.Application\\Services\\KuickPayServices.cs",
-              "ViewState": "AgIAADcCAAAAAAAAAIAuwEQCAABzAAAAAAAAAA==",
+              "ViewState": "AgIAAF0DAAAAAAAAAAAmwDcDAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T11:18:51.891Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TransactionPinService.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\TransactionPinService.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\TransactionPinService.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\TransactionPinService.cs",
-              "RelativeToolTip": "FaysalFunds.Application\\Services\\TransactionPinService.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAcwL8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T11:18:51.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBFTReceiptDetailDTO.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
-              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAwCsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:21:52.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KuickPayReceiptDetailsDTO.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
-              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA2wDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:21:31.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountOpeningController.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
-              "RelativeToolTip": "FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
-              "ViewState": "AgIAAB0BAAAAAAAAAAAAACMBAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:19:35.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FamlInternalService.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
-              "RelativeToolTip": "FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAADZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:53:31.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "DashBoardController.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\DashBoardController.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\DashBoardController.cs",
               "RelativeDocumentMoniker": "FaysalFunds.API\\Controllers\\DashBoardController.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\DashBoardController.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\DashBoardController.cs",
               "RelativeToolTip": "FaysalFunds.API\\Controllers\\DashBoardController.cs",
-              "ViewState": "AgIAAHwAAAAAmpmZmRkYwI8AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAEwJcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T15:03:43.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RaastController.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\RaastController.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.API\\Controllers\\RaastController.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\RaastController.cs",
-              "RelativeToolTip": "FaysalFunds.API\\Controllers\\RaastController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAABCAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FamlInternalService.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
+              "RelativeToolTip": "FaysalFunds.Infrastructure\\ExternalService\\FamlInternalService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAvwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:00:08.193Z",
+              "WhenOpened": "2025-10-16T14:53:31.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TransactionReceiptDetails.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
-              "RelativeToolTip": "FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T12:20:16.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "TransactionReceiptDetailRepository.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\TransactionReceiptDetailRepository.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\TransactionReceiptDetailRepository.cs",
               "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\TransactionReceiptDetailRepository.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\TransactionReceiptDetailRepository.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\TransactionReceiptDetailRepository.cs",
               "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\TransactionReceiptDetailRepository.cs",
-              "ViewState": "AgIAAFcAAAAAZmZmZmYgwFwAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAcwMwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T12:54:44.53Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransactionReceiptDetailRepository.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T13:36:05.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculateReceiptDTO.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateReceiptDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateReceiptDTO.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateReceiptDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateReceiptDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:48:38.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KuickPayReceiptDetailsDTO.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\KuickPayReceiptDetailsDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:21:31.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionReceiptDetails.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Entities\\TransactionAllowed\\TransactionReceiptDetails.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:20:16.135Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "IBFTReceiptDetailDTO.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\IBFTReceiptDetailDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:21:52.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "error_logs.csv",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\logs\\error_logs.csv",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\logs\\error_logs.csv",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\logs\\error_logs.csv",
+              "RelativeToolTip": "FaysalFunds.API\\logs\\error_logs.csv",
+              "ViewState": "AgIAAJsDAAAAAAAAAAAAALgDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-10-15T12:45:28.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConversionReceiptDetailDTO.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\ConversionReceiptDetailDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\ConversionReceiptDetailDTO.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\ConversionReceiptDetailDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\ConversionReceiptDetailDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA0wBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:23:15.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RedemptionReceiptDetailDTO.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\RedemptionReceiptDetailDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\RedemptionReceiptDetailDTO.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\RedemptionReceiptDetailDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\RedemptionReceiptDetailDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:24:23.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalculateKuickPayDTO.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateKuickPayDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateKuickPayDTO.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateKuickPayDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\CalculateKuickPayDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:47:34.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFamlInternalService.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IFamlInternalService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\IFamlInternalService.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IFamlInternalService.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\IFamlInternalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:26:12.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransactionPinService.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\TransactionPinService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\TransactionPinService.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\TransactionPinService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\TransactionPinService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:18:51.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\AccountService.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\AccountService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:02:13.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FaysalFunds.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:58:43.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CheckBalanceRequestModel.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\DTOs\\ExternalAPI\\CheckBalanceRequestModel.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\DTOs\\ExternalAPI\\CheckBalanceRequestModel.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\DTOs\\ExternalAPI\\CheckBalanceRequestModel.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\DTOs\\ExternalAPI\\CheckBalanceRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:32:54.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckBalanceResponseModel.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\DTOs\\ExternalAPI\\CheckBalanceResponseModel.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\DTOs\\ExternalAPI\\CheckBalanceResponseModel.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\DTOs\\ExternalAPI\\CheckBalanceResponseModel.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\DTOs\\ExternalAPI\\CheckBalanceResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:57:43.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\appsettings.json",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\appsettings.json",
+              "RelativeToolTip": "FaysalFunds.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T09:58:29.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginResponseModel.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\LoginResponseModel.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\LoginResponseModel.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\LoginResponseModel.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\LoginResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:05:28.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountOpeningController.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
+              "RelativeToolTip": "FaysalFunds.API\\Controllers\\AccountOpeningController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAlwBcBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:19:35.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\OtpService.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\OtpService.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\OtpService.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\Services\\OtpService.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:06:38.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PendingConversionDTO.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\PendingConversionDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\PendingConversionDTO.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\PendingConversionDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\PendingConversionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:46:18.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Program.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\Program.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Program.cs",
+              "RelativeToolTip": "FaysalFunds.API\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:28:42.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAccountOpeningRepository.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IAccountOpeningRepository.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\IAccountOpeningRepository.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\IAccountOpeningRepository.cs",
+              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\IAccountOpeningRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:26:16.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FaysalFunds.Application.csproj",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\FaysalFunds.Application.csproj",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\FaysalFunds.Application.csproj",
+              "RelativeToolTip": "FaysalFunds.Application\\FaysalFunds.Application.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T15:28:31.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FaysalFunds.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj",
+              "RelativeToolTip": "FaysalFunds.Infrastructure\\FaysalFunds.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T15:41:32.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FaysalFunds.API.csproj",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\FaysalFunds.API.csproj",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\FaysalFunds.API.csproj",
+              "RelativeToolTip": "FaysalFunds.API\\FaysalFunds.API.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T15:42:30.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FaysalFunds.Persistence.csproj",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj",
+              "RelativeDocumentMoniker": "FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj",
+              "RelativeToolTip": "FaysalFunds.Persistence\\FaysalFunds.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T15:41:44.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RaastController.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\RaastController.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.API\\Controllers\\RaastController.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\RaastController.cs",
+              "RelativeToolTip": "FaysalFunds.API\\Controllers\\RaastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:00:08.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AlreadyInvestedFundsDTO.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\AlreadyInvestedFundsDTO.cs",
+              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\AlreadyInvestedFundsDTO.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\AlreadyInvestedFundsDTO.cs",
+              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\AlreadyInvestedFundsDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:08:55.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Database\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Database\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Database\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Database\\ApplicationDbContext.cs",
               "RelativeToolTip": "FaysalFunds.Persistence\\Database\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,23 +554,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AlreadyInvestedFundsDTO.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\AlreadyInvestedFundsDTO.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\AlreadyInvestedFundsDTO.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\AlreadyInvestedFundsDTO.cs",
-              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\TransactionAllowedDTO\\AlreadyInvestedFundsDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T15:08:55.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 33,
               "Title": "InvestmentFundRepository.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\InvestmentFundRepository.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\InvestmentFundRepository.cs",
               "RelativeDocumentMoniker": "FaysalFunds.Persistence\\Repositories\\InvestmentFundRepository.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\InvestmentFundRepository.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Persistence\\Repositories\\InvestmentFundRepository.cs",
               "RelativeToolTip": "FaysalFunds.Persistence\\Repositories\\InvestmentFundRepository.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAwBoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,88 +566,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ITransactionReceiptDetailRepository.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
-              "RelativeToolTip": "FaysalFunds.Domain\\Interfaces\\ITransactionReceiptDetailRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAewBAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T13:36:05.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "error_logs.csv",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\logs\\error_logs.csv",
-              "RelativeDocumentMoniker": "FaysalFunds.API\\logs\\error_logs.csv",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\logs\\error_logs.csv",
-              "RelativeToolTip": "FaysalFunds.API\\logs\\error_logs.csv",
-              "ViewState": "AgIAAHwDAAAAAAAAAAAAAJEDAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-10-15T12:45:28.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LoginResponseModel.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\LoginResponseModel.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.Application\\DTOs\\LoginResponseModel.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\DTOs\\LoginResponseModel.cs",
-              "RelativeToolTip": "FaysalFunds.Application\\DTOs\\LoginResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:05:28.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 34,
               "Title": "ApiException.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\APIException\\ApiException.cs",
+              "DocumentMoniker": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\APIException\\ApiException.cs",
               "RelativeDocumentMoniker": "FaysalFunds.Common\\APIException\\ApiException.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\APIException\\ApiException.cs",
+              "ToolTip": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFunds\\FaysalFunds.Common\\APIException\\ApiException.cs",
               "RelativeToolTip": "FaysalFunds.Common\\APIException\\ApiException.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAwAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T15:05:08.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.API\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.API\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "FaysalFunds.API\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T14:58:43.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\AccountService.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\AccountService.cs",
-              "RelativeToolTip": "FaysalFunds.Application\\Services\\AccountService.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAwHwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:02:13.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OtpService.cs",
-              "DocumentMoniker": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\OtpService.cs",
-              "RelativeDocumentMoniker": "FaysalFunds.Application\\Services\\OtpService.cs",
-              "ToolTip": "D:\\New folder\\faysalfundproject\\FaysalFunds\\FaysalFunds.Application\\Services\\OtpService.cs",
-              "RelativeToolTip": "FaysalFunds.Application\\Services\\OtpService.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAwwAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:06:38.695Z",
-              "EditorCaption": ""
             }
           ]
         }

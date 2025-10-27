@@ -192,3 +192,16 @@ D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\
 D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\refint\FaysalFunds.Common.dll
 D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.pdb
 D:\New folder\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\ref\FaysalFunds.Common.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Debug\net8.0\FaysalFunds.Common.deps.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Debug\net8.0\FaysalFunds.Common.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\bin\Debug\net8.0\FaysalFunds.Common.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.csproj.AssemblyReference.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.AssemblyInfoInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.AssemblyInfo.cs
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.csproj.CoreCompileInputs.cache
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.sourcelink.json
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\refint\FaysalFunds.Common.dll
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\FaysalFunds.Common.pdb
+D:\Git Hub Connected Code 17 october\faysalfundproject\FaysalFunds\FaysalFunds.Common\obj\Debug\net8.0\ref\FaysalFunds.Common.dll

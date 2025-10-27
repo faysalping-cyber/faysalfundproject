@@ -13,7 +13,7 @@ using System.Text.Json;
 
 namespace FaysalFunds.Infrastructure.ExternalService
 {
-    public class FamlInternalService
+    public class FamlInternalService : IFamlInternalService
     {
         private readonly BaseUrls _baseUrls;
         private readonly HttpClient _httpClient;
@@ -54,7 +54,9 @@ namespace FaysalFunds.Infrastructure.ExternalService
 
         public async Task<ApiResponseWithData<CheckBalance>> CheckCustomerBalance(CheckBalanceRequestModel request)
         {
+        
             var url = _baseUrls.FaysalInternal + "/AccountDetails/CheckBalance";
+           // var url = "https://localhost:7201/api/AccountDetails/CheckBalance";
 
             var content = new StringContent(JsonSerializer.Serialize(request), Encoding.UTF8, "application/json");
 

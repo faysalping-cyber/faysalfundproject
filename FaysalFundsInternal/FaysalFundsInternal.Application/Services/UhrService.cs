@@ -47,7 +47,9 @@ namespace FaysalFundsInternal.Application.Services
                     FolioNo = item.FOLIONO,
                     BalanceAmount = item.BALANCE_AMOUNT,
                     FundName = item.FUND_NAME,
-                    AccountType=item.ACCOUNTTYPE
+                    AccountType=item.ACCOUNTTYPE,
+                    FUNDID = item.FUND_ID
+
                 });
             }
             return checkBalanceList;
@@ -66,7 +68,9 @@ namespace FaysalFundsInternal.Application.Services
                     FolioNo = item.FOLIONO,
                     BalanceAmount = item.BALANCE_AMOUNT,
                     FundName = item.FUND_NAME,
-                    AccountType = item.ACCOUNTTYPE
+                    AccountType = item.ACCOUNTTYPE,
+                    FUNDID = item.FUND_ID
+
                 });
             }
             return checkBalanceList;

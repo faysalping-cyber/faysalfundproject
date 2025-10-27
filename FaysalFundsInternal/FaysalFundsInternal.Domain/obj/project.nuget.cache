@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nEAyJmZK4aE=",
+  "dgSpecHash": "KmNsfsU/6dw=",
   "success": true,
-  "projectFilePath": "C:\\FaysalFundsMobileApp\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj",
+  "projectFilePath": "D:\\Git Hub Connected Code 17 october\\faysalfundproject\\FaysalFundsInternal\\FaysalFundsInternal.Domain\\FaysalFundsInternal.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sdvendor\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.11\\microsoft.entityframeworkcore.8.0.11.nupkg.sha512",
     "C:\\Users\\sdvendor\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.11\\microsoft.entityframeworkcore.abstractions.8.0.11.nupkg.sha512",

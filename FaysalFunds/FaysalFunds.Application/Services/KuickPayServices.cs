@@ -1,4 +1,5 @@
-﻿using DocumentFormat.OpenXml.Office2010.Excel;
+﻿using DocumentFormat.OpenXml.EMMA;
+using DocumentFormat.OpenXml.Office2010.Excel;
 using DocumentFormat.OpenXml.Spreadsheet;
 using FaysalFunds.Application.DTOs;
 using FaysalFunds.Application.DTOs.AccountOpening;
@@ -9,17 +10,12 @@ using FaysalFunds.Application.DTOs.TransactionAllowedDTO;
 using FaysalFunds.Common;
 using FaysalFunds.Common.APIException;
 using FaysalFunds.Common.ApiResponses;
+using FaysalFunds.Domain.DTOs.ExternalAPI;
 using FaysalFunds.Domain.Entities;
 using FaysalFunds.Domain.Entities.TransactionAllowed;
 using FaysalFunds.Domain.Interfaces;
-using Microsoft.AspNetCore.Mvc;
-using Org.BouncyCastle.Asn1.Ocsp;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
+//using FaysalFunds.Infrastructure.ExternalService;
+
 
 namespace FaysalFunds.Application.Services
 {
@@ -35,10 +31,12 @@ namespace FaysalFunds.Application.Services
         private readonly IInvestmentInstructionRepository _investmentinstructionRepository;
         private readonly IAccountOpeningRepository _accountOpeningRepository;
         private readonly TransactionPinService _transactionPinService;
+        private readonly IFamlInternalService _famlInternalService;
+        private readonly IAccountRepository _accountRepository;
 
         public KuickPayServices(InvesmentFundRepository kuickPayRepository, IKpSlabRepository kpSlabRepository, ITransactionTypesGroupRepository transactionTypesGroupRepository,
             IFundFeaturePermissionRepository fundFeaturePermissionRepository,
-            ITransactionFeatureRepository transactionFeatureRepository, IFamlFundRepository famlFundRepository, ITransactionReceiptDetailRepository transactionReceiptDetailRepository, IInvestmentInstructionRepository investmentinstructionRepository, IAccountOpeningRepository accountOpeningRepository, TransactionPinService transactionPinService)
+            ITransactionFeatureRepository transactionFeatureRepository, IFamlFundRepository famlFundRepository, ITransactionReceiptDetailRepository transactionReceiptDetailRepository, IInvestmentInstructionRepository investmentinstructionRepository, IAccountOpeningRepository accountOpeningRepository, TransactionPinService transactionPinService, IFamlInternalService famlInternalService, IAccountRepository accountRepository)
         {
 
             _kuickPayRepository = kuickPayRepository;
@@ -51,6 +49,10 @@ namespace FaysalFunds.Application.Services
             _investmentinstructionRepository = investmentinstructionRepository;
             _accountOpeningRepository = accountOpeningRepository;
             _transactionPinService = transactionPinService;
+            _famlInternalService = famlInternalService;
+            _accountRepository = accountRepository;
+            //_famlInternalService = famlInternalService;
+
         }
 
         //Get Invetment Funds
@@ -288,26 +290,6 @@ namespace FaysalFunds.Application.Services
         }
 
         //Get Investment Instruction
-
-        //public async Task<ApiResponseWithData<List<InvestmentInstructionsDTO>>> GetInvestmentInstructions()
-        //{
-        //    var instructions = await _investmentinstructionRepository.GetInvestmentMethods();
-
-        //    if (instructions == null || !instructions.Any())
-        //        throw new ApiException("No Investment Methods Found");
-
-        //    var dtoList = instructions.Select(x => new InvestmentInstructionsDTO
-        //    {
-        //        Channel = x.CHANNEL,
-        //        Title = x.TITLE,
-        //        Steps = x.CONTENT
-        //            .Split(';', StringSplitOptions.RemoveEmptyEntries)
-        //            .Select(step => step.Trim())
-        //            .ToList()
-        //    }).ToList();
-
-        //    return ApiResponseWithData<List<InvestmentInstructionsDTO>>.SuccessResponse(dtoList);
-        //}
 
         public async Task<ApiResponseWithData<Dictionary<string, List<InvestmentInstructionsDTO>>>> GetInvestmentInstructions()
         {
@@ -714,13 +696,259 @@ namespace FaysalFunds.Application.Services
             return ApiResponseWithData<IBFTReceiptDetailDTO>.SuccessResponse(responseDto, "Saved successfully.");
         }
 
+        
+
+        public async Task<ApiResponseWithData<CalculateReceiptDTO>> CalculateConversionDetail(CaculateReceiptPayload payload)
+        {
+            
+            
+            // Step 2: Get account info
+            var account = await _accountRepository.GetAccountByAccountId(payload.UserId);
+            if (account == null)
+                throw new ApiException("User account not found.");
+
+            // Step 3: Fetch balance list from internal API
+            var bankResponse = await _famlInternalService.CheckCustomerBalance(new CheckBalanceRequestModel
+            {
+                Folio = payload.FolioNumber,
+                Cnic = account.CNIC,
+                PhoneNo = account.PHONE_NO
+            });
+
+            if (bankResponse?.Data?.CheckBalanceList == null || !bankResponse.Data.CheckBalanceList.Any())
+                throw new ApiException("Bank API did not return any balance records.");
+
+            var folioBalances = bankResponse.Data.CheckBalanceList
+                .Where(x => x.FolioNo == payload.FolioNumber)
+                .ToList();
+
+            if (!folioBalances.Any())
+                throw new ApiException($"No balance records found for folio {payload.FolioNumber}.");
+
+            // Step 4: Get old fund balance and name
+            decimal oldFundBalance = 0;
+            string oldFundName = "";
+            foreach (var fund in folioBalances)
+            {
+                if (int.TryParse(fund.FUNDID, out var fundId) && fundId == payload.OldFundId)
+                {
+                    oldFundBalance = fund.BalanceAmount;
+                    oldFundName = fund.FundName;
+                    break;
+                }
+            }
+
+            if (oldFundBalance <= 0)
+                throw new ApiException($"No balance found for the selected fund (ID: {payload.OldFundId}).");
+
+            // Step 5: Pending total
+            var pendingAmount = await _transactionReceiptDetailRepository
+                .GetPendingTotalAmount(payload.OldFundId, payload.FolioNumber);
+
+            // Step 6: Calculate available balance
+            var availableBalance = oldFundBalance - pendingAmount;
+
+            if (availableBalance <= 0)
+                throw new ApiException($"All available balance is already pending for conversion.");
+
+            // ✅ Step 7: If CheckConvertAll = true, use full available balance as ConversionAmount
+            decimal conversionAmount = payload.CheckConvertAll
+                ? availableBalance
+                : payload.ConversionAmount;
+
+            // Validate again (in case user-provided amount > available)
+            if (conversionAmount > availableBalance)
+                throw new ApiException($"Insufficient balance. Available: {availableBalance}, Requested: {conversionAmount}");
+
+            // Step 8: Get new fund info
+            var newFund = await _kuickPayRepository.GetByIdAsync(payload.NewFundId)
+                          ?? throw new ApiException("Destination fund not found.");
+
+            string newFundName = newFund.FUNDNAME;
+
+            // Step 9: FEL Charges
+            string felString = newFund.FELPERCENTAGE.Replace("%", "").Trim();
+            if (!decimal.TryParse(felString, out decimal felPercentage))
+                throw new ApiException("Invalid FEL percentage format.");
+
+            felPercentage /= 100;
+            decimal felCharges = Math.Round(conversionAmount * felPercentage, 2);
+
+            // Step 10: Calculate total amount (after FEL)
+            decimal totalAmount = conversionAmount - felCharges;
+
+            // Step 11: Prepare DTO
+            var responseDto = new CalculateReceiptDTO
+            {
+                FolioNumber = payload.FolioNumber,
+                FundFrom = oldFundName,
+                FundTo = newFundName,
+                AmountConverted = conversionAmount,
+                FELCharges = felCharges,
+                CGTApplicable = "Applicable", // default for now
+                TotalAmount = totalAmount,
+                AvailableBalanceAtTransaction = availableBalance,
+
+                MonthlyProfit = 1
+            };
+
+            return ApiResponseWithData<CalculateReceiptDTO>.SuccessResponse(
+                responseDto,
+                "Conversion detail calculated successfully."
+            );
+        }
+
+        public async Task<ApiResponseWithData<ConversionReceiptDetailDTO>> SaveConversionReceiptDetail(ConversionReceiptPayload payload)
+        {
+            // ✅ Step 1: Verify T-PIN first
+            //await _transactionPinService.IsTpinGenerated(payload.UserId);
+            //await _transactionPinService.VerifyTransactionPin(new()
+            //{
+            //    AccountOpeningId = payload.UserId,
+            //    Pin = payload.Pin
+            //});
+
+            // ✅ Step 2: Call CalculateConversionDetail to ensure valid + recalculated data
+            var calcPayload = new CaculateReceiptPayload
+            {
+                UserId = payload.UserId,
+                FolioNumber = payload.FolioNumber,
+                OldFundId = payload.OldFundId,
+                NewFundId = payload.NewFundId,
+                ConversionAmount = payload.ConversionAmount,
+                PAYMENTMODE = payload.PAYMENTMODE,
+                CheckConvertAll = payload.CheckConvertAll
+            };
+
+            var calcResponse = await CalculateConversionDetail(calcPayload);
+            var data = calcResponse.Data;
+
+            if (data == null)
+                throw new ApiException("Failed to calculate conversion details.");
+
+            // ✅ Step 3: Get readable Fund Names
+            var newFund = await _kuickPayRepository.GetByIdAsync(payload.NewFundId);
+
+      
+            if (newFund == null)
+                throw new ApiException($"Fund not found for NewFundId {payload.NewFundId}");
+            var ActivePaymentmode = await _transactionFeatureRepository.GetTransactionFeatureById(payload.PAYMENTMODE);
+
+            // ✅ Step 4: Prepare entity for saving
+            var entity = new TransactionReceiptDetails
+            {
+                ACCOUNTID = payload.UserId,
+                FOLIONUMBER = data.FolioNumber,
+                OLD_FUND_ID = payload.OldFundId,
+                NEW_FUND_ID = payload.NewFundId,
+                CONVERSION_AMOUNT = (int)data.AmountConverted,
+                FELCHARGES = data.FELCharges,
+                TOTALAMOUNT = data.TotalAmount,
+                MONTHLYPROFIT = data.MonthlyProfit == 1 ? "Enable" : "Disable",
+                AVAIL_BALANCE_AT_TRANSACTION = (int)data.AvailableBalanceAtTransaction,
+                PAYMENTMODE = payload.PAYMENTMODE,
+                ACKNOWLEDGE = payload.ACKNOWLEDGE,
+                TRANSACTIONTYPE = ActivePaymentmode.FEATURE_GROUP,
+                FUNDNAME =data.FundFrom,
+                FUNDID = payload.OldFundId,
+                STATUS = 1,
+                CREATEDON = DateTime.Now,
+                DATETIME = DateTime.Now
+            };
+
+            var saved = await _transactionReceiptDetailRepository.SaveConversionReceipt(entity);
+            if (!saved)
+                throw new ApiException("Failed to save conversion receipt.");
+
+            // ✅ Step 5: Prepare Response DTO
+            var response = new ConversionReceiptDetailDTO
+            {
+                TransactionId = $"FaysalFundConv{entity.ID}",
+                TransactionType = ActivePaymentmode.FEATURE_GROUP,
+                FolioNumber = data.FolioNumber,
+                FundFrom = data.FundFrom,
+                FundTo = data.FundTo,
+                AmountConverted = data.AmountConverted,
+                FELCharges = data.FELCharges,
+                MonthlyProfit = data.MonthlyProfit,
+                TotalAmount = data.TotalAmount,
+                CreatedOn = entity.CREATEDON
+            };
+
+            return ApiResponseWithData<ConversionReceiptDetailDTO>.SuccessResponse(response, "Conversion saved successfully.");
+        }
+
+
+        public async Task<ApiResponseWithData<RedemptionReceiptDetailDTO>> SaveRedemptionReceiptDetail(RedemptionReceiptPayload payload)
+        {
+            // Step 1: Validate T-PIN
+            await _transactionPinService.IsTpinGenerated(payload.UserId);
+            await _transactionPinService.VerifyTransactionPin(new() { AccountOpeningId = payload.UserId, Pin = payload.Pin });
+
+            // Step 2: Get Bank API balance
+            var bankResponse = await _famlInternalService.CheckCustomerBalance(new CheckBalanceRequestModel
+            {
+                Folio = payload.FolioNumber,
+                Cnic = null,       // optional
+                PhoneNo = null     // optional
+            });
+            if (bankResponse == null)
+                return ApiResponseWithData<RedemptionReceiptDetailDTO>.FailureResponse("Unable to fetch bank balance.");
+
+            var bankBalance = 1500;
+                //(decimal)(bankResponse.Data.CheckBalanceList
+                //.FirstOrDefault(x => x.FolioNo == payload.FolioNumber)?.BalanceAmount ?? 0);
+
+            // Step 3: Get pending total (conversion + redemption)
+            var pendingAmount = await _transactionReceiptDetailRepository.GetPendingTotalAmount(payload.FolioNumber, payload.FundId);
+
+            var effectiveBalance = bankBalance - pendingAmount;
+
+            if (payload.RedemptionAmount > effectiveBalance)
+                return ApiResponseWithData<RedemptionReceiptDetailDTO>.FailureResponse(
+                    $"Insufficient balance. You can only redeem up to {effectiveBalance}."
+                );
+
+            // Step 4: Prepare entity
+            var newReceipt = new TransactionReceiptDetails
+            {
+                FOLIONUMBER = payload.FolioNumber,
+                FUNDID = payload.FundId,
+                PAYMENTMODE = payload.PAYMENTMODE,
+
+                REDEMPTION_AMOUNT = (int)Math.Truncate(payload.RedemptionAmount),
+                AVAIL_BALANCE_AT_TRANSACTION = bankBalance,
+                STATUS = 1, // Pending
+                CREATEDON = DateTime.Now,
+            };
+
+            var added = await _transactionReceiptDetailRepository.SaveRedemptionReceipt(newReceipt);
+
+            if (!added)
+                return ApiResponseWithData<RedemptionReceiptDetailDTO>.FailureResponse("Failed to save redemption.");
+
+            // Step 5: Return response
+            var responseDto = new RedemptionReceiptDetailDTO
+            {
+                TransactionId = $"FaysalFundRed{newReceipt.ID}",
+                FolioNumber = newReceipt.FOLIONUMBER,
+                RedemptionAmount = newReceipt.REDEMPTION_AMOUNT,
+                AvailableBalanceAtTransaction = newReceipt.AVAIL_BALANCE_AT_TRANSACTION,
+                Status = "Pending",
+                CreatedOn = newReceipt.CREATEDON
+            };
+
+            return ApiResponseWithData<RedemptionReceiptDetailDTO>.SuccessResponse(responseDto, "Redemption saved successfully.");
+        }
+
+
         //Select invested Funds
 
 
-        public async Task<ApiResponseWithData<Dictionary<string, List<AlreadyInvestedFundsDTO>>>> SelectinvestedFunds(AccountOpeningRequestModel request)
+        public async Task<ApiResponseWithData<Dictionary<string, List<AlreadyInvestedFundsDTO>>>> SelectinvestedFunds(AlreadyInvestedFundspayload request)
         {
             // Step 1: Get all transactions for this user
-            var accountDetails = await _transactionReceiptDetailRepository.GetByAccountID(request.UserId);
+            var accountDetails = await _transactionReceiptDetailRepository.GetByAccountID(request.UserId,request.FolioNo);
 
             if (accountDetails == null || !accountDetails.Any())
             {
@@ -743,6 +971,7 @@ namespace FaysalFunds.Application.Services
                         // These values are not in InvestmentFunds, adjust as needed
                         TotalAmount = transaction.TOTALAMOUNT,
                         RiskProfile = fund.RISKPROFILE,
+                        FolioNo = transaction.FOLIONUMBER,
 
                     });
                 }

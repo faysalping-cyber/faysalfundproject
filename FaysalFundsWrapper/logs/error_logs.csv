@@ -337,3 +337,4 @@ Date,ErrorId,ErrorMessage,InnerException
 "8/10/2025 7:14:31 PM","992c2652-e526-4e34-bd21-8fd8631d2460","The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.","The operation was canceled."
 "15/10/2025 5:54:07 PM","5acfbbaf-a5cb-4589-96ce-b95dc2c67e32","An error occurred while sending the request.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
 "15/10/2025 6:02:29 PM","a257cc26-0be1-41ad-aeb6-5f338bf90c4c","An error occurred while sending the request.","Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.."
+"21/10/2025 3:25:49 PM","7602e4c7-eee3-451f-a949-b48d4995a640","The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.","A task was canceled."
